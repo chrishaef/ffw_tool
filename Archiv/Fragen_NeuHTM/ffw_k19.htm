@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+<SCRIPT type="text/javascript">
+if (parent.frames.length<4) window.top.location.href="fragebogen.htm";
+
+parent.Index.Thema = 'Sonstige Ger&auml;te';
+parent.Index.LetzteFrage = 6;
+var t = new parent.Index.makeFragen(parent.Index.LetzteFrage);
+
+function FuelleFragen() {
+t[1].ok = "a";
+t[2].ok = "b";
+t[3].ok = "a";
+t[4].ok = "a";
+t[5].ok = "a";
+t[6].ok = "b";
+}
+
+function FuelleAntwort() {
+t[1].frage = "Wie sind Ger&auml;te zur Sicherung von Einsatzstellen gegen den flie&szlig;enden Verkehr bei kurviger Stra&szlig;e aufzustellen?";
+t[1].a = "Sie sind so weit vor dem Sichthindernis aufzustellen, dass sie bei Ann&auml;herung bereits auf Entfernung erkannt werden.";
+t[1].b = "Sie sind 50 m vor der Einsatzstelle aufzustellen.";
+t[1].c = "Die Entfernungen k&ouml;nnen nach eigenem Ermessen beliebig festgelegt werden.";
+t[2].frage = "Ist der Handscheinwerfer mit farbiger Vorsteckscheibe oder Gelblichtkalotte eine zugelassene Warnleuchte im Stra&szlig;enverkehr?";
+t[2].a = "ja";
+t[2].b = "nein";
+t[2].c = "Er ist zugelassen, wenn „Feuerwehr“ aufgedruckt ist.";
+t[3].frage = "Was ist bei einem Einsatz von Handscheinwerfern in explosionsgef&auml;hrdeten Atmosph&auml;ren zu beachten?";
+t[3].a = "Es d&uuml;rfen nur solche Handscheinwerfer eingesetzt werden, durch die eine Z&uuml;ndung der explosionsf&auml;higen Atmosph&auml;re ausgeschlossen ist.";
+t[3].b = "Bei Eins&auml;tzen zur Menschenrettung d&uuml;rfen auch Handscheinwerfer mit offenen Batterien oder Akkumulatoren verwendet werden.";
+t[3].c = "In einer Einsatzsituation darf das Batteriefach auch im explosionsgef&auml;hrdeten Bereich ge&ouml;ffnet werden.";
+t[4].frage = "Welche Warnger&auml;te m&uuml;ssen nach FwDV 1 „Grundt&auml;tigkeiten“ bei der Absicherung auf einer geraden Stra&szlig;e innerorts in 100 m vor der Einsatzstelle aufgestellt werden?";
+t[4].a = "Warndreieck und Verkehrswarnger&auml;t";
+t[4].b = "Warnleuchte, Warndreieck und Verkehrsleitkegel";
+t[4].c = "Warndreieck, Verkehrsleitkegel und Starklichtfackel";
+t[5].frage = "Eine Feuerpatsche ist ein Ger&auml;t ...";
+t[5].a = "... zur Anwendung bei Wald-, Moor- und Wiesenbr&auml;nden.";
+t[5].b = "... zur Anwendung bei Fl&uuml;ssigkeitsbr&auml;nden.";
+t[5].c = "... zur Anwendung bei der Tierrettung.";
+t[6].frage = "Wie k&ouml;nnen &Ouml;lbindemittel auf Fl&uuml;ssigkeitsoberfl&auml;chen aufgebracht werden?";
+t[6].a = "nur mittels spezieller Wurfger&auml;te bzw. Streuger&auml;te";
+t[6].b = "von Hand";
+t[6].c = "nur unter Verwendung von Atemschutz";
+}
+
+</SCRIPT>
+
+</HEAD>
+<BODY onLoad = 'parent.Index.AllesBereit();'>
+&nbsp;
+</BODY>
+</HTML>

@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n";
+      "http://www.w3.org/TR/html4/loose.dtd\">
+
+<HTML>
+<HEAD>
+<title>Eigene Kapitel</title>
+<meta http-equiv='content-type' content='text/html; charset=ISO-8859-1'>
+<link rel="stylesheet" type="text/css" href='ffw.css'>
+</head>
+
+<body>
+<div class='platz'><div class='zettel'>
+ <h4>Navigation</h4>
+ <div class='link'>
+  <a href='startseite.html'>Willkommen</a><br>
+  <a href='ausbildungsstand.html'>Ausbildungsstand</a><br>
+  <a href='einstellungen.html'>Einstellungen</a><br>
+  <a href='benutzer.html'>Benutzer</a><br>
+  <a href='menues.html'>Men&uuml;s</a><br>
+  <a href='toolbar.html'>Toolbar</a><br>
+  <a href='sonstiges.html'>Sonstiges</a><br>
+  <br>
+  <a href='fragebogen_ausdruck.html'>Frageb&ouml;gen&nbsp;ausdrucken</a><br>
+  <a href='eigene_kapitel.html'>Eigene&nbsp;Kapitel&nbsp;erstellen</a><br>
+  <a href='anpassungen.html'>Programm&nbsp;anpassen</a>
+  </div>
+</div></div>
+
+<H1>Eigene Kapitel</h1>
+<p>Um ein neues Kapitel zu erstellen m&uuml;ssen folgende Dinge beachtet werden:</p>
+
+<h3>Das Dateiformat</h3>
+<pre>
+// Kommentarzeile
+
+nnn. Frage
+x Antwort 1
+  Antwort 2
+  Antwort 3
+  Antwort 4
+
+nnn. Frage
+  Antwort 1
+x Antwort 2
+  Antwort 3
+
+</pre>
+
+<h3>Erl&auml;uterung</h3>
+<ul>
+<li>Eine oder mehrere Kommentarzeilen d&uuml;rfen am Anfang oder am Ende stehen und m&uuml;ssen mit je zwei Schr&auml;gstrichen (//) eingeleitet werden.</li>
+<li><b>nnn</b> steht hier f&uuml;r die Nummer der Frage, dann folgt ein Punkt (.) und ein Leerzeichen und dann die eigentliche Frage.</li>
+<li>Die vorgegebene Numerierung der Fragen wird nicht mehr ber&uuml;cksichtigt. Das Programm nummeriert die Fragen automatisch. Das erlaubt sp&auml;ter einfachere &Auml;nderungen.</li>
+<li>Die Antworten folgen direkt in den folgenden Zeilen. Es d&uuml;rfen keine Leerzeilen dazwischen sein.</li>
+<li>Ein x mit einem Leerzeichen vor der Antwort bedeutet: diese Antwort ist richtig. Der besseren Lesbarkeit halber k&ouml;nnen falschen Antworten mit 2 Leerzeichen beginnen.</li>
+<li>Zwischen den einzelnen Fragen muss eine Leerzeile sein. Jede Frage und jede Antwort muss in einer einzelnen Zeile stehen. Dazwischen d&uuml;rfen <b>keine</b> Leerzeilen sein</li>
+<li>Genau eine Antwort muss richtig sein und mit dem x beginnen.</li>
+<li>Mindestens eine Antwort muss falsch sein.</li>
+<li>Es darf h&ouml;chstens 6 Antworten geben. (Eine richtige und 5 falsche Antworten)</li>
+</ul>
+<p>Um eine Beispiel-Datei zu sehen klicke auf <a href="testfragen.txt">Testfragen</a>.</p>
+<h3>Der Datei-Name</h3>
+
+<ul>
+<li>Die Datei muss als Text-Datei mit der Endung .txt gespeichert werden</li>
+<li>Der Datei-Name steht sp&auml;ter in der Kapitel-Auswahl. Er sollte also verst&auml;ndlich und nicht kryptisch sein.</li>
+<li>Der Datei-Name sollte nur aus Buchstaben, Ziffern, Leerzeichen und Bindestrich oder Unterstrich bestehen.</li>
+<li>Der Datei-Name muss eindeutig sein. Er darf also vorher nicht im Verzeichnis Fragen vorkommen</li>
+<li>Die Datei muss in das Unterverzeichnis <b>Fragen</b> kopiert werden.</li>
+</ul>
+<p><b>Hinweis:</b> Das neue Kapitel wird erst nach dem Men&uuml;-Aufruf [Datei], [Kapitel aktualisieren] bzw. nach einem Neustart des Programms angezeigt</p>
+
+<h2>Sp&auml;ter durchgef&uuml;hrte &Auml;nderungen</h2>
+
+<h3>&Auml;nderungen an einer einzelnen Frage</h3>
+<ul>
+<li><b class='rot'>Achtung:</b> JEDE &Auml;nderung an einer Frage oder Antwort wird vom Programm als neue Frage interpretiert! Damit verschwindet auch der alte Ausbildungsstand. Das gilt auch f&uuml;r die Korrektur von Rechtschreibfehlern!</li>
+<li>Zus&auml;tzliche (falsche) Antworten k&ouml;nnen an beliebiger Stelle innerhalb der Antworten eingef&uuml;gt werden</li>
+<li>Falsche Antworten k&ouml;nnen - bis auf eine - nach Belieben gel&ouml;scht werden</li>
+</ul>
+
+<h3>Hinzuf&uuml;gen und L&ouml;schen von Fragen</h3>
+<ul>
+<li>Sp&auml;ter erg&auml;nzte Fragen k&ouml;nnen an beliebiger Stelle in die Datei eingef&uuml;gt werden</li>
+<li>Aus dem Kapitel k&ouml;nnen beliebige Fragen gel&ouml;scht werden. Mit dem L&ouml;schen verschwindet auch der entsprechende Ausbildungsstand.</li>
+<li>Wenn man nach dem L&ouml;schen die Datei unter einen neuen Namen speichert bleibt der Ausbildungsstand erhalten. So kann man z.B. aus einer Datei f&uuml;r die Wettkampfgruppe eine leichtere Version f&uuml;r die Jugendfeuerwehr basteln.</li>
+</ul>
+
+<h2>Formatierung und Bilder</h2>
+
+<h3>Bilder</h3>
+<p>Bilder k&ouml;nnen sowohl bei den Fragen als auch bei den Antworten verwendet werden. Dabei ist folgendes zu beachten:</p>
+
+<ul>
+<li>Die Bilddatei muss am Anfang der Frage bzw. Antwort <b>vor</b> dem Text in der Form <bildname.typ> eingef&uuml;gt werden.</li>
+<li>Die Bilddatei muss sich im Verzeichnis Bilder befinden</li>
+<li>Der Name der Bilddatei muss mit einem Buchstaben beginnen und darf dann weitere Buchstaben, Ziffern, Bindestriche oder Unterstriche enthalten. Nicht erlaubt sind Leerzeichen, Umlaute, oder Sonderzeichen</li>
+<li>Die Dateityp muss 'jpg', 'png','gif' oder 'bmp' sein.</li>
+<li>Die Bildbreite sollte nicht mehr als 200 Pixel und die Bildh&ouml;he sollte nicht mehr als 120 Pixel betragen.</li>
+</ul>
+
+<p>Ein Beispiel mit einem Bild in der Frage</p>
+
+<pre>
+nnn. &lt;bildname.typ&gt;Frage
+x Antwort 1
+  Antwort 2
+  Antwort 3
+  Antwort 4
+</pre>
+
+<p>Stand: 14. Nov. 2012</p>
+</body>
+</html>

@@ -1,0 +1,42 @@
+// *********************************************
+// *                                           *
+// * Beispiel für eine LiesMich-Datei          *
+// *                                           *
+// *********************************************
+
+// 1.) Kommentare
+// Eine Zeile die mit // beginnt ist ein Kommentar wie dieser und wird nicht weiterverarbeitet
+// Eise Zeile die mit einer Raute beginnt wird ebenfalls als Kommentar angesehen und nicht weiterverarbeitet
+
+// 2.) Überschriften 
+
+// 2.1) Überschriften 1. Ordnung
+// Eine Zeile die mit einem :-Zeichen beginnt wird zur Überschrift 1. Ordnung
+:Überschrift 1. Ordnung 
+
+// 2.2) Überschriften 2. Ordnung
+// Eine Zeile die mit einem %-Zeichen beginnt wird zur Überschrift 2. Ordnung 
+%Ich bin eine Überschrift 2. Ordnung 
+
+// 2.3) Überschriften 3. Ordnung
+// Eine Zeile die mit einem ! (Ausrufezeichen)-Zeichen beginnt wird zur Überschrift 3. Ordnung
+!Ich bin eine Überschrift 3. Ordnung
+
+// 3.) Text-Absätze
+// Eine normale Zeile wird zu einem einfachen Text-Absatz
+Dies ist eine einfacher Text-Absatz. Dies ist der 2. Satz im einfachen Text-Absatz. Ich bin der 3. Satz in diesem Text-Absatz.
+Nun folgt ein neuer Textabsatz.
+
+// 4.) Bilder
+// Eine Zeile die mit <bildname.xxx> beginnt zeigt rechtsbündig das eingeschlossene Bild.
+// Das Bild muss sich, wie auch diese Datei, im Verzeichnis Anpassungen befinden
+<startbild.jpg>Ich bin ein Text-Absatz mit einem Bild. Das Bild wird standardmäßig auf der rechten Seite angezeigt. Dieser Text fließt dann um das Bild herum.  Dieser Text fließt dann um das Bild herum. Dieser Text fließt dann um das Bild herum.
+Und noch eine neuer Text-Absatz aber diesmal ohne ein Bild.
+
+// 5.) Leerzeilen
+// Leerzeilen bleiben unberücksichtigt. Das gleich gilt für mehrere Leerzeichen. Auf manuelle Zeilenumbrüche aus OPTISCHEN Gründen sollte grundsätzlich verzichtet werden da die Anzeigebreite auf jedem Bildschirm anders ist. 
+
+//Nach dem Bildnamen wird wieder nach dem 1. Zeichen gesucht. D. h. auch die Überschriften
+//können Bilder enthalten z.B.: <bildname.xxx>:Willkommen
+
+Stand: 4. Nov. 2012

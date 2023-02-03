@@ -1,0 +1,98 @@
+// Verhalten bei Gefahr.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:19:49 Uhr
+
+1. In welchem Abstand muss, innerhalb geschlossener Ortschaften, mit der Absicherung der Einsatzstelle gegen den fließenden Verkehr begonnen werden?
+  50 Meter
+x 100 Meter
+  200 Meter
+
+2. Während des Vollbrands eines Hauses platzen beim Nachbarhaus durch Wärmeübertragung Fensterscheiben. Um welche Art der Wärmeübertragung handelt es sich hier?
+  um Wärmemitführung
+  um Wärmeleitung
+x um Wärmestrahlung
+
+3. Welche Möglichkeit ist nicht geeignet, um bei Einsatzkräften einer Angst- oder Panikreaktion vorzubeugen?
+  eine allgemein gute Ausbildung
+  das Trainieren von Notfallsituationen
+x das Verschweigen von gefährlichen Situationen, um andere nicht zu verunsichern
+
+4. Welche Aussage über die Gefahr durch Atemgifte ist richtig?
+  Atemgifte werden nur über die Atmung aufgenommen.
+x Atemgifte können durch verschmutzte Einsatzkleidung verschleppt werden.
+  Bei Atemgiften handelt es sich stets um Gase.
+
+5. Welches ist keine geeignete Möglichkeit, beim Atemschutzeinsatz in verrauchten Bereichen das Auffinden des Rückweges sicherzustellen?
+x eine stabile Funkverbindung
+  die Rückwegsicherung mittels Feuerwehrleine
+  die Rückwegsicherung mittels Schlauchleitung
+
+6. Beim Absuchen der Räume eines verrauchten Gebäudes gelangt ein Trupp an eine Tür zu einem Raum, der als elektrischer Betriebsraum gekennzeichnet ist. Welche Aussage bezüglich des weiteren Vorgehens trifft zu?
+  Die Tür wird vorschriftsmäßig geöffnet und auch dieser Raum abgesucht.
+x Der Trupp meldet die Lage an den Gruppenführer und wartet auf weitere Anweisungen.
+  Der Trupp lässt die Tür außer Acht und geht weiter vor.
+
+7. Welche Aussage über die Anwendung von Löschschaum bei der Brandbekämpfung unter Spannung stehender elektrischer Anlagen ist richtig?
+x Mit Mehrbereichsschaummittel erzeugter Schaum ist elektrisch leitend und darf nicht eingesetzt werden.
+  Schaum ist elektrisch isolierend und darf generell bedenkenlos eingesetzt werden.
+  Es darf nur Schwerschaum eingesetzt werden.
+
+8. Bei welcher Einsatzsituation kann es beim Einsatz eines Belüftungsgerätes zu einer Explosion kommen?
+  beim Belüften eines CO2 gefluteten Raumes
+  bei der Verdünnung einer freigesetzten Chlorwolke
+x bei der Brandbekämpfung in einer Schreinerei
+
+9. Welche Maßnahmen schützen im Einsatz vor der Gefahr einer Explosion?
+x das Ablegen von Mobiltelefon und Funkalarmempfänger bereits im Feuerwehrhaus
+  das Nasshalten der Feuerschutzkleidung
+  der Einsatz genormter Geräte
+
+10. Welche Aussage zur Selbstsicherung mit dem Feuerwehr-Haltegurt ist falsch?
+  Der Anschlagpunkt muss sich immer oberhalb des Feuerwehr-Haltegurtes befinden.
+x Der Karabinerhaken des Sicherungsseiles wird am Festpunkt eingeklinkt.
+  Der Karabinerhaken des Sicherungsseiles wird in die Halteöse am Gurt eingeklinkt.
+
+11. Mit welchem Knoten wird eine Feuerwehrleine an einem Festpunkt angeschlagen?
+  mit dem Zimmermannsschlag
+  mit einem doppelten Ankerstich
+x mit einem Mastwurf, gesichert durch einen Spierenstich
+
+12. Sie werden im Rahmen eines Hochwassereinsatzes tätig. Welche Gefahren können hierbei vorhanden sein?
+  nur die Gefahr der Elektrizität durch unter Wasser stehende elektrische Anlagen oder Leitungen
+x Durch Keime im Wasser können Krankheiten ausgelöst werden.
+  Für Einsatzkräfte, die schwimmen können, bestehen hierbei keine Gefahren.
+
+13. Ein Feuerwehrangehöriger nimmt unter Medikamenteneinfluss an einem Einsatz teil. Welche Folge kann dieses haben?
+  Da die Krankheitssymptome ausgeschaltet sind, ist mit keinerlei Folgen zu rechnen.
+x Hohe körperliche Anforderungen können zu einer gefährlichen Überlastung führen.
+  Der Einsatzleiter ist zu informieren, damit dieser sich um eine eventuelle ärztliche Versorgung vor Ort kümmert.
+
+14. Bei welchen Einsatzsituationen kann es zur Rauchgasdurchzündung kommen?
+  LKW-Reifenbrand in einem Freilager
+  Flächenbrand
+x Lagerhallenbrand
+
+15. Mit welcher Farbe werden Druckgasbehälter für brennbare Gase, außer Acetylen, gekennzeichnet?
+  Grün
+  Gelb
+x Rot
+
+16. Bei einem Brand sehen Sie mehrere Gasflaschen mit unterschiedlichem Farbanstrich. Welche Kombination Farbe / Gas ist richtig?
+  Grau / Acetylen
+  Braun / Stickstoff
+x Rot / brennbare Gase
+
+17. In welchem Abstand muss auf Kraftfahrstraßen mit getrennten Richtungsfahrbahnen mit der Absicherung der Einsatzstelle gegen den fließenden Verkehr begonnen werden?
+  400 m
+  600 m
+x 800 m
+
+18. Wie lautet die Merkregel zu den Gefahren der Einsatzstelle?
+x 4A-1C-4E
+  3A-1B-1C-3E
+  ACE-Regel
+
+19. Welcher Sicherheitsabstand gilt bei einsturzgefährdeten Gebäudeteilen?
+  Gebäudehöhe x 2
+x Gebäudehöhe x 1,5
+  generell 10 m
+

@@ -1,0 +1,99 @@
+// alt Löschwasserversorgung.txt
+// automatisch übersetzt am 18 Jun 2009 um 22:00:59 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. Wie heißt die Löschwasserversorgung aus dem Rohrleitungsnetz einer Gemeinde?
+  Die Löschwasserversorgung hat keine besondere Bezeichnung.
+x Sie heißt zentrale Wasserversorgung.
+  Man nennt sie gesammelte Löschwasserversorgung.
+
+2. Ein Schachtbrunnen hat einen Zufluss von 200_l/min. Im Brunnen befinden sich 36_m³ Wasser. Wie lange können 800_l/min aus diesem Brunnen entnommen werden?
+x ca.       60 min
+  ca. 1 h 20 min
+  ca. 2 h 40 min
+
+3. Wer ist nach dem Hessischen Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz für eine den örtlichen Verhältnissen angemessene Löschwasserversorgung einer Gemeinde verantwortlich?
+  Das Wasserwerk hat für eine ausreichende Löschwasserversorgung zu sorgen.
+  Der Stadtbrandinspektor / der Gemeindebrandinspektor ist dafür verantwortlich.
+x Die Gemeinde hat für eine ausreichende Löschwasserversorgung zu sorgen.
+
+4. Wie heißt eine künstlich angelegte Entnahmestelle für Löschwasser aus dem Grundwasser?
+  Löschwasserbehälter
+  Löschwasserteich
+x Löschwasserbrunnen
+
+5. Wie groß soll der Abstand zwischen Hydranten in geschlossenen Wohngebieten ungefähr sein?
+  ca.   50 m
+x ca. 120 m
+  ca. 140 m
+
+6. Welche Bedeutung hat die Zahl 150_nach dem Buchstaben H_auf einem Hinweisschild für Unterflurhydranten?
+x Der Durchmesser der Versorgungsleitung, an die der Hydrant angeschlossen ist,  	beträgt 150_mm.
+  Der Hydrant liegt in einer Entfernung von 150_m vom Objekt.
+  Der Hydrant liefert ca. 150 l Wasser pro Minute.
+
+7. Wie viel Wasser liefern ein BM- und ein CM-Strahlrohr bei einem Strahlrohrdruck von 5_bar in 10_Minuten, wenn beide Strahlrohre ohne Mundstück eingesetzt sind?
+x ca. 10.000 l
+  ca.   8.000 l
+  ca.   5.000 l
+
+8. Zu welcher Art der Löschwasserversorgung zählt die Wasserentnahme aus Flüssen, Seen oder Teichen?
+x Sie zählen zur unabhängigen Löschwasserversorgung.
+  Sie zählen zur abhängigen Löschwasserversorgung.
+  Sie zählen zur allgemeinen Löschwasserversorgung.
+
+9. Bei welcher Art von Wasserversorgung ist das Vorhandensein von Hydranten notwendig?
+x bei der zentralen Wasserversorgung
+  bei der unabhängigen Löschwasserversorgung
+  bei der erschöpflichen Löschwasserversorgung
+
+10. Wie bezeichnet man die beiden Arten der Wasserversorgung?
+x zentrale Wasserversorgung und unabhängige Wasserversorgung
+  offene Gewässer und Hydranten
+  Löschwasserteiche und Zisternen
+
+11. Welche der aufgeführten Löschwasserentnahmestellen gehört nicht zur "Unabhängigen Löschwasserversorgung"?
+  ein Löschwasserteich
+x ein Hydrant
+  ein Fluss
+
+12. Welche Anschlussweiten haben genormte Überflurhydranten ohne Fallmantel?
+  nur 100 mm
+  100 mm und 150 mm
+x 80 mm und 100 mm
+
+13. Auf welche nachstehend aufgeführten Unterflurhydranten passen die genormten Standrohre der Feuerwehren?
+x nur auf Unterflurhydranten der Nennweite 80_mm
+  nur auf Unterflurhydranten der Nennweite 100_mm
+  auf Unterflurhydranten der Nennweiten 80_mm und 100_mm
+
+14. Welche Anschlussweiten haben genormte Überflurhydranten mit Fallmantel?
+  Überflurhydranten mit Fallmantel gibt es nur in der Anschlussweite 100_mm.
+  Überflurhydranten mit Fallmantel gibt es in den Anschlussweiten 80_mm und  100_mm.
+x Überflurhydranten mit Fallmantel gibt es in den Anschlussweiten 100_mm und  150_mm.
+
+15. Welche Anschlussweiten haben genormte Unterflurhydranten?
+  Unterflurhydranten gibt es nur in der Anschlussweite 100_mm.
+x Unterflurhydranten gibt es in den Anschlussweiten 80_mm und 100_mm.
+  Unterflurhydranten gibt es in den Anschlussweiten 100_mm und 150_mm.
+
+16. Was ist unter einer "unabhängigen Löschwasserversorgung" zu verstehen?
+x Sie ist unabhängig von einer Zentralen Wasserversorgung.
+  Sie ist unabhängig von Zuflüssen oder Niederschlägen.
+  Sie ist eine ausschließlich natürliche Wasserversorgung.
+
+17. Wo ist die Verantwortlichkeit für die Löschwasserversorgung in Hessen gesetzlich geregelt?
+  in den Verträgen der Versorgungsbetriebe
+x im Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz
+  in den Ortssatzungen der Feuerwehren
+
+18. Welches sind künstliche Entnahmestellen für Löschwasser bei einer unabhängigen Löschwasserversorgung?
+  Überflurhydranten und Unterflurhydranten
+x Löschwasserteiche, Löschwasserbrunnen, unterirdische Löschwasserbehälter
+  Flüsse, Bäche und Seen
+
+19. Wie bezeichnet man gemäß DIN 14 230 überdeckte und künstlich angelegte Behälter für Löschwasser, die mit einer oder mehreren Löschwasserentnahmestellen versehen sind?
+x Unterirdische Löschwasserbehälter
+  Löschwasserteiche
+  Löschwasserbrunnen
+

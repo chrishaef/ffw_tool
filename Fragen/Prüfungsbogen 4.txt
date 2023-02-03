@@ -1,0 +1,293 @@
+// 3.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:20:00 Uhr
+
+1. Welche Aussage zu Anschlagpunkten ist richtig?
+  Anschlagpunkte müssen waagerecht verlaufen.
+x Der Anschlagpunkt muss sich immer oberhalb des Feuerwehr-Haltegurtes befinden.
+  Am Anschlagpunkt darf nur mit Endlosbandschlingen angeschlagen werden.
+
+2. Wie viele Personen dürfen eine aufgerichtete Schiebleiter gleichzeitig besteigen?
+x Nach der FwDV 10 „Die tragbaren Leitern“ darf die Schiebleiter nur mit zwei Personen gleichzeitig bestiegen werden.
+  pro Leiterteil immer nur eine Person
+  Sie kann gleichzeitig mit zwei Trupps bestiegen werden.
+
+3. Wie wird eine Steckleiter auf engem Raum in Stellung gebracht?
+  Auf engem Raum kann eine Steckleiter nicht vorgenommen werden.
+x Die Leiterpaare werden auseinander genommen und durch Untersetzen verlängert.
+  Die Leiterteile werden paarweise senkrecht durch Untersetzen verlängert.
+
+4. Wie viele Personen dürfen eine aufgerichtete Steckleiter gleichzeitig besteigen?
+  eine Person
+x zwei Personen
+  drei Personen
+
+5. Wie groß muss der Sicherheitsabstand beim Aufrichten einer Leiter in der Nähe einer elektrischen Freileitung mit mehr als 220.000 Volt Spannung mindestens sein?
+  mindestens 3 m
+  mindestens 4 m
+x mindestens 5 m
+
+6. Wie groß muss der notwendige Sicherheitsabstand beim Aufrichten einer Leiter in der Nähe einer elektrischen Freileitung mit 30 000 Volt Spannung mindestens sein?
+x mindestens 3 m
+  mindestens 1 m
+  mindestens 2 m
+
+7. Welches Obergeschoss kann in der Regel mit der 4-teiligen Steckleiter erreicht werden?
+  das erste Obergeschoss
+x das zweite Obergeschoss
+  das dritte Obergeschoss
+
+8. Mit welchem Knoten wird nach der FwDV 10 „Die tragbaren Leitern“ das Zugseil der ausgezogenen dreiteiligen Schiebleiter befestigt?
+x mit einem Mastwurf
+  mit einem doppelten Mastwurf
+  mit einem doppelten Ankerstich
+
+9. Welchen Anstellwinkel muss eine angestellte tragbare Leiter haben?
+  Der Anstellwinkel der Leiter muss 48° bis 52° betragen.
+x Der Anstellwinkel der Leiter muss 65° bis 75° betragen.
+  Der Anstellwinkel der Leiter muss 78° bis 85° betragen.
+
+10. Wo ist nach der FwDV 10 „Die tragbaren Leitern“ eine Steckleiter vor dem Aufrichten abzulegen?
+  etwa drei Schritte vor dem Objekt
+x etwa einen Schritt vor dem Objekt
+  direkt am Objekt
+
+11. Wofür können nach der FwDV 10 „Die tragbaren Leitern“ tragbare Leitern eingesetzt werden?
+  nur als Rammbock zum Aufbrechen verschlossener Türen
+  nur zum Erreichen von Zielen oberhalb der Standebene
+x als Rettungsweg, Angriffsweg und als Hilfsgerät
+
+12. Wie viele Steckleiterteile werden maximal benötigt, um das erste Obergeschoss (Oberkante Brüstung ca. 5 m) sicher zu erreichen?
+  zwei Steckleiterteile
+x drei Steckleiterteile
+  vier Steckleiterteile
+
+13. Wie viele Steckleiterteile dürfen höchstens zusammengesteckt werden, damit die Leiter noch bestiegen werden darf?
+x vier Steckleiterteile
+  fünf Steckleiterteile
+  sechs Steckleiterteile
+
+14. Wodurch sind Steckleiterteile nach dem Einstecken gesichert?
+  durch Beschläge
+  durch Fallhaken
+x durch Federsperrbolzen
+
+15. Welches Obergeschoss kann mit der 4-teiligen Steckleiter maximal erreicht werden?
+x das zweite Obergeschoss (Oberkante Brüstung = 7,5 m über Erdboden)
+  das dritte Obergeschoss (Oberkante Brüstung = 10,5 m über Erdboden)
+  das erste Obergeschoss
+
+16. Bis in welche Höhe darf eine Schlauchleitung über eine tragbare Leiter von einem Feuerwehrangehörigen mitgeführt werden?
+  das ist generell verboten
+x bis zum ersten Obergeschoss
+  bis zum zweiten Obergeschoss
+
+17. Bis zu welchem seitlichen Winkel darf ein Strahlrohr von einer Leiter eingesetzt werden?
+  10° zu beiden Seiten
+x 15° zu beiden Seiten
+  20° zu beiden Seiten
+
+18. Welche Warngeräte müssen nach FwDV 1 „Grundtätigkeiten“ bei der Absicherung auf einer geraden Straße innerorts in 100 m vor der Einsatzstelle aufgestellt werden?
+x Warndreieck und Verkehrswarngerät
+  Warnleuchte, Warndreieck und Verkehrsleitkegel
+  Warndreieck, Verkehrsleitkegel und Starklichtfackel
+
+19. Wie können Ölbindemittel auf Flüssigkeitsoberflächen aufgebracht werden?
+  nur mittels spezieller Wurfgeräte bzw. Streugeräte
+x von Hand
+  nur unter Verwendung von Atemschutz
+
+20. Sie sind als angerufene Sprechfunkbetriebsstelle nicht in der Lage, eine Nachricht sofort aufzunehmen. Welche Anrufantwort ist zu verwenden?
+  „Hier (Rufname) - ich habe keine Zeit - ENDE“
+  „Hier (Rufname) - ich kann Sie nicht aufnehmen - ENDE“
+x „Hier (Rufname) - warten!“
+
+21. Im Digitalfunknetz der BOS werden die Betriebsarten „Netzbetrieb“ (TMO - Trunked Mode Operation) und „netzunabhängiger Betrieb“ (DMO - Direct Mode Operation) unterschieden. Welche Aussage ist hierzu richtig?
+  Die Betriebsart „Netzbetrieb“ (TMO) ist für Feuerwehren nicht vorgesehen und wird nur von der Polizei verwendet.
+  Die Betriebsart „netzunabhängiger Betrieb“ (DMO) ist ausschließlich in Gebäuden zulässig.
+x In der Betriebsart „netzunabhängiger Betrieb“ (DMO) können zwei oder mehrere Teilnehmer direkt miteinander kommunizieren, ohne auf die Netzinfrastruktur selbst zugreifen zu müssen.
+
+22. Welche Aussage trifft für die Rufart „Einzelruf“ in der Betriebsart „Netzbetrieb“ (TMO  -Trunked Mode Operation) zu?
+  Der Einzelruf ist in der Betriebsart „Netzbetrieb“ (TMO) nur mit Handfunkgeräten möglich.
+  Der Einzelruf entspricht dem Linienverkehr im Analogfunk. Alle Teilnehmer hören das laufende Funkgespräch mit, dürfen jedoch nicht an der Kommunikation teilnehmen.
+x Unter dem Einzelruf wird eine Punkt-zu-Punkt-Verbindung zwischen zwei Teilnehmern verstanden.
+
+23. Wer ist für das Endgeräte-Management, die Anwenderbetreuung und für den prozessorientierten Service in seinem Zuständigkeitsbereich für den Digitalfunk in Hessen verantwortlich?
+  die Landeskoordinierungsstelle Digitalfunk (LKD)
+x der Servicepoint
+  die Landesbetriebsstelle Digitalfunk (LBD)
+
+24. Welche Nachrichten werden im Funknetz der nichtpolizeilichen BOS in Hessen mit den Worten “Achtung, Achtung“ eingeleitet?
+  Nachrichten mit dem Vermerk „Blitz“
+  Nachrichten mit dem Vermerk „Sofort“
+x Alarmnachrichten
+
+25. Buchstabieren Sie das Wort „FALSCH“ nach der „Buchstabiertafel Inland“. Ich buchstabiere:
+  Foxtrott, Alpha, Lima, Sierra, Charlie, Hotel
+x Friedrich, Anton, Ludwig, Schule
+  Friedrich, Anna, Leopold, Schule
+
+26. Unter welchen Bedingungen dürfen nichtpolizeiliche BOS in Hessen Funkbetriebsübungen im 4-m-Wellenbereich durchführen?
+  auf Anordnung des nächsten Vorgesetzten und nur auf einem Übungskanal, Bandlage und Verkehrsart beliebig
+  nur auf dem Betriebskanal, Bandlage „U“, Verkehrsart „W“
+x nur im Rahmen einer funkbetrieblichen Weisung der zuständigen Betriebsleitung
+
+27. Welche Aussage ist zu dem Funkrufnamen „Florian Mücke 7-47-14“ zutreffend?
+  Es handelt sich um das 14te TSF-W der Gemeinde Mücke.
+x Es handelt sich um das vierte Handsprechfunkgerät des Florian Mücke 7-47-1.
+  Dieser Funkrufname entspricht nicht dem Sonderschutzplan „AB 2 Plan 2 Funkrufnamenkatalog 2011“ und ist daher ungültig.
+
+28. An einer Einsatzstelle der Feuerwehr wird im Sprechfunkbetrieb zu der primär genutzten Gruppe eine zweite Gruppe im netzunabhängigen Betrieb (DMO) benötigt. Welche Gruppe darf verwendet werden?
+x Es kann unverzüglich die Gruppe 302F geschaltet werden. Das Umschalten befiehlt die Betriebsleitung, in diesen Fall der Einsatzleiter.
+  Es muss eine Gruppe über die zuständige zentrale Leitstelle bei der Landesbetriebsstelle Digitalfunk (LBD) beantragt werden. Erst nach Bestätigung durch die LBD darf die neue Gruppe genutzt werden.
+  Es kann als zweite Gruppe aus dem Gruppen-Ordner „Feuerwehr“ jede Gruppe (301F, 302F, 303F, 304F, 305F, 306F+) beliebig gewählt und ohne weitere Befehle verwendet werden.
+
+29. Welche Aussage über die Aufgaben des Angriffstrupps im Hilfeleistungseinsatz ist richtig?
+  Er sichert die Einsatzstelle und nimmt das hierfür erforderliche Gerät vor.
+x Er rettet und leistet technische Hilfe.
+  Er bereitet die befohlenen Geräte für den Einsatz vor, betreibt und überwacht sie zusammen mit dem Maschinisten.
+
+30. Welche Ausrüstungsgegenstände nimmt der Angriffstrupp im Hilfeleistungseinsatz vor?
+  das hydraulische Rettungsgerät und ein Strahlrohr
+x die Ausrüstungsgegenstände, die der Einheitsführer befiehlt
+  Sanitätskasten, Trage oder Rettungstuch, Verbandkasten oder Notfallrucksack, Gerätesatz „Absturzsicherung“ und Wolldecke
+
+31. Wer stellt die zur Rettung befohlenen Geräte bereit, wenn der Schlauchtrupp nicht zur Verfügung steht?
+  der Melder und der Maschinist
+x der Angriffstrupp
+  der Wassertrupp
+
+32. Welche Sicherungsaufgaben im Hilfeleistungseinsatz werden durch den Wassertrupp ohne besonderen Befehl vorgenommen?
+x Der Wassertrupp nimmt keine Sicherungsaufgaben ohne besonderen Befehl wahr, er wartet auf die Weisungen des Gruppenführers.
+  Der Wassertrupp sichert automatisch gegen die Brandgefahr, gegen herabfallende Teile, gegen gefährliche Stoffe, gegen Dunkelheit und gegen den fließenden Verkehr.
+  Der Wassertrupp sichert durch Unterbauen das verunfallte Fahrzeug, bevor der Angriffstrupp eine erste Öffnung zu einer eingeklemmten Person schaffen darf.
+
+33. Beim Hilfeleistungseinsatz wird die Ordnung des Raumes gegliedert in…
+  Gefahrenbereich und Absperrbereich
+  Gefahrenbereich und Bereitstellungsbereich
+x Gefahrenstelle, Arbeitsbereich und Absperrbereich
+
+34. Wie müssen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) die Übenden bei Selbstrettungsübungen gegen Absturz zusätzlich gesichert sein?
+  durch das Anlegen einer Mehrzweckleine am Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt
+x durch das Anlegen einer Sicherungsleine
+  durch das Anlegen von zwei zusätzlichen Mehrzweckleinen an den Oberarmen
+
+35. Welcher Prüfung unterliegen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) Feuerwehr-Haltegurte/Feuerwehr-Sicherheitsgurte nach jeder Benutzung?
+x Feuerwehr-Haltegurte/Feuerwehr-Sicherheitsgurte müssen einer Sichtprüfung unterzogen werden.
+  Sie müssen einer Sicht- und Belastungsprüfung unterzogen werden.
+  Sie müssen einer Funktionsprüfung unterzogen werden.
+
+36. Bis zu welcher Höhe dürfen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemalsGUV-V C 53) Selbstrettungsübungen unter besonderen Sicherungsmaßnahmen durchgeführt werden?
+  Bis zu einer Höhe von 6 Metern sind Selbstrettungsübungen erlaubt.
+x Bis zu einer Höhe von 8 Metern sind Selbstrettungsübungen erlaubt.
+  Bis zu einer Höhe von 10 Metern sind Selbstrettungsübungen erlaubt.
+
+37. Worauf bezieht sich der Geltungsbereich der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53)?
+x Der Geltungsbereich bezieht sich auf Feuerwehreinrichtungen und den Feuerwehrdienst.
+  Der Geltungsbereich bezieht sich nur auf Einsatzstellen und Übungen.
+  Der Geltungsbereich bezieht sich nur auf Einsatzstellen, insbesondere auf die Rettung von Menschenleben.
+
+38. Welche Mindestabstände sind nach FwDV 10 „Die tragbaren Leitern“ bei Annäherung an elektrische, unter Spannung stehende Anlagen einzuhalten?
+  bis 1 000 Volt 1 Meter, über 220 000 Volt mindestens 1 Meter
+  bis 1 000 Volt 1 Meter, über 220 000 Volt mindestens 3 Meter
+x bis 1 000 Volt 1 Meter, über 220 000 Volt mindestens 5 Meter
+
+39. Welcher Sicherheitsabstand ist nach FwDV 10 „Die tragbaren Leitern“ mit Leitern in der Nähe von elektrischen Freileitungen mit einer Spannung von 110 000 Volt mindestens einzuhalten?
+x 3 Meter
+  4 Meter
+  5 Meter
+
+40. Wo ist die Art der Durchführung der regelmäßigen Prüfungen von Ausrüstungen und Geräten nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) festgelegt?
+x in den Prüfgrundsätzen für Ausrüstung und Geräte der Feuerwehr
+  in den Feuerwehr-Dienstvorschriften
+  in den Feuerschutzgesetzen der Bundesländer
+
+41. Wie ist ein Schlauch beim Besteigen einer Leiter zu tragen?
+  Das Strahlrohr wird zwischen Feuerwehr-Haltegurt / Feuerwehr-Sicherheitsgurt und Körper gesteckt.
+  Der Schlauch wird mit einem Schlauchhalter am Körper befestigt.
+x Der Schlauch wird über der Schulter getragen, das Strahlrohr wird nicht zwischen Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und Körper gesteckt.
+
+42. Von wie vielen Personen muss nach der FwDV 1 „Grundtätigkeiten“ ein Sprungtuch ohne Unterstützung im Einsatz im Untergriff in Schulterhöhe gehalten werden?
+  von mindestens 10 Personen
+  von mindestens 15 Personen
+x von mindestens 16 Personen
+
+43. Bis zu welcher Höhe dürfen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) Sprungübungen mit dem Sprungtuch durchgeführt werden?
+  bis zu 8 m
+x Sprungübungen mit dem Sprungtuch sind laut UVV verboten.
+  bis zu 6 m
+
+44. Welche Rechtsvorschrift ist gesetzliche Grundlage der Unfallversicherung?
+  das Bürgerliche Gesetzbuch
+  die UVVen
+x das Sozialgesetzbuch
+
+45. Welches Ereignis zählt zu einem Feuerwehrdienstunfall?
+x ein Arbeitsunfall und ein Wegeunfall
+  ein Arbeitsunfall und eine Berufskrankheit
+  eine Berufskrankheit und ein Wegeunfall
+
+46. Ein Feuerwehrangehöriger hat sich beim Einsatz eine leichte Schnittverletzung zugezogen, die mit einem Pflasterverband versorgt worden ist. Welche Aussage ist zutreffend?
+  Es ist grundsätzlich eine Unfallanzeige zu erstellen.
+x Grundsätzlich sollten auch kleinere Verletzungen in das Verbandbuch eingetragen werden.
+  Es ist eine Unfallanzeige zu erstellen und zusätzlich der Unfall in dem Verbandbuch zu dokumentieren.
+
+47. Was ist beim Betrieb von elektrischen Betriebsmitteln zur Vermeidung eines Stromschlags zu beachten?
+  Sie dürfen nur mit einem Personenschutzschalter betrieben werden.
+x Sie sollen nur an den Stromerzeugern der Feuerwehr angeschlossen werden.
+  Sie dürfen in Ausnahmefällen an einem anderen Speisepunkt ohne Personenschutzschalter betrieben werden.
+
+48. Was ist nach UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) nach jeder Benutzung von ortsveränderlichen elektrischen Betriebsmitteln zu beachten?
+x Es ist eine Sichtprüfung durchzuführen.
+  Es ist eine Funktionsprüfung durchzuführen.
+  Es ist eine Sicht- und Funktionsprüfung durchzuführen.
+
+49. In welchem Abstand muss, innerhalb geschlossener Ortschaften, mit der Absicherung der Einsatzstelle gegen den fließenden Verkehr begonnen werden?
+  50 Meter
+x 100 Meter
+  200 Meter
+
+50. Welche Aussage über die Anwendung von Löschschaum bei der Brandbekämpfung unter Spannung stehender elektrischer Anlagen ist richtig?
+x Mit Mehrbereichsschaummittel erzeugter Schaum ist elektrisch leitend und darf nicht eingesetzt werden.
+  Schaum ist elektrisch isolierend und darf generell bedenkenlos eingesetzt werden.
+  Es darf nur Schwerschaum eingesetzt werden.
+
+51. Welche Maßnahmen schützen im Einsatz vor der Gefahr einer Explosion?
+x das Ablegen von Mobiltelefon und Funkalarmempfänger bereits im Feuerwehrhaus
+  das Nasshalten der Feuerschutzkleidung
+  der Einsatz genormter Geräte
+
+52. Welche Aussage zur Selbstsicherung mit dem Feuerwehr-Haltegurt ist falsch?
+  Der Anschlagpunkt muss sich immer oberhalb des Feuerwehr-Haltegurtes befinden.
+x Der Karabinerhaken des Sicherungsseiles wird am Festpunkt eingeklinkt.
+  Der Karabinerhaken des Sicherungsseiles wird in die Halteöse am Gurt eingeklinkt.
+
+53. Bei einem Brand sehen Sie mehrere Gasflaschen mit unterschiedlichem Farbanstrich. Welche Kombination Farbe / Gas ist richtig?
+  Grau / Acetylen
+  Braun / Stickstoff
+x Rot / brennbare Gase
+
+54. In welchem Abstand muss auf Kraftfahrstraßen mit getrennten Richtungsfahrbahnen mit der Absicherung der Einsatzstelle gegen den fließenden Verkehr begonnen werden?
+  400 m
+  600 m
+x 800 m
+
+55. Wie lautet die Merkregel zu den Gefahren der Einsatzstelle?
+x 4A-1C-4E
+  3A-1B-1C-3E
+  ACE-Regel
+
+56. Bei einer geschlossenen Förderstrecke fördert man den Förderstrom …
+  von einer Pumpe in einen Löschwasserbehälter.
+x von einer Pumpe in die nächste Pumpe.
+  von einer Pumpe in die Strahlrohre.
+
+57. Welche Aussage bezüglich des Förderstroms bei einer Löschwasserförderung ist richtig?
+  Der Förderstrom ändert sich proportional der Förderlänge.
+x Der Förderstrom ändert sich durch Änderung der Abgabemenge.
+  Der Förderstrom ändert sich bei einer ruhenden Löschwasserförderstrecke.
+
+58. Wie ändert sich der Druckverlust, bezogen auf die Veränderung der Streckenlänge bei einer Löschwasserförderstrecke?
+x Er verändert sich proportional.
+  Er verändert sich im Quadrat der Entfernung.
+  Er verändert sich durch Veränderung der Streckenlänge nicht.
+

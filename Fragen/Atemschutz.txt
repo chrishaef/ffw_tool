@@ -1,0 +1,188 @@
+// Atemschutz.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:17:53 Uhr
+
+1. Wann spricht die akustische Warneinrichtung eines Behältergerätes mit Druckluft an?
+  zwischen 55 und 65 bar
+x zwischen 50 und 60 bar
+  zwischen 45 und 55 bar
+
+2. Welche der nachgenannten Atemschutzgeräte arbeiten umluftunabhängig?
+x die Behältergeräte
+  die Brandfluchthauben
+  die Filtergeräte
+
+3. Wie wirken Atemgifte mit erstickender Wirkung auf den Körper des Menschen?
+  Sie haben eine schädigende Wirkung auf Blut, Nerven oder Zellen.
+  Sie zerstören durch ihre Reizwirkung die Lungenbläschen.
+x Sie verdrängen den Sauerstoff der Umluft und führen dadurch zur Sauerstoffminderversorgung der Zellen.
+
+4. In welche Atemgiftgruppe gehört Blausäure (HCN)?
+  zu den Atemgiften mit erstickender Wirkung
+  zu den Atemgiften mit Reiz- und Ätzwirkung
+x zu den Atemgiften mit Wirkung auf Blut, Nerven und Zellen
+
+5. Welche Einsatzsituationen nach der FwDV 7 „Atemschutz“ erfordern das Tragen eines Chemikalienschutzanzuges (CSA)?
+  jeder Feuerwehreinsatz
+  immer dann, wenn Atemgifte oder Sauerstoffmangel zu erwarten sind
+x insbesondere bei der Gefahr einer Hautschädigung durch Gase und Dämpfe oder deren Aufnahme über die Haut
+
+6. Durch welche Maßnahme kann der Flüssigkeitsverlust des Feuerwehrangehörigen, der beim Tragen eines Atemschutzgerätes auftritt, ausgeglichen werden?
+x durch eine Getränkeaufnahme nach dem Einsatz
+  durch eine Ruhepause nach dem Einsatz
+  durch regelmäßige Mahlzeiten
+
+7. Welche Faktoren bestimmen unter anderem den Sauerstoffbedarf des Menschen maßgeblich?
+  Der Sauerstoffbedarf ist immer gleich.
+x die körperliche Fitness und der Ausbildungsstand
+  die Tageszeit
+
+8. Warum ist es wichtig, dass der vorgehende Atemschutztrupp regelmäßige Rückmeldungen mittels Sprechfunk an den Einheitsführer gibt?
+x Für den Einheitsführer sind die Informationen aus dem Inneren eines Gebäudes zur Beurteilung der Lage wichtig.
+  um einer elektrostatischen Aufladung des Sprechfunkgerätes entgegenzuwirken
+  Durch diese Maßnahme kann der Rückweg des vorgehenden Trupps gesichert werden.
+
+9. Welche Voraussetzungen muss ein Feuerwehrangehöriger bei einer Tätigkeit unter Chemikalienschutzanzug (CSA) erfüllen?
+x Er muss an einer anerkannten Ausbildungsstätte als Atemschutzgeräteträger und zusätzlich als CSA-Träger erfolgreich ausgebildet worden sein.
+  Er muss lediglich eine Unterweisung am CSA nachweisen können.
+  Keine, er darf aber kein Vollbartträger sein.
+
+10. Warum ist Kohlenstoffmonoxid (CO) ein gefährliches Atemgift?
+  weil es sich leicht mit den weißen Blutkörperchen verbindet
+  weil es ab 8 Vol.-% im Blut eine lähmende Wirkung des Atemzentrums hervorruft
+x weil es mit dem Hämoglobin (Farbstoff der roten Blutkörperchen) eine feste Verbindung eingeht und somit die Sauerstoffaufnahme verhindert
+
+11. Was machen Sie nach einem Einsatz mit Ihrem Atemschutzgerät?
+  Sie wechseln die Atemluftflasche, führen eine Einsatzkurzprüfung durch und Verlasten das Atemschutzgerät auf das Löschfahrzeug.
+x Sie veranlassen die Wartung des Atemschutzgerätes (einschließlich des Atemanschlusses) in Abstimmung mit dem Fahrzeugführer.
+  Sie waschen die Vollmaske mit Seife kurz aus, wischen sie mit einem Papiertuch trocken und legen sie wieder ins Löschfahrzeug.
+
+12. Wodurch kann eine Atemkrise entstehen?
+  durch tiefes und langsames Ein- und Ausatmen
+x durch zu flaches und hastiges Ein- und Ausatmen
+  durch die Zwerchfell- bzw. Bauchatmung
+
+13. Darf der im Feuerwehrdienst gebräuchliche Atemfilter (ABEK2-P3) eingesetzt werden, wenn der CO-Gehalt der Umluft mehr als 0,5 Vol.-% beträgt?
+  Ja, wenn sonst keine Giftstoffe in der Umluft vorhanden sind.
+x nein
+  Ja, da die CO-Konzentration bis zu 2 Vol.-% keine Schädigung hervorruft.
+
+14. Welche Voraussetzung muss ein Feuerwehrangehöriger bei Tätigkeiten unter Atemschutz erfüllen?
+  Er muss lediglich eine Unterweisung am Behältergerät nachweisen können.
+  Keine, er darf aber kein Vollbartträger sein.
+x Er muss zum Zeitpunkt des Einsatzes gesund sein.
+
+15. In welcher Feuerwehrdienstvorschrift ist die Aus- und Fortbildung für Träger von Chemikalienschutzanzügen (CSA) geregelt?
+x in der FwDV 7 „Atemschutz“
+  in der FwDV 2 „Ausbildung der Freiwilligen Feuerwehr“
+  in der FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“
+
+16. Was ist nach dem Verlassen des Gefahrenbereiches durch den Atemschutztrupp einzuleiten?
+  Eine Kurzprüfung der verwendeten Atemschutzgeräte ist durchzuführen.
+x Eine Rückmeldung an den Einheitsführer ist abzugeben.
+  Eine Maskendichtprobe ist durchzuführen.
+
+17. Welchen Behälterdruck muss ein einsatzbereiter Pressluftatmer aufweisen?
+x Ein 300 bar-Gerät muss einen Behälterdruck von 270 bar aufweisen.
+  Ein 300 bar-Gerät muss einen Behälterdruck von 250 bar aufweisen.
+  Ein 200 bar-Gerät muss einen Behälterdruck von 170 bar aufweisen.
+
+18. Wie sind ausgebildete Atemschutzgeräteträger nach der FwDV 7 „Atemschutz“ unter anderem fortzubilden?
+  Es ist monatlich eine Einsatzübung durchzuführen.
+  Wiederholungsübungen sind nicht erforderlich.
+x Es muss vor Ablauf von 12 Monaten mindestens eine Wiederholungsübung in einer Atemschutzübungsanlage durchgeführt werden.
+
+19. Wie lange reicht der Atemluftvorrat eines Pressluftatmers bei mittlerer Belastung des Atemschutzgeräteträgers aus?
+  höchstens 10 Minuten
+x ca. 30 bis 40 Minuten
+  ca. 60 bis 70 Minuten
+
+20. Welche Prüfung muss der Atemschutzgeräteträger vor dem Einsatz am Pressluftatmer vornehmen?
+  die 6-Jahres-Prüfung
+  die Überprüfung des Druckminderers
+x die Überprüfung der Einsatzbereitschaft vor dem Einsatz (Kurz- und Funktionsprüfung)
+
+21. Wie kann der Träger eines Atemschutzgerätes eine Atemkrise vermeiden?
+  indem er die Atemschutzmaske vom Gesicht reißt
+  durch möglichst schnelles Atmen mit häufigen kurzen Pausen
+x durch ruhiges und tiefes Durchatmen
+
+22. Sie wollen mit der Luft Ihres Pressluftatmers sparsam umgehen. Wie können Sie das erreichen?
+x den Lungenautomat bei längerem Anmarschweg erst vor dem Gefahrenbereich anschrauben lassen
+  das Atemschutzgerät erst beim Erkennen der Atemgifte anlegen
+  die Ventile der Atemluftflaschen erst im Gefahrenbereich öffnen
+
+23. Welchen Zweck erfüllt der Lungenautomat an einem Behältergerät?
+  Er steuert die Funktion der Lunge des Geräteträgers.
+x Er steuert die Abgabe der Atemluftmenge an den Geräteträger.
+  Er reduziert den Flaschendruck auf Mitteldruck.
+
+24. Welches Atemgift entsteht hauptsächlich beim Verbrennen von Polyvinylchlorid (PVC)?
+  Blausäuredämpfe
+x Salzsäuredämpfe
+  Fluorwasserstoff
+
+25. Welche Hilfsmittel können im Innenangriff zum Öffnen einer Tür „in Angriffsrichtung“ vom Truppführer verwendet werden?
+  Hohlstrahlrohr
+x Feuerwehraxt, Seilschlauchhalter
+  Türen werden grundsätzlich ohne Hilfsmittel geöffnet, um ein schnelleres Vorgehen zu ermöglichen.
+
+26. Welche Aussage über die Brandfluchthaube ist richtig?
+  Die Brandfluchthaube schützt eine Person vor allen Atemgiften.
+  Die Brandfluchthaube schützt eine zu rettende Person vor Sauerstoffmangel.
+x Die Rettung über tragbare Leitern ist im Regelfall einer Rettung durch verrauchte Bereiche mittels Brandfluchthaube vorzuziehen.
+
+27. In welche Gruppe der Atemgifte ist Kohlenstoffdioxid einzuordnen?
+  Atemgifte mit erstickender Wirkung
+  Atemgifte mit Reiz- und Ätzwirkung
+x Atemgifte mit Wirkung auf Blut, Nerven und Zellen
+
+28. Welche Aufgaben hat der Sicherheitstrupp beim Einsatz von Atemschutzgeräten?
+x bei Notfällen dem eingesetzten Trupp zu Hilfe zu kommen
+  die Brandbekämpfung durchzuführen
+  Gebäude nach vermissten Personen abzusuchen
+
+29. In welchem Aggregatzustand können Atemgifte vorkommen?
+x fest, flüssig und/oder gasförmig
+  nur flüssig
+  nur gasförmig
+
+30. Warum sind Atemschutzmasken mit einer Innenmaske ausgestattet?
+  zum besseren Schutz der Nase
+x zur Verkleinerung des Totraumes
+  zur Verbesserung der Verständigung
+
+31. Durch welche Maßnahmen kann die von der UVV Feuerwehren geforderte ständige Verbindung zwischen Atemschutzgeräteträger und Feuerwehrangehörigen, die sich im ungefährdeten Bereich aufhalten, sichergestellt werden?
+  durch Kontakt mittels Feuerwehrleine
+  Es ist keine Verbindung erforderlich.
+x durch Kontakt über eine Sprechfunkverbindung
+
+32. Unter welchen Voraussetzungen darf ein ausgebildeter Atemschutzgeräteträger unter einem Chemikalienschutzanzug (CSA) eingesetzt werden?
+  bereits nach erfolgreichem Abschluss des Atemschutzgeräteträgerlehrgangs
+x wenn er nach der arbeitsmedizinischen Vorsorgeuntersuchung G 26.3 tauglich ist und eine Zusatzausbildung für CSA-Träger entsprechend FwDV 7 „Atemschutz“ absolviert hat
+  nach Anweisung durch den Einsatzleiter
+
+33. Wie wirkt Chlor als Atemgift auf den menschlichen Körper?
+  Es wirkt direkt schädigend auf das zentrale Nervensystem.
+  Es wirkt schädigend auf das Blut.
+x Es wirkt schädigend auf die Atemorgane und zerstört die Lungenbläschen.
+
+34. Der Atemschutztrupp (zwei Feuerwehrangehörige) geht zu einem Brandeinsatz vor. Beim Vorgehen im verrauchten Bereich hängt die mitgeführte Schlauchleitung fest. Wie ist die richtige Vorgehensweise?
+  Der Truppmann geht zurück und führt die Schlauchleitung nach.
+  Der Truppführer geht zurück und führt die Schlauchleitung nach.
+x Der Trupp geht zurück und führt die Schlauchleitung nach.
+
+35. Warum ist es wichtig, nach Rücksprache mit dem Einheitsführer, Lüftungsmaßnahmen in verrauchten Bereichen durchzuführen?
+  Um dem Melder das Betreten der Räume zu ermöglichen.
+x Um die Sichtverhältnisse zu verbessern und somit ein schnelleres Auffinden des Brandherdes oder von Personen zu ermöglichen.
+  Um die heterogene Löschwirkung des Wassers zu verbessern.
+
+36. Worauf muss der Atemschutztrupp im Rahmen der Erstorientierung achten?
+x auf die Gebäudeabmaße (Länge, Breite, Höhe)
+  auf die Fahrzeugaufstellung
+  Nur auf die Anzahl der benötigten Schlauchreserve
+
+37. Im Atemschutzeinsatz müssen die Kommunikationswege eingehalten werden. Welche Aussage trifft zu?
+  Der Angriffstrupp übermittelt seine Lagemeldungen an den Maschinisten.
+x Der Angriffstrupp übermittelt seine Lagemeldungen an den Einheitsführer.
+  Der Angriffstrupp übermittelt seine Lagemeldungen nur nach Aufforderung.
+

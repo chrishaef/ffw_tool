@@ -1,0 +1,38 @@
+body {
+ font: normal normal 100.1% Verdana, Helvetica, sans-serif;
+ color: black;
+ background-color: #fff;
+ margin:5px 15px;
+}
+
+.kopf {
+ font: normal bold 150% Verdana, Helvetica, sans-serif;
+ border-bottom:solid 1px black;
+ padding:0.5em 0 0 0;
+}
+
+h1 {
+	font-size: 200%;
+	color:#115;
+	margin:0.2em 0 0.5em 0;
+	padding: 0;
+  clear: both;
+}
+
+h2 {
+	font-size: 145%;
+	color:#226;
+	margin:0.4em 0 0 0;
+  clear: both;
+}
+
+h3 {
+	font-size: 115%;
+	line-height:140%;
+	color:#339;
+	padding:0;
+	margin:1em 0;
+	background: none;
+  clear: both;
+}
+

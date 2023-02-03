@@ -1,0 +1,47 @@
+<HTML>
+<HEAD>
+<SCRIPT type="text/javascript">
+if (parent.frames.length<4) window.top.location.href="fragebogen.htm";
+
+parent.Index.Thema = 'Brandsicherheitsdienst';
+parent.Index.LetzteFrage = 5;
+var t = new parent.Index.makeFragen(parent.Index.LetzteFrage);
+
+function FuelleFragen() {
+t[1].ok = "c";
+t[2].ok = "c";
+t[3].ok = "b";
+t[4].ok = "b";
+t[5].ok = "a";
+}
+
+function FuelleAntwort() {
+t[1].frage = "Welche &ouml;ffentliche Feuerwehr leistet den Brandsicherheitsdienst bei einer Veranstaltung im B&uuml;rgerhaus der Gemeinde B-Dorf?";
+t[1].a = "Jede &ouml;ffentliche Feuerwehr kann den Brandsicherheitsdienst im B&uuml;rgerhaus B-Dorf leisten.";
+t[1].b = "Welche Feuerwehr den Brandsicherheitsdienst leistet, wird durch die Brandschutzdienststelle festgelegt.";
+t[1].c = "Nur die &ouml;ffentliche Feuerwehr der Gemeinde B-Dorf leistet den Brandsicherheitsdienst.";
+t[2].frage = "Wer bestimmt Art und Umfang des Brandsicherheitsdienstes?";
+t[2].a = "Der Leiter des Ordnungsamtes";
+t[2].b = "Die Brandschutzdienststelle";
+t[2].c = "Die Leitung der Feuerwehr";
+t[3].frage = "Was geh&ouml;rt zu den Aufgaben eines Brandsicherheitsdienstes vor Beginn der Veranstaltung?";
+t[3].a = "Erstellen eines Bestuhlungsplanes.";
+t[3].b = "Rundgang durch den Kontrollbereich durchf&uuml;hren.";
+t[3].c = "Besetzen der Brandmeldezentrale, damit Alarmierungen direkt an den Wachhabenden gemeldet werden k&ouml;nnen.";
+t[4].frage = "In welcher Reihenfolge sind die Ma&szlig;nahmen bei einem Brand innerhalb einer Versammlungsst&auml;tte abzuarbeiten?";
+t[4].a = "Erkundung, Brandbek&auml;mpfung, L&ouml;sch- und Sicherheitseinrichtungen ausl&ouml;sen, zust&auml;ndige Brandmeldestelle informieren, Einweisung der anr&uuml;ckenden Einsatzkr&auml;fte veranlassen.";
+t[4].b = "Zust&auml;ndige Brandmeldestelle informieren, Erkundung, Brandbek&auml;mpfung, L&ouml;sch- und Sicherheitseinrichtungen ausl&ouml;sen, Einweisung der anr&uuml;ckenden Einsatzkr&auml;fte veranlassen.";
+t[4].c = "L&ouml;sch- und Sicherheitseinrichtungen ausl&ouml;sen, Erkundung, Brandbek&auml;mpfung, zust&auml;ndige Brandmeldestelle informieren, Einweisung der anr&uuml;ckenden Einsatzkr&auml;fte veranlassen.";
+t[5].frage = "Welche Ma&szlig;nahmen sind bei einem Brand au&szlig;erhalb der Versammlungsst&auml;tte sofort zu ergreifen?";
+t[5].a = "Die zust&auml;ndige Brandmeldestelle ist sofort zu alarmieren.";
+t[5].b = "Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverz&uuml;glich zur Brandmeldezentrale um dort durch den Wachhabenden weitere Befehle zu erhalten.";
+t[5].c = "Die Posten, die den Brand au&szlig;erhalb der Versammlungsst&auml;tte bemerkt haben, beginnen unverz&uuml;glich mit L&ouml;scharbeiten.";
+}
+
+</SCRIPT>
+
+</HEAD>
+<BODY onLoad = 'parent.Index.AllesBereit();'>
+&nbsp;
+</BODY>
+</HTML>

@@ -1,0 +1,163 @@
+// ABC-Gefahrstoffe.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:17:44 Uhr
+
+1. Wie nennt man die Aufnahme von Gefahrstoffen in den Körper?
+x Inkorporation
+  Inkontinenz
+  Kontamination
+
+2. Wo steht die Gefahrnummer?
+  in der unteren Hälfte der orangefarbenen Warntafel
+x in der oberen Hälfte der orangefarbenen Warntafel
+  auf dem Gefahrzettel
+
+3. Welche Bedeutung hat ein „X“ im Zusammenhang mit der Gefahrnummer?
+  Der Stoff ist reizend oder gesundheitsschädlich.
+  Der Stoff ist explosionsgefährlich.
+x Der Stoff reagiert gefährlich mit Wasser.
+
+4. Was ist eine Kontamination?
+  Kontamination ist die Aufnahme eines Gefahrstoffes in den Körper.
+x Kontamination ist die Verschmutzung von Oberflächen mit einem Gefahrstoff.
+  Kontamination ist die Aufnahme gefährlicher Strahlung.
+
+5. Wie kann Inkorporation stattfinden?
+  nur durch den Mund
+x durch Körperöffnungen und über die Haut
+  nur über offene Verletzungen
+
+6. Wo steht die Stoffnummer?
+x in der unteren Hälfte der orangefarbenden Warntafel
+  in der oberen Hälfte der orangefarbenden Warntafel
+  auf dem Gefahrzettel
+
+7. Welche der folgenden Beschreibungen kennzeichnet einen Gefahrzettel?
+x ein Quadrat, das auf der Spitze steht
+  eine orangefarbene Tafel ohne Beschriftung
+  ein orangefarbenes Rechteck mit Zusatzsymbol, wie z. B. Flamme oder Totenkopf
+
+8. Bei einem Werkstattbrand erkennen Sie einen Flaschenwagen mit zwei Druckgasflaschen. Eine der Flaschen hat eine kastanienbraune Farbe. Um welche Gase kann es sich hierbei handeln?
+  um Kohlenstoffdioxid und Sauerstoff
+x um Acetylen und Sauerstoff
+  um Stickstoff und Kohlenstoffdioxid
+
+9. Sie gehen bei einem GABC-Einsatz zur Menschenrettung vor. Welche der folgenden Aussagen ist richtig?
+  Zur Menschenrettung darf im GABC-Einsatz nur geschützt durch einen Chemikalienschutzanzug vorgegangen werden.
+  Da zur Menschenrettung höchste Eile geboten ist, wird kein PA benötigt.
+x Es ist darauf zu achten, dass keine Hautpartien frei liegen.
+
+10. Welche der folgenden Aussagen ist richtig?
+x Die Einwirkung mechanischer Energie auf den Körper ist zu verhindern.
+  Eine Kontamination ist gefährlicher als eine Inkorporation.
+  Kontaminationsverschleppung ist unproblematisch.
+
+11. Durch welche Regel legt die FwDV 500 „Einheiten im ABC-Einsatz“ die Erstmaßnahmen fest, die auch von den Einsatzkräften, die nicht über eine entsprechende Ausrüstung und Ausbildung für den GABC-Einsatz verfügen, durchgeführt werden können?
+  die ZIEGE-Regel
+x die GAMS-Regel
+  die HUND-Regel
+
+12. Sie sind als Angriffstruppmann eingesetzt und sehen an einer Schadenstelle eine Druckgasflasche mit rotem Anstrich. Welches Gas kann diese Druckgasflasche enthalten?
+x Wasserstoff
+  Schutzgase
+  Acetylen
+
+13. Was versteht man unter dem Begriff „Kontamination“?
+x eine äußere Verunreinigung mit GABC-Stoffen
+  eine Aufnahme von GABC-Stoffen in den Körper
+  eine Leckage an einem Behälter, der GABC-Stoffe enthält
+
+14. Sie sind als Angriffstruppmann eingesetzt und nehmen zur Brandbekämpfung ein C-Rohr vor. An der Brandstelle finden Sie Packstücke, die mit einem quadratischen, auf der Spitze stehenden blauen Gefahrzettel gekennzeichnet sind. Welche Bedeutung hat dieser Gefahrzettel?
+  Die Verpackung enthält wässerige Stoffe.
+  Die Verpackung und der Inhalt können mit Wasser gelöscht werden.
+x Der Inhalt der Verpackung entwickelt bei Berührung mit Wasser entzündbare Gase.
+
+15. An einem verunfallten LKW befindet sich eine orangefarbene Warntafel mit Ziffern. Welche Bedeutung haben diese Ziffern?
+x obere Ziffern Gefahrnummer, untere Ziffern UN-Nummer
+  obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer
+  obere Ziffern Gefahrnummer, untere Ziffern EU-Nummer
+
+16. Auf einer orangefarbenen Warntafel befindet sich in der oberen Hälfte die Ziffer 225. Welche Eigenschaften hat der transportierte Stoff?
+x tiefgekühlt verflüssigtes Gas, oxidierend (brandfördernd)
+  besonders gasförmiges Gas, ansteckungsgefährlich
+  brennbarer flüssiger Stoff, der Gase entwickelt, die giftig sind
+
+17. Auf einer orangefarbenen Warntafel befindet sich in der oberen Hälfte die Ziffer 23. Welche Eigenschaften hat der transportierte Stoff?
+  brennbarer flüssiger Stoff, der Gase oder Dämpfe entwickelt
+  brennbarer gasförmiger Stoff, der flüssig wird
+x entzündbares Gas
+
+18. Auf einer orangefarbenen Warntafel befindet sich in der oberen Hälfte die Ziffer 606. Welche Eigenschaften hat der transportierte Stoff?
+  giftiger Stoff, der giftige Dämpfe entwickelt
+x ansteckungsgefährlicher Stoff
+  Das ist offensichtlich ein Schreibfehler, es muss 66 heißen.
+
+19. Welche Stoffe sind in der FwDV 500 „Einheiten im ABC-Einsatz“ der Maßnahmengruppe 2 zugeordnet?
+x alle verdichteten, verflüssigten oder unter Druck gelösten Gase
+  alle brennbaren Flüssigkeiten, die Dämpfe entwickeln
+  nur die giftigen gasförmigen Stoffe
+
+20. Wie kann die Inkorporation von chemischen Stoffen an der Einsatzstelle vermieden werden?
+  durch den Einsatz von geeigneten Messgeräten
+x durch geeigneten Atemschutz
+  durch Feuerschutzkleidung
+
+21. Auf einer orangefarbenen Warntafel befindet sich vor der Ziffer in der oberen Hälfte ein X. Welche Bedeutung hat dieses X?
+  Die Angaben auf der Warntafel sind ungültig (durchgestrichen).
+  Das Ladegut darf im Brandfall mit Wasser gelöscht werden.
+x Berührung des Ladegutes mit Wasser verhindern.
+
+22. Was wird in einem Eisenbahn-Kesselwagen transportiert, der mit einem 300 mm breiten orangefarbenen Ring in der Längsachse gekennzeichnet ist?
+  brennbare flüssige Stoffe
+  Acetylen
+x verflüssigte Gase
+
+23. Welche brennbaren Stoffe haben einen Explosionsbereich?
+  Alle leichtentzündlichen Stoffe haben einen Explosionsbereich.
+x Gase, Dämpfe, Nebel oder Stäube in Luft haben einen Explosionsbereich.
+  Alle flüssigen Gase haben einen Explosionsbereich.
+
+24. Welches Löschmittel müssen Sie verwenden, wenn auf einer orangefarbenen Warntafel die Gefahrnummer „X423“ und die Stoffnummer „1428“ steht?
+  Wasser
+  Luftschaum
+x Metallbrandpulver
+
+25. Welche Feuerwehrdienstvorschrift (FwDV) legt die Regeln für den Einsatz mit GABC-Stoffen fest?
+  die FwDV 100
+  die FwDV 14
+x die FwDV 500
+
+26. Welche schriftlichen Informationsquellen befinden sich im Fahrerhaus eines LKWs, der Gefahrgut in kennzeichnungspflichtiger Menge transportiert?
+  das Hommel-Merkblatt
+x die schriftlichen Weisungen
+  dem Stoff entsprechende ERI-CARD
+
+27. Welche Aussage ist anhand der Kennzeichnung eines Eisenbahn-Kesselwagens mit einem 300 mm breiten orangefarbenen Streifen um die Längsachse des Tanks möglich?
+  Es werden Explosivstoffe befördert.
+x Es werden verflüssigte Gase befördert.
+  Es wird Säure befördert.
+
+28. Welche Maßnahme bietet wirksamen Schutz vor Inkorporation von GABC-Stoffen?
+  Deckung suchen
+  Abschirmung nutzen
+x Atemschutz tragen
+
+29. Welche Maßnahme bietet Schutz vor der äußeren Einwirkung von GABC-Stoffen?
+x Abstand halten
+  Inkorporation ausschließen
+  Atemschutz tragen
+
+30. Eine kontaminierte verletzte Person wird vom Angriffstrupp gerettet. Welche der folgenden Aussagen bezüglich der anschließenden Notdekontamination ist richtig?
+x Lebensrettende Sofortmaßnahmen gehen vor jeder Dekontamination.
+  Der Verletzte darf keinesfalls mit Wasser abgespült werden.
+  Das abfließende Spülwasser muss auf jeden Fall aufgefangen werden.
+
+31. Wie wird bei einer Notdekontamination mit Wasser zum Entfernen des Gefahrstoffs von der Haut einer kontaminierten Person vorgegangen?
+  Der Gefahrstoff wird mit großem Druck von der Haut gespült.
+x Das Wasser wird drucklos auf die kontaminierte Stelle aufgebracht.
+  Der Gefahrstoff wird ergänzend zum Abspülen mit einer Bürste abgerieben.
+
+32. <IMG SRC='fluessig_brennbar.gif' WIDTH=100 Height=95 ALIGN=RIGHT alt=''>Der Angriffstrupp erkennt an einem verunfallten LKW folgenden roten Großzettel mit schwarzem Flammensymbol: Welche Eigenschaften hat der transportierte Stoff?
+  brennbar, gasförmig
+  brennbar, fest
+x brennbar, flüssig
+

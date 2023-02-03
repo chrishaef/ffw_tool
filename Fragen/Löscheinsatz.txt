@@ -1,0 +1,403 @@
+// Löscheinsatz.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:38 Uhr
+
+1. Woraus besteht eine taktische Einheit?
+x aus der Mannschaft und den Einsatzmitteln
+  aus der Mannschaft und dem Fahrzeug
+  aus der Mannschaft und dem Einheitsführer
+
+2. Wo tritt die Mannschaft nach der FwDV 3 nach dem Kommando „Absitzen“ an?
+  grundsätzlich hinter dem Fahrzeug
+x Grundsätzlich hinter dem Fahrzeug. In besonderen Einsatzlagen ist eine Abweichung davon möglich, die Stelle bestimmt der Einheitsführer.
+  immer vor dem Fahrzeug
+
+3. Wer nimmt nach der FwDV 3 in der Regel das erste einzusetzende Strahlrohr vor?
+  der Wassertrupp
+  der Schlauchtrupp
+x der Angriffstrupp
+
+4. Wer bestimmt die Fahrzeugaufstellung?
+  der Maschinist
+x der Einheitsführer
+  der Trupp, der als erstes eingesetzt wird
+
+5. Wer unterstützt nach der FwDV 3 auf Befehl die Atemschutzüberwachung an der Einsatzstelle?
+x der Maschinist
+  der Melder
+  der Einheitsführer
+
+6. Welche der nachfolgenden Aufgaben übernimmt der Angriffstrupp nach der FwDV 3?
+  Er sichert gegen fließenden Verkehr.
+  Er baut die Wasserversorgung zwischen Hydrant und Löschfahrzeug auf.
+x Er verlegt seine Schlauchleitung selbst, sofern kein Schlauchtrupp zur Unterstützung bereitsteht.
+
+7. Wer bringt nach der FwDV 3 auf Befehl tragbare Leitern in Stellung?
+  der Angriffstrupp und der Wassertrupp
+  der Angriffstrupp
+x der Wassertrupp und der Schlauchtrupp
+
+8. Wer setzt nach der FwDV 3 den Verteiler?
+  der Maschinist
+  der Wassertrupp
+x der Angriffstrupp
+
+9. Wer unterstützt ggf. den Maschinisten bei der Entnahme der fahrbaren Schlauchhaspel?
+  der Angriffstrupp
+x der Wassertrupp
+  der Schlauchtrupp
+
+10. Welche der nachfolgenden Aufgaben übernimmt der Wassertrupp nach der FwDV 3?
+x Er stellt die Wasserversorgung zwischen Löschfahrzeug und Verteiler her.
+  Er nimmt in der Regel das erste Rohr vor.
+  Er legt ausreichend C-Druckschläuche zur Vornahme weiterer Strahlrohre am Verteiler bereit.
+
+11. Wer wird nach der FwDV 3 bei einem Atemschutzeinsatz des Angriffstrupps ohne besonderen Befehl zum Sicherheitstrupp?
+x der Wassertrupp
+  der Schlauchtrupp
+  der Melder in Zusammenarbeit mit dem Maschinisten
+
+12. Wie gliedert sich nach der FwDV 3 die Mannschaft einer Gruppe?
+x in Gruppenführer und acht weitere Einsatzkräfte
+  in Mannschaft und Gerät
+  in Mannschaft und Löschfahrzeug
+
+13. Wer bestimmt nach der FwDV 3 die Anzahl der benötigten Saugschläuche?
+  der Angriffstruppführer
+  der Einheitsführer
+x der Wassertruppführer
+
+14. Wer bringt nach der FwDV 3 bei einem Einsatz einer Gruppe die Tragkraftspritze in Stellung?
+  der Angriffstrupp und der Wassertrupp
+x der Wassertrupp und der Schlauchtrupp
+  der Angriffstrupp und der Schlauchtrupp
+
+15. Wer kommandiert nach der FwDV 3 bei einem Einsatz einer Gruppe bei der Wasserentnahme aus offenem Gewässer „Saugleitung zu Wasser!“?
+  der Einheitsführer
+x der Wassertruppführer
+  der Schlauchtruppführer
+
+16. Wer rüstet sich nach der FwDV 3 bei einem Einsatz einer Gruppe mit B-Rohr mit dem BM-Strahlrohr und dem Stützkrümmer aus?
+  der Schlauchtrupp
+  der Wassertrupp
+x der Angriffstrupp
+
+17. Wer verlegt nach der FwDV 3 bei einem Einsatz einer Gruppe mit B-Rohr die B-Rollschläuche vom Verteiler zum befohlenen Ziel?
+x der Angriffs- und der Schlauchtrupp
+  der Angriffs- und der Wassertrupp
+  der Angriffstrupp
+
+18. Wer verlegt nach der FwDV 3 bei einem Einsatz einer Gruppe mit B-Rohr die B-Schlauchleitung mit der fahrbaren Schlauchhaspel bis zum befohlenen Ziel?
+x der Wassertrupp
+  der Schlauchtrupp
+  der Angriffstrupp
+
+19. Wer rüstet sich nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe mit dem Schaumstrahlrohr aus?
+  der Angriffstruppführer
+x der Angriffstruppmann
+  der Angriffstruppmann oder der Angriffstruppführer
+
+20. Was stellt der Schlauchtrupp nach der FwDV 3 bei der Vornahme eines Schaumrohres am Verteiler bereit?
+x den Zumischer, den D-Ansaugschlauch sowie die Schaummittelbehälter
+  nur die Schaummittelbehälter
+  nur den Zumischer
+
+21. Wer bedient nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe den Zumischer?
+  der Maschinist
+x der Schlauchtruppführer
+  der Schlauchtruppmann
+
+22. Wer stellt nach der FwDV 3 bei der Vornahme eines Schaumrohres die Verfügbarkeit des Schaummittels am Zumischer sicher?
+  der Maschinist
+x der Schlauchtruppmann
+  der Schlauchtruppführer
+
+23. Wer kuppelt nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe den Zumischer in die Schlauchleitung ein?
+  der Angriffstrupp
+  der Wassertrupp
+x der Schlauchtrupp
+
+24. Wer stellt nach der FwDV 3 bei der Vornahme eines Schaumrohres die Verbindung zwischen Zumischer und Schaummittelbehälter her?
+  der Wassertrupp
+x der Schlauchtrupp
+  der Angriffstrupp
+
+25. Welche taktische Einheit ist mindestens notwendig, um einen Innenangriff mit Atemschutzgeräten durchführen zu können?
+  eine Gruppe
+x eine Staffel
+  ein Trupp
+
+26. Wer unterstützt nach der FwDV 3 die Trupps bei der Entnahme der Geräte vom Fahrzeug?
+  der Melder
+  Die Trupps erhalten keine Unterstützung.
+x der Maschinist
+
+27. Wer verlegt nach der FwDV 3 die C-Schlauchleitung für den Angriffstrupp bei Vornahme des ersten Rohres?
+  der Wassertrupp
+x Der Angriffstrupp verlegt seine Leitung selbst, sofern kein Schlauchtrupp zur Verfügung steht.
+  der Wassertruppmann und der Maschinist
+
+28. Womit rüstet sich nach der FwDV 3 der Angriffstrupp bei der Vornahme eines BM-Strahlrohres mit B-Rollschläuchen aus?
+  nur mit einem BM-Strahlrohr, dem Schlauchhalter und dem Stützkrümmer
+x mit BM-Strahlrohr, Stützkrümmer, Schlauchhalter, Beleuchtungsgerät, B-Druckschläuchen, Verteiler und ggf. Handsprechfunkgerät
+  mit BM-Strahlrohr, Stützkrümmer, Schlauchhalter und Beleuchtungsgerät
+
+29. Wie viele Rohre können nach der FwDV 3 mit einer Staffelbesatzung bei der Vornahme eines Schaumohres noch zusätzlich vorgenommen werden?
+  zwei CM-Strahlrohre
+  ein CM-Strahlrohr
+x Es kann kein weiteres Rohr vorgenommen werden.
+
+30. Wie verhalten sich Einsatzkräfte, wenn sie eine besondere Gefahr (Einsturz, Explosion, ...) bemerken?
+  Sie legen alle Geräte schnellstens ab und melden sich beim Gruppenführer.
+  Sie begeben sich zum Verteiler und erwarten dort die anderen Personen ihrer Einheit.
+x Sie geben unverzüglich das Kommando: „Gefahr - Alle sofort zurück!“ und sammeln sich am Feuerwehrfahrzeug.
+
+31. Welche Funktionen entfallen bei einer Staffel im Vergleich zur Gruppe?
+  Maschinist, Melder und Schlauchtrupp
+  Melder und Wassertrupp
+x Melder und Schlauchtrupp
+
+32. Wer unterstützt innerhalb einer Staffel den Wassertrupp ggf. beim Kuppeln der Saugschläuche?
+x der Angriffstrupp
+  der Schlauchtrupp
+  der Melder und der Staffelführer
+
+33. Nach dem Kommando: „Absitzen und vor dem Fahrzeug antreten!“ tritt die Gruppe vor dem Fahrzeug an. Welcher Trupp steht aus der Sicht des Gruppenführers ganz rechts?
+x der Schlauchtrupp
+  der Wassertrupp
+  der Angriffstrupp
+
+34. Wer kann von den Regelungen der FwDV 3 abweichen, wenn dies zur Sicherstellung des Einsatzerfolges erforderlich ist?
+  der Angriffstruppführer
+x der Führer der taktischen Einheit
+  der Maschinist
+
+35. Wo sollen nach der FwDV 3 die erforderlichen Geräte abgelegt werden, wenn zwischen Löschfahrzeug und Verteiler ungünstige Wegverhältnisse bestehen?
+  direkt an der Einsatzstelle
+  direkt an der Feuerlöschkreiselpumpe
+x am vorgesehenen Ort des Verteilers
+
+36. Wie nennt man nach der FwDV 3 die beiden Einsatzmöglichkeiten, nach denen der Einheitsführer seine Mannschaft einsetzen kann?
+  Löscheinsatz und Rettungseinsatz
+x Einsatz mit Bereitstellung und Einsatz ohne Bereitstellung
+  Strahlrohreinsatz und Werfereinsatz
+
+37. Was muss nach der FwDV 3 der Befehl des Gruppenführers bei der Vornahme des dritten Rohres beinhalten?
+  Wasserentnahmestelle, Lage des Verteilers, Einheit, Auftrag, Mittel, Ziel und Weg
+  Einheit und Auftrag
+x Einheit, Auftrag, Mittel, Ziel, Weg, „VOR!“
+
+38. Nach dem Kommando: „Absitzen!“ tritt die Mannschaft hinter dem Fahrzeug an. Wer steht aus der Sicht des Gruppenführers ganz links?
+  der Schlauchtrupp
+x der Maschinist und der Melder
+  der Angriffstrupp
+
+39. Welche Geräte legt der Maschinist nach der FwDV 3 bei einer Wasserentnahme aus einem offenen Gewässer bereit?
+  die befohlene Anzahl Saugschläuche und den Saugkorb
+x die Kupplungsschlüssel, den Saugkorb, den Saugschutzkorb, die Ventilleine und ggf. die Halteleine
+  den Saugkorb, den Saugschutzkorb, das Sammelstück sowie die Ventilleine
+
+40. Welche der nachstehenden Aufgaben übernimmt der Maschinist nach der FwDV 3?
+  Er ist für die Sicherheit der Mannschaft an der Einsatzstelle verantwortlich.
+  Er rettet und übernimmt befohlene Aufgaben.
+x Er sichert sofort die Einsatzstelle mit Warnblinkanlage, Fahrlicht und blauem Blinklicht.
+
+41. Welche der nachfolgenden Maßnahmen ist nach der FwDV 3 beim Einsatz mit Bereitstellung richtig?
+  Der Angriffstrupp verlegt immer die B-Schlauchleitung zwischen Pumpe und Verteiler.
+x Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung.
+  Der Angriffs- und der Schlauchtrupp unterstützen immer den Wassertrupp beim Aufbau der Schlauchleitungen.
+
+42. Wann rüstet sich nach der FwDV 3 der Angriffstrupp mit Atemschutzgeräten aus?
+  Vor jedem Einsatz rüstet sich der Angriffstrupp mit Pressluftatmer aus und der Schlauchtrupp wird ohne weiteren Befehl Sicherheitstrupp.
+x Der Angriffstrupp rüstet sich auf Befehl während der Alarmfahrt mit Atemschutz aus.
+  Während der Einheitsführer erkundet, obliegt dem Angriffstrupp die Führung der Gruppe und er rüstet sich selbstständig aus.
+
+43. Wer stellt nach der FwDV 3 die Wasserversorgung her?
+x der Wassertrupp
+  der Angriffstrupp
+  der Schlauchtrupp
+
+44. Der Einheitsführer bestimmt die Fahrzeugaufstellung und befiehlt: „Wasserentnahmestelle,... Lage des Verteilers, ... ZUM EINSATZ FERTIG!“. Um welche Einsatzart handelt es sich hierbei?
+x um einen Einsatz mit Bereitstellung
+  um einen Einsatz ohne Bereitstellung
+  um einen Einsatz einer Kübelspritze
+
+45. Wo werden nach der FwDV 3 bei der Vornahme eines Schaumrohres vom Angriffstrupp die beiden Schaummittelbehälter, der Zumischer und der D-Ansaugschlauch abgelegt?
+x am Verteiler
+  zwischen Einsatzziel und dem Verteiler
+  zwischen der Pumpe und dem Verteiler
+
+46. Woraus besteht nach der FwDV 3 eine Staffel?
+  aus dem Truppführer und den vier Feuerwehrangehörigen
+x aus der Mannschaft und den Einsatzmitteln
+  aus der Mannschaft und dem TLF 24/50
+
+47. Welche Aufgabe hat nach der FwDV 3 der Angriffstrupp?
+  Er nimmt nur das erste Rohr vor.
+  Er rettet und unterstützt den Staffelführer beim Erkunden der Lage.
+x Er rettet, setzt den Verteiler und nimmt das erste Rohr vor.
+
+48. Wie definiert die FwDV 3 den Begriff „Retten“?
+x das Abwenden einer Gefahr von Menschen oder Tieren
+  die Vornahme eines Rohres
+  das Bergen aus einer Gefahrenzone
+
+49. Der Einheitsführer befiehlt: „Angriffstrupp; ... Rohr zurück!“ Wo legt nach der FwDV 3 der angesprochene Trupp seine vorgenommenen Geräte und Schläuche ab?
+  am Fahrzeug
+  am Einsatzort
+x am Verteiler
+
+50. Wo ist nach der FwDV 3 der Standort des Einheitsführers?
+x Er ist an keinen bestimmten Platz gebunden.
+  am Verteiler
+  beim Angriffstrupp
+
+51. Welche Aufgaben hat nach der FwDV 3 der Einheitsführer?
+x Er führt seine taktische Einheit; er ist dabei an keinen bestimmten Platz gebunden.
+  Er leitet den Einsatz vom Verteiler aus.
+  Er steht an einem bestimmten Platz und übermittelt Nachrichten und Befehle.
+
+52. Beim Einsatz einer Staffel kuppelt der Wassertrupp die Saugschläuche. Wer unterstützt ihn ggf. nach der FwDV 3?
+x der Angriffstrupp
+  der Schlauchtrupp
+  der Melder und der Staffelführer
+
+53. Der Staffelführer befiehlt: „Angriffstrupp mit Schnellangriff vor!“ Wer unterstützt den Angriffstrupp beim Verlegen der Leitung?
+  der Maschinist, bevor er andere Tätigkeiten verrichtet
+  der Staffelführer, bevor er erkundet
+x der Wassertrupp, bevor er weitere Tätigkeiten verrichtet
+
+54. Wer verlegt die B-Schlauchleitung mit der fahrbaren B-Schlauchhaspel zum Angriffstrupp, wenn eine Staffel nach der FwDV 3 mit einem LF 20 arbeitet?
+  der Angriffstrupp selbst
+x der Wassertrupp
+  der Schlauchtrupp
+
+55. Wo sollen nach der FwDV 3 die erforderlichen Geräte abgelegt werden, wenn der Abstand zwischen Löschfahrzeug und Verteiler z. B. mehr als fünf B-Druckschlauchlängen beträgt?
+  direkt an der Einsatzstelle
+  direkt an der Feuerlöschkreiselpumpe
+x am vorgesehenen Ort des Verteilers
+
+56. Wer unterstützt nach der FwDV 3 die Trupps bei der Entnahme der Geräte vom Fahrzeug?
+  der Melder
+  Niemand, die Trupps müssen das allein machen.
+x der Maschinist
+
+57. Wer verlegt die Saugleitung, wenn nur zwei Saugschlauchlängen benötigt werden?
+x der Wassertrupp
+  der Wassertrupp und der Schlauchtrupp
+  der Wassertrupp und der Melder
+
+58. Welchen Einsatz hat der Gruppenführer gewählt, wenn sein Befehl wie folgt lautet: „Wasserentnahmestelle Überflurhydrant, Verteiler 5 m vor den Hauseingang. Zum Einsatz fertig!“?
+  einen CM-Stahlrohr-Einsatz
+  einen Einsatz zur Brandbekämpfung
+x einen Einsatz mit Bereitstellung
+
+59. Wer verlegt nach der FwDV 3 die B-Schlauchleitung mit Rollschläuchen zwischen dem Löschfahrzeug und dem Verteiler?
+  der Melder
+  der Schlauchtrupp
+x der Wassertrupp
+
+60. Welche Hauptaufgabe hat der Maschinist nach der FwDV 3?
+  Er fährt das Fahrzeug und leitet den Einsatz.
+x Er ist Fahrer und bedient die Feuerlöschkreiselpumpe sowie die im Löschfahrzeug eingebauten Aggregate.
+  Er bedient die Pumpe und stellt die Wasserversorgung zwischen Pumpe und Wasserentnahmestelle her.
+
+61. Wer bedient den Zumischer nach der FwDV 3 bei der Vornahme eines Schaumstrahlrohres durch eine Gruppe?
+x der Schlauchtruppführer
+  der Schlauchtruppmann
+  der Wassertruppführer
+
+62. Mit welchen Geräten rüstet sich der Angriffstruppführer bei der Vornahme eines Schaumrohres durch eine Staffel aus?
+  mit einem Schaumstrahlrohr und B-Druckschläuchen
+x mit Beleuchtungsgerät, Verteiler, zwei Schaummittelbehältern und ggf. Handsprechfunkgerät
+  mit Zumischer, D-Ansaugschlauch und B-Druckschläuchen
+
+63. Welche nachfolgende Maßnahme ist nach der FwDV 3 beim Einsatz einer Gruppe mit Bereitstellung richtig?
+  Der Angriffstrupp unterstützt den Wassertrupp beim Verlegen der B-Schlauchleitung zwischen Pumpe und Verteiler.
+x Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung.
+  Angriffs- und Schlauchtrupp unterstützen den Wassertrupp beim Aufbau der Schlauchleitungen.
+
+64. Aus wie vielen Personen besteht ein Selbstständiger Trupp im Sinne der taktischen Einheit oder der Fahrzeugbesatzung nach der FwDV 3?
+  aus einem Truppführer und einem Truppmann
+  aus einem Truppführer und zwei Truppmännern
+x aus einem Truppführer, einem Maschinisten und einem Truppmann
+
+65. Wer kuppelt nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe den Zumischer in die Schlauchleitung ein und stellt mit dem D-Ansaugschlauch die Verbindung zwischen Zumischer und Schaummittelbehälter her?
+x der Schlauchtrupp
+  der Angriffstrupp
+  der Wassertrupp
+
+66. In welche Richtung ist nach der FwDV 3 bei der Wasserentnahme über Saugschläuche die Saugleitung zu kuppeln?
+  Die Saugleitung ist von der Pumpe her zu kuppeln.
+x Die Saugleitung ist vom Saugkorb her zu kuppeln.
+  Die Aufbaurichtung gibt der Wassertruppführer vor.
+
+67. Wer bedient nach der FwDV 3 die im Löschfahrzeug eingebauten Aggregate?
+  der Melder
+  der Schlauchtrupp
+x der Maschinist
+
+68. Welche hauptsächlichen Aufgaben hat der Melder nach der FwDV 3?
+x Er übernimmt befohlene Aufgaben.
+  Er ist der Vertreter des Gruppenführers.
+  Er bedient den Verteiler nach der Vornahme eines BM-Stahlrohres.
+
+69. Welchen Befehl erteilt nach der FwDV 3 der Einheitsführer zur Beendigung des Einsatzes?
+  „Alle Rohre Wasser halt!“
+x „Zum Abmarsch fertig!“
+  „Fahrzeug fahrbereit!“
+
+70. In welcher Situation ist nach der FwDV 3 ein Einsatz mit Bereitstellung durchzuführen?
+  wenn die Mannschaft noch nicht vollzählig ist
+x wenn das Einsatzmittel, das Einsatzziel oder der Einsatzweg noch unklar sind
+  wenn zwischen Verteiler und Pumpe ungünstige Wegverhältnisse oder größere Entfernungen bestehen
+
+71. Wer gibt nach der FwDV 3 bei der Wasserentnahme über Saugschläuche das Kommando: „Saugleitung zu Wasser!“?
+  der Maschinist
+  der Gruppenführer
+x der Wassertruppführer
+
+72. Wer bestimmt nach der FwDV 3 die Fahrzeugaufstellung?
+x der Einheitsführer
+  der Maschinist
+  der Melder
+
+73. Wer setzt nach der FwDV 3 das Standrohr?
+x der Wassertrupp
+  der Angriffstrupp
+  der Schlauchtrupp
+
+74. Wer rüstet sich nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe mit Schaummittelbehältern aus?
+x der Schlauchtrupp
+  der Wassertrupp
+  der Angriffstrupp
+
+75. Beim Einsatz einer Gruppe hat der Wassertrupp zwischen Löschfahrzeug und Hydrant eine längere Strecke B-Druckschläuche (ca. 180 m) zu verlegen! Wer unterstützt ihn ggf. nach der FwDV 3?
+  der Angriffstrupp
+x der Schlauchtrupp
+  der Melder
+
+76. Wer erteilt dem Melder die Anweisung, eine Lagemeldung an die Leitstelle abzusetzen?
+  Er stellt sich den Text nach Art der Lage selbst zusammen und gibt die Lagemeldung.
+x der Einheitsführer
+  der gerade an der Einsatzstelle angekommene Kreisbrandinspektor
+
+77. Welche Tätigkeiten verrichtet der Schlauchtrupp bei einem Einsatz mit Bereitstellung?
+  Er wartet, bis er vom Gruppenführer einen Befehl erhält.
+  Er verlegt die B-Schlauchleitung vom Verteiler zur Pumpe.
+x Er legt ausreichend C-Schlauchmaterial am Verteiler ab und unterstützt erforderlichenfalls den Wassertrupp beim Herrichten der Wasserentnahme.
+
+78. Welche Tätigkeiten verrichtet der Angriffstrupp bei einem Einsatz mit Bereitstellung?
+x Er rüstet sich aus, setzt den Verteiler und stellt sich am Verteiler bereit.
+  Er setzt den Verteiler und verlegt sich seine Leitung selbst.
+  Er rüstet sich aus und stellt sich am Fahrzeug bereit.
+
+79. Der Wassertrupp hat die Wasserversorgung bis zum Verteiler hergerichtet. Welche Tätigkeit verrichtet er in der Regel bei einem Atemschutzeinsatz danach?
+  Er meldet sich ohne Ausrüstung beim Gruppenführer.
+x Er rüstet sich als Sicherheitstrupp aus.
+  Er bleibt am Fahrzeug stehen und wartet auf Anweisungen.
+
+80. Welche Funktionsträger gehören zu einer Staffel?
+  der Maschinist, der Melder, der Angriffs- und der Wassertrupp
+  der Melder, der Gruppenführer, der Schlauch- und der Wassertrupp
+x der Staffelführer, der Maschinist, der Angriffs- und der Wassertrupp
+

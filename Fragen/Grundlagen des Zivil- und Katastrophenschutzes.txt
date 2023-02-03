@@ -1,0 +1,78 @@
+// Grundlagen des Zivil- und Katastrophenschutzes.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:23 Uhr
+
+1. Wem obliegt die Gesetzgebungskompetenz im Rahmen des Zivilschutzes?
+x dem Bund
+  dem Land
+  der Gemeinde
+
+2. Welche Aufgabenbereiche werden im Rahmen des Zivilschutzes durch den Bund ergänzend ausgestattet?
+  der Aufgabenbereich Führung
+  der Aufgabenbereich Wasserrettung
+x der Aufgabenbereich Brandschutz
+
+3. Wer nimmt nach HBKG für den Katastrophenschutz die Aufgaben der Informations- und Kommunikationszentrale wahr?
+  der Verwaltungsstab
+x die Zentrale Leitstelle
+  der Katastrophenschutzstab
+
+4. Wer ist die untere KatS-Behörde nach § 25 HBKG?
+  der Regierungspräsident eines Regierungsbezirkes
+x der Landrat eines Landkreises bzw. der Oberbürgermeister einer kreisfreien Stadt
+  der Bürgermeister einer Gemeinde
+
+5. Woraus setzt sich eine Katastrophenschutzleitung mindestens zusammen?
+x aus einem Katastrophenschutzstab, aus einem Verwaltungsstab, einer GABC-Mess- sowie einer Informations- und Kommunikationszentrale
+  aus dem Katastrophenschutzstab und einer Technischen Einsatzleitung
+  aus dem Krisenstab und einer Zentralen Leitstelle
+
+6. Wer übernimmt in der Regel die Messaufträge für die GABC-Messzentrale?
+x die GABC-Erkundungsgruppe
+  die Löschzüge
+  die Fahrzeuge einzelner Hilfsorganisationen
+
+7. Welche Einheiten und Einrichtungen werden für den Aufgabenbereich Führung vorgesehen?
+  die IuK-Zentralen
+x die Katastrophenschutzstäbe und die Führungsgruppen Technische Einsatzleitungen
+  die IuK-Gruppen
+
+8. Für welchen Aufgabenbereich stellt das Land Hessen keine eigenen Einheiten auf?
+  für den Brandschutz
+x für die Bergung und die Instandsetzung
+  für die Wasserrettung
+
+9. Wer stellt innerhalb eines Landkreises den Eintritt des Katastrophenfalles fest?
+  das Hessische Ministerium des Innern und für Sport
+  das Regierungspräsidium
+x der Landrat
+
+10. Wer übernimmt die operativ-taktische Führung im Katastrophenfall?
+  der Verwaltungsstab
+  der politisch Gesamtverantwortliche
+x der Katastrophenschutzstab
+
+11. Welche nachstehende Gefahr kann von detonierenden Kampfmitteln ausgehen?
+x eine Splitterwirkung
+  eine Gefahr durch Elektrizität
+  eine Verbrühungsgefahr
+
+12. Welche Aufgabe fällt im Verteidigungsfall in die Zuständigkeit des Zivilschutzes?
+x eine frühzeitige Warnung der Bevölkerung
+  die Objektsicherung
+  eine statistische Erfassung der Gesamtschäden
+
+13. Welche aufgeführte Person nimmt nach § 25 HBKG die Aufgaben einer unteren Katastrophenschutzbehörde wahr, wenn eine kreisangehörige Gemeinde während einer Katastrophe ohne Verbindung mit der zuständigen Katastrophenschutzbehörde ist?
+  der Stadtrat
+x der Bürgermeister
+  der Leiter des örtlichen Ordnungsamtes
+
+14. Wer stellt das größte Helferkontingent für den Katastrophenschutz zur Verfügung?
+  das Technische Hilfswerk (THW)
+  das Deutsche Rote Kreuz (DRK)
+x die Feuerwehren
+
+15. In welcher Feuerwehr-Dienstvorschrift (FwDV) ist die Führungsorganisation im Katastrophenfall u. a. festgelegt?
+  FwDV 2
+  FwDV 3
+x FwDV 100
+

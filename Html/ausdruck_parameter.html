@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n";
+      "http://www.w3.org/TR/html4/loose.dtd\">
+
+<HTML>
+<HEAD>
+<title>Fragebogen-Programm: Dialog Ausdruck-Parameter</title>
+<meta http-equiv='content-type' content='text/html; charset=ISO-8859-1'>
+<link rel="stylesheet" type="text/css" href='ffw.css'>
+</head>
+
+<body>
+<div class='platz'><div class='zettel'>
+ <h4>Navigation</h4>
+ <div class='link'>
+  <a href='startseite.html'>Willkommen</a><br>
+  <a href='ausbildungsstand.html'>Ausbildungsstand</a><br>
+  <a href='einstellungen.html'>Einstellungen</a><br>
+  <a href='benutzer.html'>Benutzer</a><br>
+  <a href='menues.html'>Men&uuml;s</a><br>
+  <a href='toolbar.html'>Toolbar</a><br>
+  <a href='sonstiges.html'>Sonstiges</a><br>
+  <br>
+  <a href='fragebogen_ausdruck.html'>Frageb&ouml;gen&nbsp;ausdrucken</a><br>
+  <a href='eigene_kapitel.html'>Eigene&nbsp;Kapitel&nbsp;erstellen</a><br>
+  <a href='anpassungen.html'>Programm&nbsp;anpassen</a>
+  </div>
+</div></div>
+
+<h1>Dialog Ausdruck-Parameter</h1>
+
+<ul>
+<li><a href='#Anzahl'>Anzahl Fragen/B&ouml;gen</a></li>
+<li><a href='#Position'>Position Antwortk&auml;stchen</a></li>
+<li><a href='#Auswahl'>Auswahl der Fragen</a></li>
+<li><a href='#Komplett'>Komplettes Kapitel</a></li>
+<li><a href='#Titel'>&Uuml;berschriften/Fu&szlig;note</a></li>
+<li><a href='#Ablauf'>Ablaufsteuerung</a></li>
+<li><a href='#Streifen'>Kontrollsteifen</a></li>
+<li><a href='#Drucker'>Anpassung an Drucker</a></li>
+<li><a href='#Buttons'>Untere Buttons</a></li>
+</ul>
+
+<p>Die &Uuml;berschrift und die Fu&szlig;note kann <a href='#Makros'>Text-Makros</a> enthalten </p>
+
+<h2><a name='Anzahl'>Anzahl Fragen/B&ouml;gen</a></h2>
+<h3>Anzahl Fragen je Fragebogen</h3>
+<div class='rechts'><img src='anzahl_fragen.gif' width='300' height='95' alt='Anzahl Fragen/B&ouml;gen' title='Anzahl Fragen/B&ouml;gen' border='0' /></div>
+<p>Die Anzahl der Fragen auf jedem Fragebogen muss zwischen 3 und 99 liegen. Empfehlenswert sind meiner Ansicht nach aber nur Werte zwischen 7 und 25.</p>
+<p>Der Ausdruck <a href='#Komplett'>Komplettes Kapitel</a> ignoriert diese Angaben und druckt mit <b>allen</b> Fragen</p>
+
+<h3>Anzahl unterschiedl. Frageb&ouml;gen</h3>
+<p>Es lassen sich bis zu 25 verschiedene Frageb&ouml;gen erstellen. Jede Frage kommt nur einmal vor - wenn die Gesamt-Zahl der Fragen daf&uuml;r ausreicht.</p>
+<p>Der Ausdruck <a href='#Komplett'>Komplettes Kapitel</a> ignoriert diese Angaben und druckt immer <b>einen</b> Bogen mit <b>allen</b> Fragen</p>
+
+<h2><a name='Position'>Position Antwortk&auml;stchen</a></h2>
+<h3>Links</h3>
+<div class='rechts'><img src='position_antwort.gif' width='225' height='95' alt='Position Antwortk&auml;stchen' title='Position Antwortk&auml;stchen' border='0' /></div>
+<p>Wenn diese Option gew&auml;hlt wird erscheinen die Antwortk&auml;stchen links <b></b>vor den Antworten</b> (anstelle der Buchstabenfolge a), b), c) usw.)</p>
+<h3>Rechts</h3>
+<p>Wenn diese Option gew&auml;hlt wird erscheinen die Antwortk&auml;stchen rechts <b></b>hinter den Antworten</b>. Vor der Frage werden die Buchstaben a), b), c) usw. ausgedruckt.</p>
+
+<h2><a name='Auswahl'>Auswahl der Fragen</a></h2>
+<h3>rein zuf&auml;llig; aus allen markierten Kapiteln</h3>
+<div class='rechts'><img src='auswahl_der_fragen.gif' width='390' height='110' alt='Auswahl der Fragen' title='Auswahl der Fragen' border='0' /></div>
+<p>Dies ist die Standard-Option f&uuml;r einen Fragebogen. Die Fragen werden rein zuf&auml;llig aus allen markierten Kapiteln ausgew&auml;hlt. Dein eigener Ausbildungstand bleibt unber&uuml;cksichtigt.</p>
+<h3>rein zuf&auml;llig; aus manuell ausgew&auml;hlten Fragen</h3>
+<p>Die gleichen Auswahl-Kriterien wie oben - aber diesmal begrenzt auf die Fragen der aktuellen <a href='manuelle_auswahl.html'>Manuellen Auswahl</a>.</p>
+<p>Diese Einstellung bietet sich an wenn:</p>
+<ul>
+<li>es strittige Fragen gibt</li>
+<li>wenn ein leichter/schwerer Fragebogen erstellt werden soll</li>
+<li>wenn f&uuml;r einen &Uuml;bungsabend ein Fragebogen zu einem Themenschwerpunkt ben&ouml;tigt wird</li>
+</ul>
+<p>Hinweis: diese Option wird nicht gespeichert.</p>
+<h3>meine Problemfragen; aus allen markierten Kapiteln</h3>
+<p>Dieser Fragebogen ist zum "selber &uuml;ben". Er ber&uuml;cksichtigt Deinen Ausbildungsstand und w&auml;hlt die Fragen genauso aus, wie er es auch beim normalen &Uuml;ben machen w&uuml;rde.</p>
+<p>Deshalb ist diese Option <b></b>nicht geeignet f&uuml;r einen Wettkampf-Fragebogen</b></p> 
+
+<h2><a name='Komplett'>Komplettes Kapitel</a></h2>
+<div class='rechts'><img src='komplettes_kapitel.gif' width='225' height='110' alt='Komplettes Kapitel' title='Komplettes Kapitel' border='0' /></div><p><b>Hinweis:</b> Die M&ouml;glichkeit ein komplettes Kapitel zu drucken besteht z.Zt. nur wenn ein einzelnes Kapitel auf der Hauptseite ausgew&auml;hlt wurde.</p>
+<p>Diese Ausdrucke ignorieren eine Reihe von Einstellungen:</p>
+<ol>
+<li>Anzahl Fragen: Es werden immer <b>alle Fragen</b> des Kapitels gedruckt.</li>
+<li>Anzahl B&ouml;gen: Es wird immer nur <b>ein Bogen</b> gedruckt.</b></li>
+</ol>
+<h3>zuf&auml;llige Reihenfolge</h3>
+<p>Kompletter Ausdruck aller Fragen im markierten Kapitel mit zuf&auml;lliger Reihenfolge sowohl der Fragen als auch Antworten</p>
+<h3>originale Reihenfolge</h3>
+<p>Dieser Ausdruck dient zum Lernen f&uuml;r <b class='rot'>blutige Anf&auml;nger</b> und zur Kontrolle f&uuml;r den <b>Fragen-Macher</b>. Es wird ein kompletter Ausdruck aller Fragen im markierten Kapitel mit exakter Reihenfolge sowohl der Fragen als auch Antworten erstellt. Die richtigen Antworten sind markiert.</p>
+<p>Dieser Ausdruck ingnoriert weitere Einstellungen:</p>
+<ul>
+<li>&Uuml;berschrift: Es wird immer der Kapitelname ausgedruckt</li>
+<li>&Uuml;berschriften wiederholen: Die &Uuml;berschrift erscheint immer auf jeder Seite</li>
+<li>Gruppe: wird nie angezeigt.</li>
+<li>Name/Funktion: wird nie angezeigt.</li>
+<li>Kontrollstreifen: wird nie angezeigt<br />(Es gibt ja auch nichts zu kontrollieren)</li>
+</ul>
+
+<h2><a name='Titel'>&Uuml;berschriften/Fu&szlig;noten</a></h2>
+<h3>&Uuml;berschrift</h3>
+<div class='rechts'><img src='ueberschriften.gif' width='665' height='180' alt='&Uuml;berschriften und Fu&szlig;noten' title='&Uuml;berschriften und Fu&szlig;noten' border='0' /></div>
+<p>Der eingegeben Text wird gross und fett oberhalb der Fragen ausgedruckt. Es k&ouml;nnen <a href='#Makros'>Text-Makros</a> verwendet werden. Bei dem Beispiel rechts w&uuml;rde (in diesem Jahr) eine &Uuml;berschrift 'Stadtmeisterschaften 2012' erzeugt.</p>
+
+<h4>Alternativ: Kapitelname bei Einzel-Kapiteln verwenden</h4>
+<p>Wenn diese Opition ausw&auml;hlt wurde wird nicht die normal &Uuml;berschrift sondern der Kapitelname als &Uuml;berschrift vorgeschagen. Diese Einstellung hat keine Auswirkung, wenn mehr als ein Kapitel auf der Hauptseite markiert wurde.</p>
+
+<h4>&Uuml;berschrift auf jeder Seite wiederholen</h4>
+<p>Wenn diese Option ausgew&auml;hlt wurde wird die &Uuml;berschrift auf allen Seiten wiederholt.</p>
+
+
+<h3>Gruppe</h3>
+<p>Um den sp&auml;ter ausgef&uuml;llten Fragebogen zuordnen zu k&ouml;nnnen kann diese Option genutzt werden um einen Stadtteil/Ortsteil usw. von Hand eintragen zu k&ouml;nnen.</p>
+<p>Das Eingabefeld erscheint jeweils in gr&ouml;&szlig;erer Schrift mit einer l&auml;ngeren, gepunkteten Linie links oben oberhalb der &Uuml;berschrift und immer nur auf der ersten Seite. (Fehlt die &Uuml;berschrift nimmt das Feld deren Platz ein.)</p>
+
+<h3>Name/Funktion</h3>
+<p>Analog zur Gruppe kann hier ein Name, eine Funktion, die Anzahl Fehler usw. eingesetzt werden. Diese Feld erscheint ganz oben, aber nach der Gruppe. Wenn die Gruppe nicht markiert ist erscheint es lins oben.</p>
+
+<h3>Fu&szlig;note</h3>
+<p>Ganz am Ende des Fragebogens kann eine Fu&szlig;note erscheinen die zum Beispiel Auskunft gibt wer diesen Fragebogen erstellt hat, wann er gedruckt wurde usw. Ist der Fussnoten-Text leer aber das H&auml;kchen gesetzt dann erscheint meine Copyright-Notiz.
+
+<p><b>Hinweis</b> Diese Fu&szlig;note wird nur gedruckt wenn der Platz auf der letzten Seite noch ausreicht. Ist das nicht der Fall wird keine neue Seite - nur f&uuml;r die Fu&szlig;note - gedruckt! Erscheint die Fu&szlig;note trotzdem auf einer neuen Seite ist die Einstellung <a href='#Drucker'>Anpassung an Drucker</a> nicht korrekt.</p>
+
+<h2><a name='Ablauf'>Ablaufsteuerung</a></h2>
+<h3>Id-Nr. f&uuml;r mehrere Frageb&ouml;gen automatisch vergeben</h3>
+<div class='rechts'><img src='ablaufsteuerung.gif' width='475' height='95' alt='Ablaufsteuerung' title='Ablaufsteuerung' border='0' /></div>
+<p>Um die ausgef&uuml;llten Frageb&ouml;gen sp&auml;ter kontrollieren zu k&ouml;nnen enth&auml;lt jeder Fragebogen eine Identifikation-Nummer (Id-Nr.). Diese Nummer wird <b>immer</b> am Beginn der Fragebogen-Erstellung abgefragt und ist auf 3 Zeichen begrenzt. Sie darf nur Ziffern (0-9) und Buchstaben (A-Z,a-z) enthalten.</p>
+<p>Wenn dieses K&auml;stchen markiert ist werden die Id-Nr. f&uuml;r die Folge-Frageb&ouml;gen automatisch vergeben</p>
+<p>Beispiele f&uuml;r die automatische Numerierung: (Startwert fett)</p>
+<ul>
+<li><b>A1</b>, A2, A3, A4, A5 ... A9, A10, A11 ... A98, A99, B00, B02 .. Z99, A00, A01</li>
+<li><b>1</b>, 2, 3, 4, 5 ... 9, 10, 11 ... 98, 99, 100, 101 .. 999, 000, 001</li>
+<li><b>A</b>, B, C, D ... Y, Z, AA, AB ... ZY, ZZ, AAA, AAB ... ZZY, ZZZ, AAA, AAB</li>
+<li><b>1a</b>, 1b, 1c, 1d ... 1y, 1y, 2a, 2b ... 9y, 9z, 10a, 10b, .. 99y, 99z, 00a, 00b</li>
+<li><b>AAA</b>, AAB, AAC, AAD ... AAZ, ABA, ABB ... AZZ, BAA, BAB .. ZZZ, AAA</li> 
+</ul>
+
+<h3>Frageb&ouml;gen auf einen Rutsch erzeugen; dann ausdrucken lassen</h3>
+<p>Wenn diese Option nicht markiert ist werden die Frageb&ouml;gen Schritt f&uuml;r Schritt erzeugt. Das bedeutet: Fragebogen wird erstellt, Fragebogen wird gedruckt, Fragenbogen wird erzeugt, Fragebogen wird gedruckt, usw.</p>
+
+<p>Ist diese Option markiert (empfohlen) werden alle Frageb&ouml;gen auf einen Rutsch erstellt und k&ouml;nnen dann nacheinander (oder beliebig) ausgedruckt werden. Das erm&ouml;glicht dann auch einen Fehldruck (ein Rest von Antworten erscheint auf einer sonst leeren Seite; falsch geschnitten; uvm.) mit anderen Druckereinstellungen zu wiederholen.</p>
+
+<h2><a name='Streifen'>Kontrollsteifen</a></h2>
+<h3>mit Kontrollstreifen (dringend empfohlen)</h3>
+<div class='rechts'><img src='kontrollstreifen.gif' width='340' height='125' alt='Kontrollstreifen' title='Kontrollstreifen' border='0' /></div>
+<p>Diese Option sollte immer angeklickt sein au&szlig;er Du bist <b>Chuck Norris</b></p>
+<h4>Schere anzeigen</h4>
+<p>Diese Option zeigt eine symbolisierte Schere an. Sieht gut aus - solange der Kontrollstreifen nicht abgeschnitten wurde. Empfehlung: nicht markieren</p>
+
+<h4>Schnitt-Punkte anzeigen</h4>
+<p>Es wird eine gepunktete Linie zwischen dem sp&auml;teren Fragebogen und dem Kontroll-Streifen angezeigt. Empfehlung: nur markieren wenn der Kontrollstreifen mit einer Schere abgeschnitten werden muss. (Optimal zum Trennen ist ein Rollenschneider bzw. ein Hebel-Schneidemaschine)</p>
+
+<h2><a name='Drucker'>Anpassung an Drucker</a></h2>
+<div class='rechts'><img src='anpassung_an_drucker.gif' width='320' height='125' alt='Anpassung an Drucker' title='Anpassung an Drucker' border='0' /></div>
+<p>F&uuml;r einen optimalen Ausdruck muss das Programm an den Drucker angepasst werden. Es ist jetzt theoretisch m&ouml;glich den Fragebogen auch in DIN&nbsp;A3 oder DIN&nbsp;A5 zu drucken.</p>
+<p>Dazu musst Du zuerst mit dem Button <button>Drucker-Test-Seite</button> eine Test-Seite erzeugen und sie dann mittels der Druckvorschau auswerten.</p>
+<h3>Anz. Zeilen pro Seite</h3>
+<p>Hier wird die Anzahl der <b>Zeichen</b> eingetragen, die sich bei 100% Druckgr&ouml;&szlig;e in einer <b>Zeile</b> unterbringen lassen.</p>
+<p>Der Wert ist abh&auml;ngig von den eingestellen R&auml;ndern f&uuml;r links und rechts.</p>
+<h3>Anz. Zeichen pro Zeile</h3>
+<p>Hier wird die Anzahl der <b>Zeilen</b> eingetragen, die sich bei 100% Druckgr&ouml;&szlig;e auf einer <b>Seite</b> unterbringen lassen.</p>
+<p>Der Wert ist abh&auml;ngig von den eingestellen R&auml;ndern f&uuml;r oben und unten sowie aktivierten oder nicht aktivierten Kopf- und Fu&szlig;zeilen.</p>
+<h3>Drucker-Test-Seite</h3>
+<p>Ein Klick auf diesen Button fordert die Test-Seite an. Die Seite ent&auml;lt eine detailierte Erl&auml;terung was weiter zu tun ist:</p>
+<ol>
+<li>Mit der rechten Maustaste das Kontext-Men&uuml; anzeigen lassen</li>
+<li>Den Men&uuml;punkt <b>Druckvorschau</b> ausw&auml;hlen</li>
+<li>Jetzt erscheinen oben drei Ziffernreihen und auf links Zeilen-Nummern.</li>
+<li>Die Druckgr&ouml;&szlig;e mu&szlig; auf 100% eingestellt sein</li>
+<li>Aus den oberen Ziffernreihen die Anzahl Zeichen pro Zeile auslesen (von oben nach unten)</li>
+<li>Ganz unten links die letzte Zeile auf der 1. Seite f&uuml;r die Anzahl Zeilen merken</li>
+<li>Die gefundenen Werte in die oben erkl&auml;rten Eingabefelder eintragen und  speichern lassen.</li>
+</ol>
+
+<div class='rechts'><img src='untere_buttons.gif' width='454' height='50' alt='Untere Buttons' title='Untere Buttons' border='0' /></div>
+<h2><a name='Buttons'>Untere Buttons</a></h2>
+<h3>Erstellen</h3>
+<p>Ein Klick auf den Button <button>Erstellen</button> erzeugt einen bzw. mehrere Frageb&ouml;gen entsprechend den oben erl&auml;uterten Einstellungen. Dann wird der Dialog automatisch geschlossen. Alle Einstellungen bleiben erhalten.</p>
+
+<h3>Speichern</h3>
+<p>Ein Klick auf Speichern sichert die obigen Ei<b></b>nstellungen. Es gibt nur eine Ausnahme: die Option &quot;rein zuf&auml;llig; aus manuell ausgew&auml;hlten Fragen&quot; wird nicht gespeichert. War diese Option markiert wird stattdessen die Standard-Option &quot;rein zuf&auml;llig; aus allen markierten Kapiteln&quot; gespeichert.</p>
+<h3>Abbrechen</h3>
+<p>Der Dialog wird geschlossen ohne etwas zu tun. Eventuellle &Auml;nderungen werden nicht &uuml;bernommen.</p>
+
+<h2><a name='Makros'>Text-Makros</a></h2>
+<p>Die &Uuml;berschrift und die Fu&szlig;note k&ouml;nnen Text-Makros enthalten. Ein Text-Makro ist ein in eckige Klammern eingeschlossenen Wort wie z. B. <b>[datum]</b>. Aus der Fussnote 'Gedruckt am [datum]' wird dann auf einem Ausdruck am 12.10.2012 'Gedruckt am 12. 10. 2012'</p>
+<p>Zur Zeit sind folgende Makros m&ouml;glich:</p>
+<ul>
+<li><b>[datum]</b> wird ersetzt durch aktuelles Datum</li>
+<li><b>[uhrzeit]</b> wird ersetzt durch aktuelles Uhrzeit (Std:Min)</li>
+<li><b>[jahr]</b> wird ersetzt durch aktuelles Jahr</li>
+<li><b>[seite]</b> wird ersetzt durch aktuelle Seiten-Nummer</li>
+<li><b>[seiten]</b> wird ersetzt durch aktuelle Anzahl-Seiten</li>
+<li><b>[bogen]</b> wird ersetzt durch lfd. Nummer des Fragebogens</li>
+<li><b>[auswahl]</b> wird ersetzt durch den Namen der aktuellen Auswahl</li>
+<li><b>[version]</b> wird ersetzt durch aktuelle Progamm-Version</li>
+<li><b>[internet]</b> wird ersetzt durch die Internetadresse f&uuml;r das Fragebogen-Programm</li>
+</ul>
+
+<p>Achtung: die Text-Makros m&uuml;ssen immer kleingeschrieben werden.</p>
+<p>Stand: 2. Nov. 2012</p>
+</body>
+</html>

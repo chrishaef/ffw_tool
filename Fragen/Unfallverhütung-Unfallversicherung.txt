@@ -1,0 +1,173 @@
+// Unfallverhütung-Unfallversicherung.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:19:43 Uhr
+
+1. In welchen Zeitabständen sind die Feuerwehrangehörigen nach § 15 der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) über die Gefahren im Feuerwehrdienst sowie über die Maßnahmen zur Verhütung von Unfällen zu unterweisen?
+  nur alle zwei Jahre
+x mindestens einmal jährlich
+  Es liegt im Ermessen des Wehrführers, die Vorschriften bekannt zu geben.
+
+2. Der Freiwillige Feuerwehrangehörige in Hessen ist gegen Unfälle im Dienst versichert. Bei welchem Versicherungsträger ist der Feuerwehrangehörige versichert?
+  bei der Krankenversicherung
+  bei der Brandversicherung
+x bei der Unfallkasse Hessen (UKH)
+
+3. Wie müssen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) die Übenden bei Selbstrettungsübungen gegen Absturz zusätzlich gesichert sein?
+  durch das Anlegen einer Mehrzweckleine am Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt
+x durch das Anlegen einer Sicherungsleine
+  durch das Anlegen von zwei zusätzlichen Mehrzweckleinen an den Oberarmen
+
+4. Welcher Prüfung unterliegen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) Feuerwehr-Haltegurte/Feuerwehr-Sicherheitsgurte nach jeder Benutzung?
+x Feuerwehr-Haltegurte/Feuerwehr-Sicherheitsgurte müssen einer Sichtprüfung unterzogen werden.
+  Sie müssen einer Sicht- und Belastungsprüfung unterzogen werden.
+  Sie müssen einer Funktionsprüfung unterzogen werden.
+
+5. Wie viele Personen müssen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) und der FwDV 1 „Grundtätigkeiten“ mindestens ein BM-Strahlrohr halten, wenn ein Stützkrümmereinsatz nicht möglich ist?
+  zwei Personen
+x drei Personen
+  vier Personen
+
+6. Welche Schutzausrüstung ist nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) bei Übungen und im Einsatz zu tragen?
+  Es genügt bei Übungen das Tragen des Feuerwehrhelmes und des Schutzanzuges.
+  Beim Einsatz ist keine besondere Schutzausrüstung erforderlich.
+x Bei Übungen und im Einsatz ist die persönliche Schutzausrüstung zu tragen, die vor den vorhandenen und den zu erwartenden Gefahren schützt. Mindestens: Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz und Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk
+
+7. Bis zu welcher Höhe dürfen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemalsGUV-V C 53) Selbstrettungsübungen unter besonderen Sicherungsmaßnahmen durchgeführt werden?
+  Bis zu einer Höhe von 6 Metern sind Selbstrettungsübungen erlaubt.
+x Bis zu einer Höhe von 8 Metern sind Selbstrettungsübungen erlaubt.
+  Bis zu einer Höhe von 10 Metern sind Selbstrettungsübungen erlaubt.
+
+8. Worauf bezieht sich der Geltungsbereich der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53)?
+x Der Geltungsbereich bezieht sich auf Feuerwehreinrichtungen und den Feuerwehrdienst.
+  Der Geltungsbereich bezieht sich nur auf Einsatzstellen und Übungen.
+  Der Geltungsbereich bezieht sich nur auf Einsatzstellen, insbesondere auf die Rettung von Menschenleben.
+
+9. Welche Mindestabstände sind nach FwDV 10 „Die tragbaren Leitern“ bei Annäherung an elektrische, unter Spannung stehende Anlagen einzuhalten?
+  bis 1 000 Volt 1 Meter, über 220 000 Volt mindestens 1 Meter
+  bis 1 000 Volt 1 Meter, über 220 000 Volt mindestens 3 Meter
+x bis 1 000 Volt 1 Meter, über 220 000 Volt mindestens 5 Meter
+
+10. Welcher Sicherheitsabstand ist nach FwDV 10 „Die tragbaren Leitern“ mit Leitern in der Nähe von elektrischen Freileitungen mit einer Spannung von 110 000 Volt mindestens einzuhalten?
+x 3 Meter
+  4 Meter
+  5 Meter
+
+11. Wo ist die Art der Durchführung der regelmäßigen Prüfungen von Ausrüstungen und Geräten nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) festgelegt?
+x in den Prüfgrundsätzen für Ausrüstung und Geräte der Feuerwehr
+  in den Feuerwehr-Dienstvorschriften
+  in den Feuerschutzgesetzen der Bundesländer
+
+12. Wie ist ein Schlauch beim Besteigen einer Leiter zu tragen?
+  Das Strahlrohr wird zwischen Feuerwehr-Haltegurt / Feuerwehr-Sicherheitsgurt und Körper gesteckt.
+  Der Schlauch wird mit einem Schlauchhalter am Körper befestigt.
+x Der Schlauch wird über der Schulter getragen, das Strahlrohr wird nicht zwischen Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und Körper gesteckt.
+
+13. Von wie vielen Personen muss nach der FwDV 1 „Grundtätigkeiten“ ein Sprungtuch ohne Unterstützung im Einsatz im Untergriff in Schulterhöhe gehalten werden?
+  von mindestens 10 Personen
+  von mindestens 15 Personen
+x von mindestens 16 Personen
+
+14. Wie sind nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) Glasdächer und Faserzementdächer zu begehen?
+  Solche Dächer sind nur flach kriechend zu begehen.
+  Solche Dächer sind nur truppweise mit Sicherung durch Feuerwehrleinen begehbar.
+x Solche Dächer sind nur mit Hilfsmitteln wie z. B. tragfähigen Bohlen zu begehen; als Behelf sind tragbare Feuerwehrleitern verwendbar.
+
+15. In welchem Fall dürfen schadhafte Leitern nach der BGI 694 „Handlungsanleitung für den Umgang mit Leitern und Tritten“ wieder benutzt werden?
+  Sie dürfen nie mehr benutzt werden.
+  Sie dürfen wieder benutzt werden, wenn sie geflickt und gestrichen sind.
+x Der Arbeitgeber hat sicherzustellen, dass Leitern und Tritte nach Instandsetzungsarbeiten, welche die Sicherheit dieser Arbeitsmittel beeinträchtigen können, auf ihren sicheren Zustand geprüft werden.
+
+16. Was ist bei Leitern, die an Verkehrswegen aufgestellt sind, nach der BGI 694 „Handlungsanleitung für den Umgang mit Leitern und Tritten“ zu beachten?
+x Leitern auf Verkehrswegen sind gegen unbeabsichtigtes Umstoßen zu sichern.
+  Leitern dürfen nicht auf Verkehrswegen aufgestellt werden.
+  Leitern dürfen nur auf Verkehrswegen aufgestellt werden, wenn diese Wege von der Polizei abgesperrt sind.
+
+17. Wie sind nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) Strahlrohre, Schläuche und Verteiler zu benutzen?
+x so, dass Feuerwehrangehörige beim Umgang mit diesen Geräten nicht gefährdet werden
+  so, dass sie mindestens 35 Jahre eingesetzt werden können
+  Eine besondere Art der Benutzung ist nicht vorgeschrieben.
+
+18. Bis zu welcher Höhe dürfen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) Sprungübungen mit dem Sprungtuch durchgeführt werden?
+  bis zu 8 m
+x Sprungübungen mit dem Sprungtuch sind laut UVV verboten.
+  bis zu 6 m
+
+19. Welche der nachfolgend aufgeführten Ausrüstungsgegenstände sind nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) nach jeder Benutzung einer Sichtprüfung auf Abnutzung und Fehlerstellen zu unterziehen?
+  Saugschläuche, Saugkorb und Mehrzweckleinen
+x Leitern, Feuerwehr-Haltegurte/Feuerwehr-Sicherheitsgurte, Feuerwehrleinen und Sprungrettungsgeräte
+  Schaumstrahlrohre, Zumischer, Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und D-Ansaugschläuche
+
+20. Was ist im Sinne der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) der Einsatzort?
+x die Stelle, an der die Feuerwehr dienstlich tätig wird
+  die Versorgungsstelle für die Einsatzkräfte
+  das Gemeindegebiet
+
+21. Worauf ist nach der VDE 0132 „Brandbekämpfung in elektrischen Anlagen“ beim Aufrichten von Leitern in der Nähe elektrischer Freileitungen oder sonstiger Strom führender Teile zu achten?
+  Es ist darauf zu achten, dass die eingesetzten Leitern isoliert sind.
+  Es ist darauf zu achten, dass die eingesetzten Leitern geerdet sind.
+x Es ist darauf zu achten, dass ein entsprechender Sicherheitsabstand eingehalten wird.
+
+22. In welchem Fall darf von einer tragbaren Leiter Wasser gegeben werden?
+  wenn die Leiter von einem Feuerwehrangehörigen gesichert wird
+x wenn die Leiter am Kopfende befestigt ist und der Strahlrohrführer gesichert ist
+  in keinem Fall
+
+23. Welche der folgenden Teile der persönlichen Schutzausrüstung müssen den Feuerwehrangehörigen nach der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) zur Verfügung gestellt werden?
+  Feuerwehrhelm mit Nackenschutz, Sicherheitsschuhwerk, Schutzhandschuhe
+  Feuerwehrhelm mit Nackenschutz, Schutzanzug
+x Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk
+
+24. Müssen aktive Feuerwehrangehörige über Unfallgefahren bezüglich der UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) unterwiesen werden?
+x ja, im Rahmen der Aus- und Fortbildung und mindestens einmal jährlich
+  Nein, es sei denn, dass es der Leiter der Feuerwehr für notwendig hält.
+  nur in ganz bestimmten Fällen
+
+25. Welche Feuerwehrangehörigen sind bei der Unfallkasse Hessen gesetzlich versichert?
+  nur die Mitglieder der Einsatzabteilung
+x die Mitglieder der Einsatzabteilung sowie die Angehörigen der Jugendfeuerwehr und Kindergruppe
+  grundsätzlich alle Mitglieder des Feuerwehrvereines
+
+26. Sie werden während der Feuerwehrausbildung leicht verletzt. Auf was sollten Sie den behandelnden Arzt hinweisen?
+  auf den Namen des zuständigen Leiters der Feuerwehr
+  auf den Namen des zuständigen Ausbilders
+x dass es sich um einen Feuerwehrdienstunfall handelt und dass die Unfallkasse Hessen der Versicherungsträger ist
+
+27. Sie sind aktives Mitglied der Freiwilligen Feuerwehr und werden auf dem Heimweg nach einer Feuerwehrübung durch einen Unfall verletzt. Deckt die gesetzliche Unfallversicherung diesen Fall ab?
+  nein, da die Übung beendet ist
+  ja, aber nur, wenn Dienstkleidung getragen wurde
+x ja, wenn sich der Unfall auf dem direkten Heimweg ereignete
+
+28. Wer entrichtet die Beiträge zur Finanzierung der gesetzlichen Unfallkassen im Falle der Freiwilligen Feuerwehren?
+x die Gemeinden
+  die Feuerwehrangehörigen
+  die Feuerwehrvereine
+
+29. Welche Rechtsvorschrift ist gesetzliche Grundlage der Unfallversicherung?
+  das Bürgerliche Gesetzbuch
+  die UVVen
+x das Sozialgesetzbuch
+
+30. Wer ist der zuständige Unfallversicherungsträger der Freiwilligen Feuerwehren in Hessen?
+  Stadt/Gemeinde
+x Unfallkasse Hessen (UKH)
+  eigene Unfallversicherung
+
+31. Welches Ereignis zählt zu einem Feuerwehrdienstunfall?
+x ein Arbeitsunfall und ein Wegeunfall
+  ein Arbeitsunfall und eine Berufskrankheit
+  eine Berufskrankheit und ein Wegeunfall
+
+32. Ein Feuerwehrangehöriger hat sich beim Einsatz eine leichte Schnittverletzung zugezogen, die mit einem Pflasterverband versorgt worden ist. Welche Aussage ist zutreffend?
+  Es ist grundsätzlich eine Unfallanzeige zu erstellen.
+x Grundsätzlich sollten auch kleinere Verletzungen in das Verbandbuch eingetragen werden.
+  Es ist eine Unfallanzeige zu erstellen und zusätzlich der Unfall in dem Verbandbuch zu dokumentieren.
+
+33. Was ist beim Betrieb von elektrischen Betriebsmitteln zur Vermeidung eines Stromschlags zu beachten?
+  Sie dürfen nur mit einem Personenschutzschalter betrieben werden.
+x Sie sollen nur an den Stromerzeugern der Feuerwehr angeschlossen werden.
+  Sie dürfen in Ausnahmefällen an einem anderen Speisepunkt ohne Personenschutzschalter betrieben werden.
+
+34. Was ist nach UVV-Feuerwehren (DGUV-Vorschrift 49, ehemals GUV-V C 53) nach jeder Benutzung von ortsveränderlichen elektrischen Betriebsmitteln zu beachten?
+x Es ist eine Sichtprüfung durchzuführen.
+  Es ist eine Funktionsprüfung durchzuführen.
+  Es ist eine Sicht- und Funktionsprüfung durchzuführen.
+

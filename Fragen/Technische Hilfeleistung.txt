@@ -1,0 +1,68 @@
+// Technische Hilfeleistung.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:19:37 Uhr
+
+1. Welche Aufgaben übernimmt der Angriffstrupp im Hilfeleistungseinsatz?
+x Aufgaben der Rettung
+  Aufgaben der Sicherung
+  Aufgaben der Gerätebereitstellung
+
+2. Welche Aufgaben übernimmt der Wassertrupp im Hilfeleistungseinsatz?
+  Aufgaben der Rettung
+x Aufgaben der Sicherung
+  Aufgaben der Gerätebereitstellung
+
+3. Welche Aufgaben übernimmt der Schlauchtrupp im Hilfeleistungseinsatz?
+  Aufgaben der Rettung
+  Aufgaben der Sicherung
+x Aufgaben der Gerätebereitstellung
+
+4. Welche Aussage über die Aufgaben des Angriffstrupps im Hilfeleistungseinsatz ist richtig?
+  Er sichert die Einsatzstelle und nimmt das hierfür erforderliche Gerät vor.
+x Er rettet und leistet technische Hilfe.
+  Er bereitet die befohlenen Geräte für den Einsatz vor, betreibt und überwacht sie zusammen mit dem Maschinisten.
+
+5. Welche Aussage über die Aufgaben des Wassertrupps im Hilfeleistungseinsatz ist richtig?
+x Er sichert die Einsatzstelle und nimmt das hierfür erforderliche Gerät vor.
+  Er rettet und leistet technische Hilfe.
+  Er bereitet die befohlenen Geräte für den Einsatz vor, betreibt und überwacht sie zusammen mit dem Maschinisten.
+
+6. Welche Aussage über die Aufgaben des Schlauchtrupps im Hilfeleistungseinsatz ist richtig?
+  Er sichert die Einsatzstelle und nimmt das hierfür erforderliche Gerät vor.
+  Er rettet und leistet technische Hilfe.
+x Er bereitet die befohlenen Geräte für den Einsatz vor, betreibt und überwacht sie zusammen mit dem Maschinisten.
+
+7. Wer ist befugt Abweichungen von der persönlichen Ausrüstung im Hilfeleistungseinsatz zu befehlen?
+x der Einheitsführer
+  der Angriffstruppführer
+  Es gibt keine Abweichungen, da die Unfallverhütungsvorschriften bereits alles Notwendige geregelt haben.
+
+8. Welche Ausrüstungsgegenstände nimmt der Angriffstrupp im Hilfeleistungseinsatz vor?
+  das hydraulische Rettungsgerät und ein Strahlrohr
+x die Ausrüstungsgegenstände, die der Einheitsführer befiehlt
+  Sanitätskasten, Trage oder Rettungstuch, Verbandkasten oder Notfallrucksack, Gerätesatz „Absturzsicherung“ und Wolldecke
+
+9. Wie ist grundsätzlich auf Bundesstraßen und Bundesautobahnen im Hilfeleistungseinsatz vom Fahrzeug abzusitzen?
+x auf der von der Fahrbahn abgewandten Seite
+  Truppführer sitzen auf der linken Fahrzeugseite ab, Truppmänner auf der rechten
+  Lediglich der Wassertrupp darf absitzen, um Sicherungsmaßnahmen durchzuführen.
+
+10. Welche Aussage über den Melder im Hilfeleistungseinsatz ist richtig?
+x Der Melder arbeitet nach Weisung des Gruppenführers.
+  Der Melder rettet und leistet erste Hilfe.
+  Der Melder sichert die Einsatzstelle automatisch gegen Brandgefahr mit einem Schnellangriff und einem Pulverlöscher.
+
+11. Wer stellt die zur Rettung befohlenen Geräte bereit, wenn der Schlauchtrupp nicht zur Verfügung steht?
+  der Melder und der Maschinist
+x der Angriffstrupp
+  der Wassertrupp
+
+12. Welche Sicherungsaufgaben im Hilfeleistungseinsatz werden durch den Wassertrupp ohne besonderen Befehl vorgenommen?
+x Der Wassertrupp nimmt keine Sicherungsaufgaben ohne besonderen Befehl wahr, er wartet auf die Weisungen des Gruppenführers.
+  Der Wassertrupp sichert automatisch gegen die Brandgefahr, gegen herabfallende Teile, gegen gefährliche Stoffe, gegen Dunkelheit und gegen den fließenden Verkehr.
+  Der Wassertrupp sichert durch Unterbauen das verunfallte Fahrzeug, bevor der Angriffstrupp eine erste Öffnung zu einer eingeklemmten Person schaffen darf.
+
+13. Beim Hilfeleistungseinsatz wird die Ordnung des Raumes gegliedert in...
+  Gefahrenbereich und Absperrbereich
+  Gefahrenbereich und Bereitstellungsbereich
+x Gefahrenstelle, Arbeitsbereich und Absperrbereich
+

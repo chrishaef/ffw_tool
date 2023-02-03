@@ -1,0 +1,338 @@
+// Löschen.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:43 Uhr
+
+1. Welches Löschmittel eignet sich besonders zur Brandbekämpfung von Bränden in empfindlichen elektrischen Anlagen?
+  CO
+x CO2
+  E-Pulver
+
+2. Welche Menge Schaum (m3) kann mit einem Zumischer mit der Typenbezeichnung „Z 2“ und mit einem Schaumstrahlrohr mit der Typenbezeichnung „S 2“ bei einer 3 %igen Zumischung des Schaummittels in 6 Minuten hergestellt werden (Verschäumungszahl = 15)?
+  ca. 10 m3
+  ca. 12 m3
+x ca. 18 m3
+
+3. Wie bezeichnet man den Vorgang, wenn Wasser bei einem brennenden, hoch siedenden Öl falsch eingesetzt wurde?
+  Man bezeichnet diesen Vorgang als Überlaufen des Behälters.
+  Man bezeichnet diesen Vorgang als Druckgefäßzerknall.
+x Man bezeichnet diesen Vorgang als Fettexplosion.
+
+4. Aus welchen Komponenten wird Luftschaum hergestellt?
+  aus Schaummittel, Wasser und Sauerstoff
+  aus Schaummittel, Wasser und Stickstoff
+x aus Schaummittel, Wasser und Luft
+
+5. Wie nennt man Gase, welche einen Brand in erster Linie durch eine Reduzierung der Sauerstoffkonzentration löschen?
+x Inertgase
+  Antigase
+  Synthesegase
+
+6. Bei welchen Bränden wird das Löschverfahren „Abkühlen“ hauptsächlich angewendet?
+x bei Glutbränden
+  bei Gasbränden
+  bei Flüssigkeitsbränden
+
+7. Welche Brände können den Einsatz von Netzmitteln erforderlich machen?
+  Brände von Benzin, Alkohol, Diesel
+x Brände von Kunststoffen, Textilballen, Torf
+  Brände von Propan, Wachs, Natrium
+
+8. Was versteht man unter dem Begriff „Zumischung“?
+  Zumischung ist der prozentuale Anteil von Luft am Löschmittel Schaum.
+x Zumischung ist der prozentuale Anteil von Schaummittel im Wasser-Schaummittel-Gemisch.
+  Zumischung ist der prozentuale Eiweißanteil im Protein-Schaummittel.
+
+9. Welche Löschwirkung besitzt D-Löschpulver bei Metallbränden?
+x Trennung von brennendem Metall und Sauerstoff durch Schmelzen und Krustenbildung
+  antidissoziative Löschwirkung
+  Abkühlung des brennenden Metalls durch das hohe Wärmebindungsvermögen des D-Löschpulvers
+
+10. Welche Aussage zu Proteinschaummitteln ist richtig?
+x Aus Proteinschaummitteln lässt sich nur Schwerschaum herstellen.
+  Proteinschaummittel mit Fluorzusatz sind umweltverträglich.
+  Proteinschaummittel sind hydrolysierte Fettalkohole (Tenside).
+
+11. Welche Löschwirkung hat Kohlenstoffdioxid?
+  eine abkühlende Löschwirkung
+x eine erstickende Löschwirkung
+  eine inhibitorische Löschwirkung
+
+12. Aus welchen Bestandteilen besteht das Löschgas Inergen?
+x Argon, Stickstoff, Kohlenstoffdioxid
+  Oxygen, Stickstoff, Kohlenstoffdioxid
+  Iridium, Helium, Neon, Kohlenstoffdioxid
+
+13. Was ist bei der Anwendung von Schaummitteln zu beachten?
+x Unterschiedliche Schaummittel dürfen nicht vermischt werden.
+  Schaummittel dürfen im Einsatz nur auf befestigtem Untergrund eingesetzt werden.
+  Zwischen Zumischer und Schaumstrahlrohr darf max. ein B-Schlauch gekuppelt werden.
+
+14. Welche Aussage über die Benutzung von Feuerlöschern ist richtig?
+  Tropf- und Fließbrände von unten nach oben löschen
+x Bei Inbetriebnahme dürfen sich keine Körperteile in Wirkrichtung des Überdruckventils befinden.
+  Feuerlöscher dürfen nur von unterwiesenen Personen benutzt werden.
+
+15. Was ist bei der Handhabung von Schaumstrahlrohren zu beachten?
+  Schaum darf grundsätzlich in elektrischen Anlagen eingesetzt werden.
+x Es darf kein Brandrauch angesaugt werden.
+  Der Truppmann hält das Schaumstrahlrohr und bestimmt bei Kombinationsschaumstrahlrohren, welche Schaumart eingestellt wird.
+
+16. Wie heißt die Schaumart, die mit Schaumstrahlrohren hergestellt wird?
+  Kombinationsschaum
+  Chemischer Schaum
+x Luftschaum
+
+17. Wie bezeichnet man das Löschverfahren, bei dem der Löscherfolg durch Wärmeentzug erreicht wird?
+  Man nennt dieses Verfahren Ersticken.
+x Man nennt dieses Verfahren Abkühlen.
+  Man nennt dieses Verfahren antikatalytisches Löschverfahren.
+
+18. Was ist Schwerschaum?
+x Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft erzeugt wird. Die Verschäumungszahl ist kleiner 20.
+  Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft erzeugt wird. Die Verschäumungszahl liegt zwischen 20 und 200.
+  Schwerschaum ist ein Löschmittel, welches auf allen Löschfahrzeugen mitgeführt wird.
+
+19. Was bedeutet bei einem Schaummittel-Zumischer vom Typ Z 4 R das „R“?
+  Rostfreier Zumischer
+x Zumischer mit Zumischregelung
+  Zumischer mit Rückflusssicherung
+
+20. Welches der nachfolgenden Löschmittel hat das kleinste Wärmebindungsvermögen?
+  Luftschaum
+x Löschpulver
+  Wasser
+
+21. Welches Löschmittel eignet sich besonders für die Bekämpfung einer brennbaren Flüssigkeit, die bei einem Tankwagenunfall in Brand geraten ist?
+  Leichtschaum
+x Schwerschaum
+  Kohlenstoffdioxid
+
+22. Worauf ist beim Einbau des Schaummittel-Zumischers zu achten?
+  auf einen festen Untergrund
+x auf die Durchflussrichtung des Wassers
+  dass der Zumischer vom Maschinisten noch zu sehen ist
+
+23. Welche Löschwirkung hat ABC-Löschpulver bei einem Flammenbrand?
+  eine exhibitionierende Löschwirkung
+x eine inhibierende Löschwirkung
+  eine habilitierende Löschwirkung
+
+24. Welches Löschmittel wird vorzugsweise bei dem Brand einer Kohlenhalde eingesetzt?
+  Wasser mit einem Feststoffzusatz
+  Schaum mit Spezialzusätzen
+x Wasser mit einem Netzmittelzusatz
+
+25. Ein Schaumstrahlrohr M 4 mit 150facher Verschäumung benötigt in 5 Minuten 60 l Schaummittel bei einer Einstellung des Zumischers von 3 %. Wie viel Liter Luftschaum werden erzeugt?
+x 300.000 Liter
+  90.000 Liter
+  18.000 Liter
+
+26. Was bedeutet die Typenbezeichnung „Z 4“ bei einem genormten Schaummittel-Zumischer?
+  Dieser Zumischer hat eine fest eingestellte Zumischregelung von 40 %.
+  Der Druckhöhenverlust am Zumischer beträgt 4 bar.
+x Dieser Zumischer ist für einen Gemischdurchfluss von 400 l/min ausgelegt.
+
+27. Welches Fassungsvermögen hat ein genormter Schaummittelbehälter?
+x 20 Liter
+  10 Liter
+  50 Liter
+
+28. Welche Löschwirkungen haben Löschmittel?
+  nur eine Hauptlöschwirkung
+  nur eine Nebenlöschwirkung
+x eine Hauptlöschwirkung und Nebenlöschwirkungen
+
+29. Was geschieht, wenn ein brennender fester Stoff unter seine Zündtemperatur abgekühlt wird?
+  Das Brennen läuft langsam weiter.
+  Das Brennen läuft weiter.
+x Das Brennen wird unterbrochen.
+
+30. Welchen Aggregatzustand (Erscheinungsform eines Stoffes) haben die bei der Feuerwehr verwendeten Löschmittel?
+  nur fest
+  nur fest oder flüssig
+x fest, flüssig oder gasförmig
+
+31. Welcher nachfolgende Stoff kann durch seine Anwesenheit das Brennen unterbinden?
+  Sauerstoff
+x Kohlenstoffdioxid
+  Wasserstoff
+
+32. Warum ist Wasser das geeignetste Löschmittel in der Brandklasse A?
+  weil es chemisch unneutral ist
+  weil es überall vorhanden ist
+x weil es das größte Wärmebindungsvermögen aller Löschmittel besitzt
+
+33. Worin besteht die Hauptlöschwirkung von Leichtschaum?
+  in seiner abkühlenden Wirkung
+x in seiner erstickenden Wirkung
+  in seiner chemischen Wirkung
+
+34. Wonach richtet sich überwiegend die Anwendung der verschiedenen Löschmittel?
+x nach der Art der brennbaren Stoffe
+  nach den Brandtemperaturen
+  nach der Ausdehnung des Brandes
+
+35. Was versteht man unter dem Begriff Löschen?
+  Löschen ist die Vornahme eines Strahlrohres.
+x Löschen ist die Unterbindung des Brennens.
+  Löschen ist das Verlöschen eines Brandes durch den Mangel an brennbaren Stoffen.
+
+36. Welche Brände werden hauptsächlich durch das Löschverfahren „Ersticken“ gelöscht?
+x Flammenbrände
+  Glutbrände
+  Glut- und Flammenbrände
+
+37. Wie heißt das Löschverfahren, bei dem das Mengenverhältnis zwischen brennbarem Stoff und Sauerstoff verändert wird?
+  Abkühlen
+x Ersticken
+  Reaktionshemmung
+
+38. Warum ist die abkühlende Löschwirkung des Wassers beim Sprühstrahl größer als beim Vollstrahl?
+  Die Wassermenge ist größer.
+  Die mechanische Auftreffwucht ist größer.
+x Die beim Sprühstrahl entstehenden Tropfen haben eine kleine Masse und eine große Oberfläche.
+
+39. Worauf beruht der Löscherfolg beim Löschverfahren „Ersticken“?
+  auf der Herabminderung der Brandtemperatur
+  auf der Abkühlung unter den Flammpunkt
+x auf der Veränderung des Mengenverhältnisses zwischen brennbarem Stoff und Sauerstoff, wobei ein Brennen unterbunden wird
+
+40. Mit welcher Löschmethode lässt sich in der Regel bei glutbildenden Bränden der größte Kühleffekt erzielen?
+x den Löschstrahl auf die Glutoberfläche richten, damit Wärme direkt aus der Reaktionszone entzogen wird
+  den Löschstrahl in die Flammen richten, damit die Mindestverbrennungstemperatur herabgesetzt wird
+  Luftschaum über die Glut ausbreiten
+
+41. Was ist ein Netzmittel?
+x ein flüssiger Zusatz zur Herabsetzung der Oberflächenspannung des Wassers
+  eine Flüssigkeit, die durch ihre abkühlende Eigenschaft das Wärmebindungsvermögen des Wassers erheblich verbessert
+  ein flüssiges Löschmittel, das netzförmig auf den brennenden Stoff aufgetragen wird und damit flächendeckend eine erstickende Wirkung erzielt
+
+42. Wie sind Reifenlagerbrände vorzugsweise zu löschen?
+  mehrere tragbare Feuerlöscher mit BC-Löschpulver gleichzeitig einsetzen
+x den Brand mit Sprühstrahl oder mit Schaum bekämpfen
+  den Brand mit gasförmigen Löschmitteln ersticken
+
+43. Was wird beim Sprühstrahl durch eine Erhöhung des Druckes am Strahlrohr erreicht?
+  Es wird eine wesentliche Verringerung der Reichweite des Strahls erreicht.
+x Es wird eine feinere Zerstäubung des Sprühstrahls und damit ein größeres Wärmebindungsvermögen erreicht.
+  Es wird eine Wiederannäherung zu einem geschlossenen Strahl und damit ein größerer Löscherfolg des Wassers erreicht.
+
+44. Was ist beim Einsatz von Wasser als Löschmittel zu beachten?
+x Wasser dringt durch seine hohe Oberflächenspannung nur schlecht in feste brennbare Stoffe ein.
+  Wasser wirkt am besten, wenn es in kleinen Mengen und mit niedriger Temperatur bei Bränden der Brandklasse D eingesetzt wird.
+  Wasser schwimmt auf allen brennbaren Flüssigkeiten.
+
+45. Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?
+x Unterhalb von 15 Vol.-% erlöschen die meisten brennenden Stoffe.
+  Oberhalb von 21 Vol.-% brennen nur Sprengstoffe.
+  In einer reinen Sauerstoffatmosphäre ist ein Brennen ausgeschlossen.
+
+46. Bei welchem aufgeführten Stoff gibt es einen Flamm- und einen Brennpunkt?
+  Holz
+x Benzin
+  Acetylen
+
+47. Welche der folgenden Brände werden der Brandklasse F zugeordnet?
+  Feststoffbrände
+x Speiseölbrände
+  Fließbrände
+
+48. Welchen Nachteil hat der Sprühstrahl gegenüber dem Vollstrahl?
+  Der Sprühstrahl hat ein geringeres Wärmebindungsvermögen.
+x Der Sprühstrahl hat eine geringere Wurfweite und Wurfhöhe.
+  Der Sprühstrahl gefährdet das Schlauchmaterial, da ein hoher Ausgangsdruck für die Löschwirksamkeit erforderlich ist.
+
+49. Wodurch wird die hohe Verschäumungszahl bei Leichtschaum erreicht?
+x durch den Einsatz eines Leichtschaumgenerators in Verbindung mit einem geeigneten Schaummittel
+  durch einen Zumischer Z 8 und ein Leichtschaumstrahlrohr
+  durch den Einsatz von Hochdruck-Feuerlöschkreiselpumpen
+
+50. Wie verhalten sich brennende Leichtmetalle bei Berührung mit Wasser?
+x Es kommt zu einer sehr heftigen Reaktion.
+  Der entstehende Wasserdampf hemmt ein weiteres Brennen.
+  Die Leichtmetalle verhalten sich neutral.
+
+51. Wie kann bei brennbaren Stäuben die Gefahr einer Staubexplosion vermindert bzw. vermieden werden?
+  durch einen Vollstrahleinsatz
+x durch einen Sprühstrahleinsatz
+  durch den Einsatz eines Hohlstrahlrohres mit Vollstrahl
+
+52. Welche Löschwirkung hat die Wasserabgabe mittels Vollstrahl neben der abkühlenden Löschwirkung?
+  eine oxidierende Löschwirkung
+x eine mechanische Löschwirkung
+  eine chemische Löschwirkung
+
+53. Welche Vorgehensweise ist bei Bränden von unter Druck austretenden Gasen richtig?
+  Der Brand wird mit Wasser gelöscht.
+  Der Brand wird mit Schaum gelöscht.
+x Der Brand wird durch das Abschiebern der Leitung gelöscht.
+
+54. Welches Löschmittel eignet sich zur Brandbekämpfung von brennenden festen, flüssigen und gasförmigen Stoffen?
+  BC-Löschpulver
+x ABC-Löschpulver
+  Wasser
+
+55. Welche Schaumart wird bei der Verwendung eines Schaumstrahlrohres mit der Verschäumungszahl 15 hergestellt?
+x Schwerschaum
+  Mittelschaum
+  Leichtschaum
+
+56. Was ist das Besondere einer Verbrennung im Vergleich zu anderen Oxidationsvorgängen?
+  die brennbaren Reaktionsprodukte
+  die hohe Aktivierungsenergie
+x die Licht- und Wärmeerscheinung
+
+57. Welche Substanz kann als Löschmittel für die Brandklasse D verwendet werden?
+  Salzwasser
+x trockener Sand
+  angefeuchtete Sägespäne
+
+58. Wofür verwendet man Mehrbereichsschaummittel?
+  zur Bekämpfung von Feststoff-, Flüssigkeits- und Gasbränden
+  nur zur Bekämpfung von Bränden in verschiedenen Industriebereichen
+x zum Erzeugen von Schwer-, Mittel- und Leichtschaum
+
+59. Nach welcher Zeit sind beim Schaumrohreinsatz 20 l Schaummittel zugemischt, wenn ein Zumischer Z 4 R mit einer Zumischrate von Z R = 3 % eingesetzt wird?
+x nach ca. 1 Minute 40 Sekunden
+  nach ca. 3 Minuten  10 Sekunden
+  nach ca. 5 Minuten  20 Sekunden
+
+60. Welchen Vorteil hat der Sprühstrahl bei der Brandbekämpfung?
+  große Auftreffwucht
+  große Wurfweite
+x große Wärmebindung
+
+61. Für welche Brände ist ein Wasserlöscher geeignet?
+  Wasserlöscher sind nicht zugelassen.
+  für die Brände der Brandklassen B und C
+x für die Brände der Brandklasse A
+
+62. Durch welches Löschverfahren wird Wärme aus der Reaktionszone entzogen?
+  durch das Löschverfahren Ersticken
+x durch das Löschverfahren Abkühlen
+  durch das Löschverfahren Trennen
+
+63. Für welche Brände ist Metallbrandpulver geeignet?
+  für Brände der Brandklasse A
+  für Brände der Brandklasse B
+x für Brände der Brandklasse D
+
+64. Welches Löschmittel ist bei Bränden, die der Brandklasse B zugeordnet sind, geeignet?
+x Mittelschaum
+  Bio-Löschpulver
+  Metallbrandpulver
+
+65. Welche der folgenden Löschregeln trifft zu?
+  Gasbrände werden gekühlt.
+x Flammenbrände werden erstickt.
+  Glutbrände werden abgemagert.
+
+66. Welches Löschverfahren löscht durch Entziehen des brennbaren Stoffes?
+x Abmagern
+  Verdünnen
+  Hemmen der Reaktion
+
+67. Welche Aussage über das Löschmittel Wasser ist richtig?
+  Wasser hat seine größte Dichte bei 100°C.
+x Gefrierendes Wasser dehnt sich aus.
+  Flüssiges Wasser hat bei jeder Temperatur die selbe Dichte.
+

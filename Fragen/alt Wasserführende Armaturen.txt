@@ -1,0 +1,224 @@
+// alt Wasserführende Armaturen.txt
+// automatisch übersetzt am 18 Jun 2009 um 21:58:58 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. Wie viel Liter Wasser liefern überschlagsmäßig ein BM-Strahlrohr und ein CM-Strahlrohr (beide ohne Mundstück) in 6_Minuten bei einem Strahlrohrdruck von 5_bar?
+  ca. 3.800 l
+  ca. 5.800 l
+x ca. 6.000 l
+
+2. Für welche Aufgaben setzt die Feuerwehr die Wasserstrahlpumpe vorzugsweise ein?
+  Sie wird zur Lieferung von Treibwasser über lange Wege eingesetzt.
+x Sie wird zur Entleerung von Kellern, Schächten, Gruben eingesetzt.
+  Sie wird zur Abgabe von Löschwasser eingesetzt.
+
+3. Welche wasserführende Armatur wird bei der Wasserentnahme aus einem Hydranten am Sauganschluss der Feuerlösch-Kreiselpumpe angekuppelt?
+x das Sammelstück
+  das Übergangsstück A/B
+  das Druckbegrenzungsventil
+
+4. Was sind wasserführende Armaturen?
+  Wasserführende Armaturen sind die Überdruck- und Unterdruckmessgeräte an der TS.
+x Wasserführende Armaturen sind starre Bestandteile, die von Löschwasser durchflossen werden.
+  Wasserführende Armaturen sind alle starren Bestandteile der Feuerwehrausrüstung.
+
+5. Welche Strahlrohrkombination liefert überschlagsmäßig ca. 600_l/min bei 5_bar Strahlrohrdruck?
+  1 BM-Strahlrohr ohne Mundstück und 1_CM-Strahlrohr mit Mundstück
+  2 CM-Strahlrohre ohne Mundstück und 1_CM-Strahlrohr mit Mundstück
+x 2 DM-Strahlrohre ohne, 1 BM-Strahlrohr mit und 1_CM-Strahlrohr mit Mundstück
+
+6. Wie viel Liter Wasser liefert überschlagsmäßig ein genormtes DM-Strahlrohr mit Mundstück bei einem Strahlrohrdruck von 5_bar in 6_Minuten?
+x ca. 150 Liter
+  ca.   25 Liter
+  ca.   50 Liter
+
+7. Was ist ein DM-Strahlrohr?
+x ein D-Mehrzweckstrahlrohr mit den Schaltmöglichkeiten Sprüh- und Vollstrahl und Halt
+  ein D-Strahlrohr mit Mannschutzbrause
+  ein druckverstellbares Mittelschaumstrahlrohr
+
+8. Wo wird das Sammelstück verwendet?
+x an der Feuerlösch-Kreiselpumpe
+  am Standrohr
+  am Überflurhydranten
+
+9. Welche Aufgabe hat der Stützkrümmer?
+  Er reguliert den Einlaufdruck an der Pumpe.
+x Er dient zur Ableitung der Rückkraft beim BM-Strahlrohreinsatz.
+  Er dient zur Erhöhung des Wasserdruckes beim Einsatz eines BM-Strahlrohres.
+
+10. Welche wasserführende Armatur ermöglicht den Einsatz eines BM-Strahlrohres mit nur zwei Feuerwehrangehörigen?
+x der Stützkrümmer
+  der Einlaufbogen
+  das Druckbegrenzungsventil
+
+11. Welche Aufgabe hat das Sammelstück?
+x Das Sammelstück hat die Aufgabe, die Löschmittelströme zweier Zuleitungen zusammenzufassen.
+  Das Sammelstück hat die Aufgabe Pumpe und Schläuche vor Druckstößen zu schützen.
+  Das Sammelstück hat die Aufgabe Löschmittelströme zu verteilen.
+
+12. Welche Aufgabe hat die Rückschlagklappe im Sammelstück?
+  Sie dient zur Ableitung des Überdrucks am Eingangsstutzen der Pumpe.
+  Sie reguliert den Eingangsdruck an der Pumpe.
+x Sie verschließt automatisch den zweiten Zugang beim Anschluss von nur einer Schlauchleitung.
+
+13. Was bedeutet die Kurzbezeichnung "Z_2 R" für einen Zumischer?
+x Zumischer für 200 l/min Gemischdurchfluß mit Zumisch-Regelung
+  Zumischer für 200 l/min Gemischdurchfluß mit Reibungsverlust-Anzeiger
+  Zumischer für 200 l/min Gemischdurchfluß mit regelbarem Absperrventil
+
+14. Wann muss das Druckbegrenzungsventil spätestens ansprechen?
+  Es muss bei 1,5 bar über Einstelldruck und 1,5_bar unter Einstelldruck öffnen bzw. schließen.
+  Es muss bei 1,0 bar über Einstelldruck und 1,0_bar unter Einstelldruck öffnen bzw. schließen.
+x Es muss bei 0,5 bar über Einstelldruck öffnen und 0,5_bar unter Einstelldruck schließen.
+
+15. Welche Ansprechdrücke sind am Druckbegrenzungsventil einstellbar?
+  zwischen 1 bar und 10 bar
+x zwischen 0 bar und 16 bar
+  zwischen 0,5 bar und 20 bar
+
+16. Welche Einstellungen für den Schaummittelzusatz sind an einem genormten Zumischer (ZR) vorgesehen?
+  Einstellungen zwischen 0,5 % und 7_%
+  Einstellungen zwischen 2 % und 8 %
+x Einstellungen zwischen 0 % und 6 %
+
+17. Welche Kupplungsarten befinden sich an einem Sammelstück?
+x zwei B-Festkupplungen und ein drehbares Knaggenteil der A-Druck-Saugkupplung  (A-2B)
+  zwei einteilige C-Festkupplungen und eine zweiteilige A-Festkupplung (A-2C)
+  zwei bewegliche A-Festkupplungen und eine unbewegliche B-Festkupplung (2A-B)
+
+18. Welche Schlauchkupplungsgrößen sind als Druck-Saugkupplungen genormt?
+x A- und D-Schlauchkupplungen
+  A-, B- und C-Schlauchkupplungen
+  nur A-Schlauchkupplungen
+
+19. Welche Dichtringe sind im Sammelstück enthalten?
+  ein A-Druckdichtring und vier B-Druckdichtringe
+  ein A-Druckdichtring und vier B-Saugdichtringe
+x ein A-Druck-Saugdichtring und vier B-Druckdichtringe
+
+20. Welche Druckbegrenzungsventile sind genormt?
+x nur Druckbegrenzungsventile der Größe B
+  Druckbegrenzungsventile der Größen_B_und C
+  Druckbegrenzungsventile der Größen_A_und B
+
+21. Wovon ist die Effektivität von Strahlrohren weitestgehend abhängig?
+  nur vom verfügbaren Druck am Strahlrohr
+  von der Art der brennbaren Stoffe und den zu verwendenden Löschmethoden
+x von der Strahlart, Druckhöhe am Strahlrohreingang und dem Querschnitt am Strahlrohrausgang
+
+22. Welche Hydranten haben Festkupplungen mit metallischen Dichtflächen?
+x nur Überflurhydranten
+  nur Überflurhydranten ohne Fallmantel
+  alle Unterflurhydranten und alle Überflurhydranten
+
+23. Welche Festkupplungen sind an genormten Zumischern, außer dem Anschluss für den Ansaugschlauch, angebracht?
+x 2 C-Festkupplungen oder 2 B-Festkupplungen
+  2 C-Festkupplungen oder 2 D-Festkupplungen
+  2 A-Festkupplungen oder 2 B-Festkupplungen
+
+24. Welche Mundstück- und Düsenweite hat ein genormtes DM-Strahlrohr?
+  3 und 7 mm
+x 4 und 6 mm
+  3 und 8 mm
+
+25. Was bedeutet die Strahlrohrbezeichnung CM?
+  C-Strahlrohr für Metallbrände
+  C-Strahlrohr mit Mannschutzbrause
+x C-Mehrzweckstrahlrohr
+
+26. Aus welchen zwei Hauptteilen besteht das genormte Standrohr?
+  aus einem Rohrstück und dem Ventilkopfstück
+x aus dem Standrohrunterteil und dem Standrohroberteil
+  aus dem Standrohrfuß und dem drehbaren Aufsatzstück
+
+27. In welcher Ausführung gibt es genormte Standrohre?
+x Standrohre mit B-Abgängen
+  Standrohre mit C-Abgängen
+  Standrohre mit B- und C-Abgänge
+
+28. Wie viel Haltepunkte hat eine genormte Druckkupplung?
+  2 Haltepunkte
+  3 Haltepunkte
+x 4 Haltepunkte
+
+29. Wie viel Haltepunkte hat eine Saugkupplung?
+x 4 Haltepunkte
+  3 Haltepunkte
+  2 Haltepunkte
+
+30. Welchen Übergang erlaubt das Übergangsstück A-B?
+x von 110 mm auf 75 mm
+  von   78 mm auf 52 mm
+  von   52 mm auf 25 mm
+
+31. Worauf ist bei der Bedienung eines Verteilers mit Kugelhähnen besonders zu achten?
+  Alle Hähne sind rechtsdrehend zu schließen.
+x Die Hähne dürfen nicht schlagartig geöffnet und geschlossen werden.
+  Die Hähne sind beim Einsatz eines Schaumrohres nur halb zu öffnen.
+
+32. Welche Hauptaufgabe hat das Rückschlagorgan im Saugkorb?
+x Es soll ein Zurücklaufen des Wassers in der Saugleitung bei Unterbrechung der Wasserförderung verhindern.
+  Es soll den Zutritt von Luft verhindern.
+  Es soll die Entstehung von Reibungswärme im Saugschlauch vermeiden.
+
+33. Worin besteht einer der wesentlichen Unterschiede zwischen einer Saugkupplung und einer Druckkupplung?
+  Die Saugkupplung ist kleiner und leichter als die Druckkupplung.
+  Die Saugkupplung hat ein drehbares Mittelteil.
+x Die Saugkupplung hat einen längeren Einbindestutzen als die Druckkupplung.
+
+34. Zu welchem Zweck werden Übergangsstücke benötigt?
+  Sie werden nur zum Einkuppeln eines Zumischers in eine B-Druckleitung benötigt.
+  Sie werden zum Anschluss eines B-Druckschlauches an einen Überflurhydranten benötigt.
+x Sie werden zum Verbinden von Kupplungen verschiedener Nennweiten benötigt.
+
+35. Welche Wasserlieferung hat ein genormtes BM-Strahlrohr ohne Mundstück in 5_Minuten bei einem Strahlrohrdruck von 5_bar?
+  ca.    400 Liter
+x ca. 4.000 Liter
+  ca. 2.000 Liter
+
+36. Sie setzen ein Standrohr auf einen Unterflurhydranten. Nachdem sie den Unterflurhydranten aufgedreht haben, spritzt Wasser aus dem Standrohrsitz! Was ist der Grund für diese undichte Stelle?
+  Die metallische Dichtfläche am Standrohr ist beschädigt.
+x Der Gummidichtring am Standrohrfuß fehlt oder ist beschädigt.
+  Der Hydrant wurde bis zum Anschlag aufgedreht.
+
+37. Welche wasserführende Armatur verhindert die Überbeanspruchung des Schlauchmaterials durch zu hohen Druck?
+  der Verteiler
+  das Sammelstück
+x das Druckbegrenzungsventil
+
+38. Welche Mundstücks- und Düsenweiten haben genormte BM-Strahlrohre?
+x 16 mm und 22 mm
+  18 mm und 22 mm
+  14 mm und 16 mm
+
+39. Welche der genannten Kupplungen hat den längsten Einbindestutzen?
+  die B-Druckkupplung
+  die C-Druckkupplung
+x die A-Saugkupplung
+
+40. Welches Strahlrohr liefert bei 5_bar Strahlrohrdruck in 10_Minuten ca. 500_l Wasser?
+  ein CM-Strahlrohr mit Mundstück
+x ein DM-Strahlrohr ohne Mundstück
+  ein DM-Strahlrohr mit Mundstück
+
+41. Kann nach erfolgter Vornahme eines Schaumstrahlrohres M_2 die Verschäumungszahl verändert werden?
+  Ja, am Einstellventil (Handrad) des Zumischers kann die Verschäumungszahl geändert werden.
+  Ja, wenn man ein leichteres Schaummittel einsetzt.
+x Nein, bedingt durch den konstruktiven Aufbau des Schaumstrahlrohres M_2 ist es nicht möglich.
+
+42. Welchen Übergang erlaubt ein B/C-Übergangsstück nicht?
+  von 75 mm auf 42 mm
+x von 75 mm auf 25 mm
+  von 75 mm auf 52 mm
+
+43. Welche Mundstücks- und Düsenweite hat ein genormtes CM-Strahlrohr?
+  7 mm und 12 mm
+  8 mm und 12 mm
+x 9 mm und 12 mm
+
+44. Welche Schaltvorgänge sind mit dem Schaltorgan eines Mehrzweckstrahlrohres möglich?
+  Absperren, Sprühstrahl und Mannschutzbrause
+x Vollstrahl, Absperrung und Sprühstrahl
+  nur Absperrung und Vollstrahl
+

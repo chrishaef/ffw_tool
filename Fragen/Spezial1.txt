@@ -1,0 +1,293 @@
+// Spezial1.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:20:06 Uhr
+
+1. Wo steht die Gefahrnummer?
+  in der unteren Hälfte der orangefarbenen Warntafel
+x in der oberen Hälfte der orangefarbenen Warntafel
+  auf dem Gefahrzettel
+
+2. Wie kann Inkorporation stattfinden?
+  nur durch den Mund
+x durch Körperöffnungen und über die Haut
+  nur über offene Verletzungen
+
+3. Wo steht die Stoffnummer?
+x in der unteren Hälfte der orangefarbenden Warntafel
+  in der oberen Hälfte der orangefarbenden Warntafel
+  auf dem Gefahrzettel
+
+4. Welche der folgenden Beschreibungen kennzeichnet einen Gefahrzettel?
+x ein Quadrat, das auf der Spitze steht
+  eine orangefarbene Tafel ohne Beschriftung
+  ein orangefarbenes Rechteck mit Zusatzsymbol, wie z. B. Flamme oder Totenkopf
+
+5. Bei einem Werkstattbrand erkennen Sie einen Flaschenwagen mit zwei Druckgasflaschen. Eine der Flaschen hat eine kastanienbraune Farbe. Um welche Gase kann es sich hierbei handeln?
+  um Kohlenstoffdioxid und Sauerstoff
+x um Acetylen und Sauerstoff
+  um Stickstoff und Kohlenstoffdioxid
+
+6. Sie gehen bei einem GABC-Einsatz zur Menschenrettung vor. Welche der folgenden Aussagen ist richtig?
+  Zur Menschenrettung darf im GABC-Einsatz nur geschützt durch einen Chemikalienschutzanzug vorgegangen werden.
+  Da zur Menschenrettung höchste Eile geboten ist, wird kein PA benötigt.
+x Es ist darauf zu achten, dass keine Hautpartien frei liegen.
+
+7. Welche der folgenden Aussagen ist richtig?
+x Die Einwirkung mechanischer Energie auf den Körper ist zu verhindern.
+  Eine Kontamination ist gefährlicher als eine Inkorporation.
+  Kontaminationsverschleppung ist unproblematisch.
+
+8. Durch welche Regel legt die FwDV 500 „Einheiten im ABC-Einsatz“ die Erstmaßnahmen fest, die auch von den Einsatzkräften, die nicht über eine entsprechende Ausrüstung und Ausbildung für den GABC-Einsatz verfügen, durchgeführt werden können?
+  die ZIEGE-Regel
+x die GAMS-Regel
+  die HUND-Regel
+
+9. Was versteht man unter dem Begriff „Kontamination“?
+x eine äußere Verunreinigung mit GABC-Stoffen
+  eine Aufnahme von GABC-Stoffen in den Körper
+  eine Leckage an einem Behälter, der GABC-Stoffe enthält
+
+10. Sie sind als Angriffstruppmann eingesetzt und nehmen zur Brandbekämpfung ein C-Rohr vor. An der Brandstelle finden Sie Packstücke, die mit einem quadratischen, auf der Spitze stehenden blauen Gefahrzettel gekennzeichnet sind. Welche Bedeutung hat dieser Gefahrzettel?
+  Die Verpackung enthält wässerige Stoffe.
+  Die Verpackung und der Inhalt können mit Wasser gelöscht werden.
+x Der Inhalt der Verpackung entwickelt bei Berührung mit Wasser entzündbare Gase.
+
+11. An einem verunfallten LKW befindet sich eine orangefarbene Warntafel mit Ziffern. Welche Bedeutung haben diese Ziffern?
+x obere Ziffern Gefahrnummer, untere Ziffern UN-Nummer
+  obere Ziffern UN-Nummer, untere Ziffern NATO-Nummer
+  obere Ziffern Gefahrnummer, untere Ziffern EU-Nummer
+
+12. Auf einer orangefarbenen Warntafel befindet sich in der oberen Hälfte die Ziffer 225. Welche Eigenschaften hat der transportierte Stoff?
+x tiefgekühlt verflüssigtes Gas, oxidierend (brandfördernd)
+  besonders gasförmiges Gas, ansteckungsgefährlich
+  brennbarer flüssiger Stoff, der Gase entwickelt, die giftig sind
+
+13. Auf einer orangefarbenen Warntafel befindet sich in der oberen Hälfte die Ziffer 23. Welche Eigenschaften hat der transportierte Stoff?
+  brennbarer flüssiger Stoff, der Gase oder Dämpfe entwickelt
+  brennbarer gasförmiger Stoff, der flüssig wird
+x entzündbares Gas
+
+14. Auf einer orangefarbenen Warntafel befindet sich in der oberen Hälfte die Ziffer 606. Welche Eigenschaften hat der transportierte Stoff?
+  giftiger Stoff, der giftige Dämpfe entwickelt
+x ansteckungsgefährlicher Stoff
+  Das ist offensichtlich ein Schreibfehler, es muss 66 heißen.
+
+15. Welche Stoffe sind in der FwDV 500 „Einheiten im ABC-Einsatz“ der Maßnahmengruppe 2 zugeordnet?
+x alle verdichteten, verflüssigten oder unter Druck gelösten Gase
+  alle brennbaren Flüssigkeiten, die Dämpfe entwickeln
+  nur die giftigen gasförmigen Stoffe
+
+16. Was wird in einem Eisenbahn-Kesselwagen transportiert, der mit einem 300 mm breiten orangefarbenen Ring in der Längsachse gekennzeichnet ist?
+  brennbare flüssige Stoffe
+  Acetylen
+x verflüssigte Gase
+
+17. Welche Feuerwehrdienstvorschrift (FwDV) legt die Regeln für den Einsatz mit GABC-Stoffen fest?
+  die FwDV 100
+  die FwDV 14
+x die FwDV 500
+
+18. Welche schriftlichen Informationsquellen befinden sich im Fahrerhaus eines LKWs, der Gefahrgut in kennzeichnungspflichtiger Menge transportiert?
+  das Hommel-Merkblatt
+x die schriftlichen Weisungen
+  dem Stoff entsprechende ERI-CARD
+
+19. Welche Maßnahme bietet wirksamen Schutz vor Inkorporation von GABC-Stoffen?
+  Deckung suchen
+  Abschirmung nutzen
+x Atemschutz tragen
+
+20. Welche Maßnahme bietet Schutz vor der äußeren Einwirkung von GABC-Stoffen?
+x Abstand halten
+  Inkorporation ausschließen
+  Atemschutz tragen
+
+21. Eine kontaminierte verletzte Person wird vom Angriffstrupp gerettet. Welche der folgenden Aussagen bezüglich der anschließenden Notdekontamination ist richtig?
+x Lebensrettende Sofortmaßnahmen gehen vor jeder Dekontamination.
+  Der Verletzte darf keinesfalls mit Wasser abgespült werden.
+  Das abfließende Spülwasser muss auf jeden Fall aufgefangen werden.
+
+22. <IMG SRC='fluessig_brennbar.gif' WIDTH=100 Height=95 ALIGN=RIGHT alt=''>Der Angriffstrupp erkennt an einem verunfallten LKW folgenden roten Großzettel mit schwarzem Flammensymbol: Welche Eigenschaften hat der transportierte Stoff?
+  brennbar, gasförmig
+  brennbar, fest
+x brennbar, flüssig
+
+23. Wann spricht die akustische Warneinrichtung eines Behältergerätes mit Druckluft an?
+  zwischen 55 und 65 bar
+x zwischen 50 und 60 bar
+  zwischen 45 und 55 bar
+
+24. Welche der nachgenannten Atemschutzgeräte arbeiten umluftunabhängig?
+x die Behältergeräte
+  die Brandfluchthauben
+  die Filtergeräte
+
+25. In welche Atemgiftgruppe gehört Blausäure (HCN)?
+  zu den Atemgiften mit erstickender Wirkung
+  zu den Atemgiften mit Reiz- und Ätzwirkung
+x zu den Atemgiften mit Wirkung auf Blut, Nerven und Zellen
+
+26. Warum ist es wichtig, dass der vorgehende Atemschutztrupp regelmäßige Rückmeldungen mittels Sprechfunk an den Einheitsführer gibt?
+x Für den Einheitsführer sind die Informationen aus dem Inneren eines Gebäudes zur Beurteilung der Lage wichtig.
+  um einer elektrostatischen Aufladung des Sprechfunkgerätes entgegenzuwirken
+  Durch diese Maßnahme kann der Rückweg des vorgehenden Trupps gesichert werden.
+
+27. Wie lange reicht der Atemluftvorrat eines Pressluftatmers bei mittlerer Belastung des Atemschutzgeräteträgers aus?
+  höchstens 10 Minuten
+x ca. 30 bis 40 Minuten
+  ca. 60 bis 70 Minuten
+
+28. Welchen Zweck erfüllt der Lungenautomat an einem Behältergerät?
+  Er steuert die Funktion der Lunge des Geräteträgers.
+x Er steuert die Abgabe der Atemluftmenge an den Geräteträger.
+  Er reduziert den Flaschendruck auf Mitteldruck.
+
+29. Welches Atemgift entsteht hauptsächlich beim Verbrennen von Polyvinylchlorid (PVC)?
+  Blausäuredämpfe
+x Salzsäuredämpfe
+  Fluorwasserstoff
+
+30. In welche Gruppe der Atemgifte ist Kohlenstoffdioxid einzuordnen?
+  Atemgifte mit erstickender Wirkung
+  Atemgifte mit Reiz- und Ätzwirkung
+x Atemgifte mit Wirkung auf Blut, Nerven und Zellen
+
+31. Wie wirkt Chlor als Atemgift auf den menschlichen Körper?
+  Es wirkt direkt schädigend auf das zentrale Nervensystem.
+  Es wirkt schädigend auf das Blut.
+x Es wirkt schädigend auf die Atemorgane und zerstört die Lungenbläschen.
+
+32. Worauf muss der Atemschutztrupp im Rahmen der Erstorientierung achten?
+x auf die Gebäudeabmaße (Länge, Breite, Höhe)
+  auf die Fahrzeugaufstellung
+  Nur auf die Anzahl der benötigten Schlauchreserve
+
+33. Im Atemschutzeinsatz müssen die Kommunikationswege eingehalten werden. Welche Aussage trifft zu?
+  Der Angriffstrupp übermittelt seine Lagemeldungen an den Maschinisten.
+x Der Angriffstrupp übermittelt seine Lagemeldungen an den Einheitsführer.
+  Der Angriffstrupp übermittelt seine Lagemeldungen nur nach Aufforderung.
+
+34. Welche Feuerwehrdienstvorschrift regelt die Vorgehensweise bei Gefahren durch Kampfstoffe?
+  die FwDV 2
+x die FwDV 500
+  die FwDV 13/1
+
+35. Wie kommt bei einem Kernwaffeneinsatz die freigesetzte Energie zur Wirkung?
+  nur als ionisierende Strahlung
+  nur als thermische und ionisierende Strahlung
+x als Druck, thermische und ionisierende Strahlung
+
+36. Welche Strahlungsarten können bei einem Kernwaffeneinsatz entstehen?
+  nur Gammastrahlung
+  nur Alpha- und Betastrahlung
+x Alpha-, Beta-, Gamma- und Neutronenstrahlung
+
+37. Welches Fahrzeug wird unter anderem für Messaufgaben im Zivilschutz vom Bund vorgesehen?
+x ABC-Erkundungskraftwagen
+  Strahlenspürtruppfahrzeug
+  Gerätewagen IuK
+
+38. Welches Bundesamt unterstützt die Arbeit im Zivilschutz?
+  das Bundesamt für Katastrophenschutz
+  das Bundeszivilschutzamt
+x das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+
+39. Welche öffentliche Feuerwehr leistet den Brandsicherheitsdienst bei einer Veranstaltung im Bürgerhaus der Gemeinde B-Dorf?
+  Jede öffentliche Feuerwehr kann den Brandsicherheitsdienst im Bürgerhaus B-Dorf leisten.
+  Welche Feuerwehr den Brandsicherheitsdienst leistet, wird durch die Brandschutzdienststelle festgelegt.
+x Nur die öffentliche Feuerwehr der Gemeinde B-Dorf leistet den Brandsicherheitsdienst.
+
+40. Wer bestimmt Art und Umfang des Brandsicherheitsdienstes?
+  Der Leiter des Ordnungsamtes
+  Die Brandschutzdienststelle
+x Die Leitung der Feuerwehr
+
+41. In welcher Reihenfolge sind die Maßnahmen bei einem Brand innerhalb einer Versammlungsstätte abzuarbeiten?
+  Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, zuständige Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.
+x Zuständige Brandmeldestelle informieren, Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, Einweisung der anrückenden Einsatzkräfte veranlassen.
+  Lösch- und Sicherheitseinrichtungen auslösen, Erkundung, Brandbekämpfung, zuständige Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.
+
+42. Welche Maßnahmen sind bei einem Brand außerhalb der Versammlungsstätte sofort zu ergreifen?
+x Die zuständige Brandmeldestelle ist sofort zu alarmieren.
+  Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverzüglich zur Brandmeldezentrale um dort durch den Wachhabenden weitere Befehle zu erhalten.
+  Die Posten, die den Brand außerhalb der Versammlungsstätte bemerkt haben, beginnen unverzüglich mit Löscharbeiten.
+
+43. Sind die Dämpfe von Benzin schwerer oder leichter als Luft?
+x Die Dämpfe von Benzin sind schwerer als Luft.
+  Die Dämpfe von Benzin sind leichter als Luft.
+  Die Dämpfe von Benzin sind genauso schwer wie Luft.
+
+44. In welchem Temperaturbereich liegt der Flammpunkt brennbarer Flüssigkeiten, die mit dem folgenden Gefahrensymbol gekennzeichnet sind? Achtung
+  Der Flammpunkt liegt unter 0°C.
+  Der Flammpunkt liegt unter 23°C.
+x Der Flammpunkt liegt zwischen 23°C und 60°C.
+
+45. Wie bezeichnet man eine irreversible chemische Zersetzung eines Stoffes, die durch die Erwärmung des Stoffes stattfindet (ohne Oxidation)?
+  als Antikatalyse
+x als Pyrolyse
+  als Hydrolyse
+
+46. Welche Art der Wärmeübertragung ist an kein Medium gebunden?
+  die Wärmeleitung
+  die Konvektion
+x die Wärmestrahlung
+
+47. Welche Aussage hinsichtlich der Temperatur des Flammpunktes und des Brennpunktes einer brennbaren Flüssigkeit ist richtig?
+x Die Temperatur des Brennpunktes ist höher als die des Flammpunktes.
+  Der Flammpunkt und der Brennpunkt haben die gleiche Temperatur.
+  Die Temperatur des Flammpunktes ist höher als die des Brennpunktes.
+
+48. Was versteht man unter dem Begriff „Zündtemperatur“ nach DIN 14 011?
+x Die Zündtemperatur ist die niedrigste Temperatur, bei der ein brennbarer Stoff unter festgelegten Bedingungen zu brennen beginnt.
+  Die Zündtemperatur ist die Temperatur eines brennenden Streichholzes.
+  Die Zündtemperatur ist die Temperatur, bei der eine brennbare Flüssigkeit beginnt, Dämpfe abzugeben.
+
+49. Wovon hängt die Brandgefährlichkeit eines festen Stoffes ab?
+  von seiner Dichte
+x von seiner Entzündbarkeit
+  von seiner Festigkeit
+
+50. Welchen Explosionsbereich hat ein Acetylen-Luft-Gemisch?
+  von 0  bis    5 Vol.-%
+  von 4  bis  10 Vol.-%
+x von 1,5  bis  82 Vol.-%
+
+51. Was ist Wärmestrahlung?
+  Wärmestrahlung ist eine Strahlung, die ungehindert durch jeden Körper hindurchgeht.
+  Wärmestrahlung ist eine elektromagnetische Wellenstrahlung, die von der Wärmeleitzahl abhängt.
+x Wärmestrahlung ist eine elektromagnetische Wellenstrahlung, die mit der Entfernung im Quadrat abnimmt.
+
+52. Welche Voraussetzungen müssen für das Brennen vorhanden sein?
+  ein brennbarer Stoff, Sauerstoff, Wärme, Flammpunkt und ein Katalysator
+x ein brennbarer Stoff, Sauerstoff, das richtige Mengenverhältnis, Zündenergie und ggf. ein Katalysator
+  ein brennbarer Stoff, Luft mit mindestens 10 % Sauerstoff und 89 % Stickstoff
+
+53. Welche brennbaren Stoffe haben einen Brennpunkt?
+  alle brennbaren festen Stoffe
+x alle brennbaren flüssigen Stoffe
+  alle brennbaren gasförmigen Stoffe
+
+54. Welche der nachfolgend aufgeführten Stoffe haben einen Flammpunkt?
+  Holz und Kohle
+  Chlor, Stickstoff und Argon
+x Schwefelkohlenstoff, Alkohol und Spiritus
+
+55. Welche Maßeinheit ist die SI-Einheit der Wärme?
+  Kelvin
+x Joule
+  Watt
+
+56. Was ist die Mindestverbrennungstemperatur?
+  Die Mindestverbrennungstemperatur ist die Temperatur, bei der ein brennbarer Stoff zündet.
+x Die Mindestverbrennungstemperatur ist eine auf den Stoff bezogene Temperatur, die mindestens erforderlich ist, um ein Brennen aufrechtzuerhalten.
+  Die Mindestverbrennungstemperatur ist die Temperatur, bei der ein brennbarer Stoff erstmalig entflammen kann.
+
+57. Welche Reihenfolge der nachstehenden Temperaturen ist richtig, wenn die Temperaturen steigend angeordnet werden?
+  Brennpunkt, Flammpunkt, Zündtemperatur
+  Flammpunkt, Zündtemperatur, Brennpunkt
+x Flammpunkt, Brennpunkt, Zündtemperatur
+
+58. Wie werden die brennbaren Stoffe hinsichtlich ihrer Entzündbarkeit eingeteilt?
+  in schwer, normal und leicht brennbare Stoffe
+  in schwer-, normal- und schnellentzündbare Stoffe
+x in selbst-, leicht-, normal- und schwerentzündbare Stoffe
+

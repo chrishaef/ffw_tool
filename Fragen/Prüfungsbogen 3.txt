@@ -1,0 +1,293 @@
+// 2.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:20:29 Uhr
+
+1. Welchen Nachteil hat der Sprühstrahl gegenüber dem Vollstrahl?
+  Der Sprühstrahl hat ein geringeres Wärmebindungsvermögen.
+x Der Sprühstrahl hat eine geringere Wurfweite und Wurfhöhe.
+  Der Sprühstrahl gefährdet das Schlauchmaterial, da ein hoher Ausgangsdruck für die Löschwirksamkeit erforderlich ist.
+
+2. Wodurch wird die hohe Verschäumungszahl bei Leichtschaum erreicht?
+x durch den Einsatz eines Leichtschaumgenerators in Verbindung mit einem geeigneten Schaummittel
+  durch einen Zumischer Z 8 und ein Leichtschaumstrahlrohr
+  durch den Einsatz von Hochdruck-Feuerlöschkreiselpumpen
+
+3. Welche Löschwirkung hat die Wasserabgabe mittels Vollstrahl neben der abkühlenden Löschwirkung?
+  eine oxidierende Löschwirkung
+x eine mechanische Löschwirkung
+  eine chemische Löschwirkung
+
+4. Welche Vorgehensweise ist bei Bränden von unter Druck austretenden Gasen richtig?
+  Der Brand wird mit Wasser gelöscht.
+  Der Brand wird mit Schaum gelöscht.
+x Der Brand wird durch das Abschiebern der Leitung gelöscht.
+
+5. Welches Löschmittel eignet sich zur Brandbekämpfung von brennenden festen, flüssigen und gasförmigen Stoffen?
+  BC-Löschpulver
+x ABC-Löschpulver
+  Wasser
+
+6. Welche Schaumart wird bei der Verwendung eines Schaumstrahlrohres mit der Verschäumungszahl 15 hergestellt?
+x Schwerschaum
+  Mittelschaum
+  Leichtschaum
+
+7. Was ist das Besondere einer Verbrennung im Vergleich zu anderen Oxidationsvorgängen?
+  die brennbaren Reaktionsprodukte
+  die hohe Aktivierungsenergie
+x die Licht- und Wärmeerscheinung
+
+8. Wofür verwendet man Mehrbereichsschaummittel?
+  zur Bekämpfung von Feststoff-, Flüssigkeits- und Gasbränden
+  nur zur Bekämpfung von Bränden in verschiedenen Industriebereichen
+x zum Erzeugen von Schwer-, Mittel- und Leichtschaum
+
+9. Nach welcher Zeit sind beim Schaumrohreinsatz 20 l Schaummittel zugemischt, wenn ein Zumischer Z 4 R mit einer Zumischrate von Z R = 3 % eingesetzt wird?
+x nach ca. 1 Minute  40 Sekunden
+  nach ca. 3 Minuten  10 Sekunden
+  nach ca. 5 Minuten  20 Sekunden
+
+10. Welche der folgenden Löschregeln trifft zu?
+  Gasbrände werden gekühlt.
+x Flammenbrände werden erstickt.
+  Glutbrände werden abgemagert.
+
+11. Welches Löschverfahren löscht durch Entziehen des brennbaren Stoffes?
+x Abmagern
+  Verdünnen
+  Hemmen der Reaktion
+
+12. Bis zu welchem Obergeschoss dürfen leere C-Druckschläuche nach der FwDV 1 „Grundtätigkeiten“ über tragbare Leitern vorgenommen werden?
+x bis zum 1. OG
+  bis zum 2. OG
+  bis zum 3. OG
+
+13. Welche Durchflussmenge stellt der Truppmann nach der FwDV 1 „Grundtätigkeiten“ bei der Vornahme eines Hohlstrahlrohres ein, wenn der Trupp ein Hohlstrahlrohr mit veränderbarer Durchflussmenge zur Brandbekämpfung einsetzt?
+  100 l/min
+  200 l/min
+x die befohlene Durchflussmenge
+
+14. Wie viel m3 Schaum können mit einem Zumischer mit der Bezeichnung „Z 2 R“ und einem Schwerschaumstrahlrohr „S 2“ (Verschäumungszahl 15) in 5 Minuten hergestellt werden?
+x ca. 15 m 3
+  ca. 18 m3
+  ca. 20 m3
+
+15. Welche Längen haben genormte B 75-Druckschläuche?
+  5 m, 10 m, 15 m
+  5 m, 15 m, 20 m
+x 5 m, 20 m, 35 m
+
+16. Für welches Gerät zur Schaumerzeugung wird die Verschäumungszahl angegeben?
+  für den Zumischer
+x für das Schaumstrahlrohr
+  für den D-Ansaugschlauch für Löschmittelzusätze
+
+17. Welche Längen haben D 25-Druckschläuche?
+  5 m und 10 m
+x 5 m und 15 m
+  10 m und 15 m
+
+18. Welche Längen haben eingebundene genormte Saugschläuche?
+  1,50 m und 2,00 m
+  1,70 m und 2,50 m
+x 1,60 m und 2,50 m
+
+19. Welche Längen haben genormte C 42-Druckschläuche?
+  15 m und 30 m
+x 15 m und 20 m
+  10 m und 15 m
+
+20. Wie sind die an der Brandstelle verwendeten Druckschläuche nach dem Einsatz zu behandeln?
+  Im Hinblick auf die zur Schlauchherstellung überwiegend verwendeten Chemiefasern ist eine besondere Behandlung nicht erforderlich.
+x Die Druckschläuche sind nach dem Einsatz zu reinigen, zu prüfen und zu trocknen.
+  Die Schlauchlagerung auf den modernen Löschfahrzeugen erlaubt nach grober Reinigung eine sofortige Wiederverwendung.
+
+21. Wie viel Liter Wasser liefern überschlagsmäßig ein „BM-Strahlrohr“ und ein „CM-Strahlrohr“ (beide ohne Mundstück) in 6 Minuten bei einem Strahlrohrdruck von 5 bar?
+  ca. 3.800 l
+  ca. 5.800 l
+x ca. 6.000 l
+
+22. Was ist ein „DM-Strahlrohr“?
+x ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer Festkupplung D
+  ein D-Strahlrohr mit Mannschutzbrause
+  ein druckverstellbares Mittelschaumstrahlrohr
+
+23. Welche Einstellungen für den Schaummittelzusatz sind an einem genormten Zumischer (Z x R) vorgesehen?
+  Einstellungen zwischen 0,5 % und 7 %
+  Einstellungen zwischen 2 % und 8 %
+x Einstellungen zwischen 0 % und 6 %
+
+24. Welche Kupplungsarten befinden sich an einem Sammelstück A-2B?
+x zwei B-Festkupplungen und ein drehbares Knaggenteil A mit Druck- und Saugdichtung
+  zwei einteilige C-Festkupplungen und eine zweiteilige A-Festkupplung
+  zwei bewegliche A-Festkupplungen und eine unbewegliche B-Festkupplung
+
+25. Wovon ist die Löschwirksamkeit eines Löschmittelstrahls abhängig?
+  von den sicherheitstechnischen Kennzahlen des brennbaren Stoffes
+  von der Art der brennbaren Stoffe und der zu verwendenden Löschmethoden
+x von der Strahlart, Druckhöhe am Strahlrohreingang und dem Querschnitt am Strahlrohrausgang
+
+26. Welche Festkupplungen haben genormte Zumischer am Ein- und Ausgang?
+x zwei C-Festkupplungen oder zwei B-Festkupplungen
+  zwei C-Festkupplungen oder zwei D-Festkupplungen
+  zwei A-Festkupplungen oder zwei B-Festkupplungen
+
+27. Was ist ein „CM-Strahlrohr“?
+x ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer Festkupplung C
+  ein C-Strahlrohr mit Mannschutzbrause
+  ein druckverstellbares Mittelschaumstrahlrohr
+
+28. In welcher Ausführung gibt es genormte Standrohre?
+x Standrohre mit B-Abgängen
+  Standrohre mit C-Abgängen
+  Standrohre mit B- und C-Abgängen
+
+29. Kann nach erfolgter Vornahme eines Schaumstrahlrohres M 2 die Verschäumungszahl verändert werden?
+  ja, am Einstellventil (Handrad) des Zumischers
+  Ja, wenn man ein leichteres Schaummittel einsetzt.
+x Nein, bedingt durch den konstruktiven Aufbau des Schaumstrahlrohres M 2 ist es nicht möglich.
+
+30. Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die …
+  Wasserdichte.
+x Durchflussmenge.
+  Strahlleistung.
+
+31. Welche Bautypen von Verteilern kommen vornehmlich auf Löschfahrzeugen Typ TSF zum Einsatz?
+x BV oder BK
+  ZBV oder ZBK
+  CV oder CK
+
+32. Wie müssen nach der FwDV 1 „Grundtätigkeiten“ die Übenden bei Selbstrettungsübungen gegen Absturz zusätzlich gesichert sein?
+  durch Anlegen einer zusätzlichen Feuerwehrleine am Feuerwehr-Haltegurt
+x vorzugsweise über einen Auffanggurt und Kernmanteldynamikseil
+  durch Anlegen von zwei zusätzlichen Feuerwehrleinen an den Oberarmen
+
+33. Was gehört nach der FwDV 1 „Grundtätigkeiten“zur persönlichen Mindestschutzausrüstung?
+x Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk
+  Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk, Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und Feuerwehrleine mit Feuerwehrleinenbeutel
+  Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk, Feuerwehr-Haltegurt/Feuerwehr-Sicherheitsgurt und Feuerwehrleine mit Feuerwehrleinenbeutel und Atemschutzgerät
+
+34. Wovor schützt die Hitzeschutzkleidung?
+  vor Wärmeleitung
+x vor Strahlungswärme
+  vor Konvektion
+
+35. Bei welcher Tätigkeit muss die Schnittschutzkleidung getragen werden?
+x beim Einsatz der Motorkettensäge
+  beim Einsatz des Schneidgerätes
+  beim Einsatz der Trennschleifmaschine
+
+36. Welche Sonderausrüstung müssen Feuerwehrangehörige tragen, die der Gefahr durch fließenden Verkehr ausgesetzt sind?
+  Warnweste
+x Warnweste oder Feuerwehrüberjacke, welche die Funktion der Warnkleidung erfüllt
+  Feuerwehrschutzanzug
+
+37. Welche Maßnahme ist geeignet, um Stressreaktionen der Einsatzkräfte zu senken?
+  Hektik
+x Ordnung an der Einsatzstelle
+  Unentschlossenheit
+
+38. Wie kann Stress für Einsatzkräfte vermieden werden?
+  nur neueste Geräte einsetzen
+x aus Fehlern lernen (Einsatznachbesprechung)
+  viel Flüssigkeit zu sich nehmen
+
+39. Was gehört zu den Pflichtaufgaben der Feuerwehrangehörigen?
+x Durchführung eines durch die Gemeinde angeordneten Brandsicherheitsdienstes
+  Hilfestellung bei der Parkplatzeinweisung bei Großveranstaltungen
+  Unterstützung der Polizei bei der Bekämpfung von politischen Unruhen
+
+40. Wer ist Träger der Feuerwehr?
+  der Verein Freiwillige Feuerwehr
+  der erste Vorsitzende der Freiwilligen Feuerwehr
+x die Gemeinde / die Stadt
+
+41. Wer ist der Leiter der Feuerwehr?
+x der Gemeinde- oder Stadtbrandinspektor, der Leiter der Berufsfeuerwehr, der Leiter der hauptamtlichen Feuerwehrangehörigen
+  der Vereinsvorsitzende mit seinem Stellvertreter
+  Die Leitung der Feuerwehr obliegt dem Gemeindevorstand bzw. Magistrat.
+
+42. Wer leitet, gebunden an die Weisungen des Gemeinde-/Stadtbrandinspektors, die Orts- bzw. Stadtteilfeuerwehr?
+  der Jugendfeuerwehrwart
+x der Wehrführer
+  der erste Vorsitzende
+
+43. Welche Qualifikation besitzt eine Führungskraft einer Freiwilligen Feuerwehr, deren Feuerwehrhelm mit jeweils einem roten Streifen auf beiden Helmseiten gekennzeichnet ist?
+x Gruppenführer
+  Zugführer
+  Maschinist
+
+44. Welche Qualifikation besitzt eine Führungskraft einer Freiwilligen Feuerwehr, deren Feuerwehrhelm mit jeweils zwei roten Streifen auf beiden Helmseiten gekennzeichnet ist?
+  Gruppenführer
+x Wehrführer, stv. Wehrführer oder Zugführer
+  Leiter der Feuerwehr
+
+45. In welchen Situationen hat ein Feuerwehrangehöriger den Weisungen seines Vorgesetzten Folge zu leisten?
+x bei Einsätzen und bei Übungen
+  Die Feuerwehrangehörigen treffen in einem Staat mit einer demokratischen Grundordnung ihre Entscheidungen selbst.
+  nur wenn der Feuerwehrangehörige die Weisung des Vorgesetzten als sinnvoll erachtet
+
+46. Wer zahlt den Lohnausfall eines Feuerwehrangehörigen, wenn dieser aufgrund von Einsätzen oder Übungen entsteht?
+  Der Arbeitgeber muss dieses allein tragen.
+x Der Arbeitgeber kann die Finanzmittel beim Träger der Feuerwehr einfordern.
+  Da Feuerwehrangehörige ehrenamtlich tätig sind, gibt es keinen Lohnersatz.
+
+47. Wer muss die erforderliche Dienst- und Schutzkleidung für Feuerwehrangehörige stellen?
+  Die Kosten werden zwischen dem Feuerwehrangehörigen und dem Aufgabenträger, z. B. der Gemeinde, geteilt.
+x Der Aufgabenträger stellt die Dienst- und Schutzkleidung unentgeltlich zur Verfügung.
+  Der Aufgabenträger zahlt an den Verein Feuerwehr und dieser beschafft die Schutzkleidung.
+
+48. In welchen Situationen müssen am Einsatzort anwesende Personen der Räumung des Einsatzortes unverzüglich Folge leisten?
+  wenn ein Feuerwehrangehöriger der Meinung ist, dass die Einsatzsituation die Personen belastet
+x wenn der Einsatzleiter oder eine von ihm beauftragte Person es anordnet
+  wenn eine Person des öffentlichen Lebens (z. B. Mitglieder des Landtages) betroffen ist
+
+49. Welche Aussage zum Hessischen Brand- und Katastrophenschutzgesetz (HBKG) ist richtig?
+  Das Hessische Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz regelt alles Notwendige für die Feuerwehr. Daher sind weitere Regeln der örtlichen Feuerwehr weder notwendig noch zulässig.
+x Das Hessische Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz lässt den Gemeinden als Aufgabenträger im Rahmen der Selbstverwaltungsangelegenheiten Freiräume zur Gestaltung des örtlichen Brandschutzes und der örtlichen Allgemeinen Hilfe.
+  Die Regelungen im Hessischen Gesetz über den Brandschutz, die Allgemeine Hilfe und den Katastrophenschutz betreffen nur die Führungskräfte einer Feuerwehr. Für die Mannschaftsdienstgrade gelten ausschließlich die Regelungen in der Satzung der Gemeinde/Stadt.
+
+50. Welche Qualifikation besitzt ein Feuerwehrangehöriger, dessen Feuerwehrhelm mit jeweils einem blauen Punkt auf beiden Helmseiten gekennzeichnet ist?
+  Rettungsschwimmer
+x Sanitäter der Feuerwehr oder vergleichbar
+  Notfallseelsorger
+
+51. Welche Antwortmöglichkeit nennt ausschließlich öffentliche Feuerwehren?
+x Freiwillige Feuerwehr, Berufsfeuerwehr, Pflichtfeuerwehr
+  Berufsfeuerwehr, Freiwillige Feuerwehr, Werkfeuerwehr
+  Freiwillige Feuerwehr, Berufsfeuerwehr, Pflichtfeuerwehr, Werkfeuerwehr
+
+52. Die FwDV 1 „Grundtätigkeiten“ beschreibt das Aussteigen beim Selbstretten. Welche Aussage trifft zu?
+  Rechtshänder steigen mit dem linken Bein, Linkshänder mit dem rechten Bein zuerst aus.
+  Es kann frei gewählt werden, mit welchem Bein zuerst ausgestiegen wird.
+x Linkshänder steigen mit dem linken Bein, Rechtshänder mit dem rechten Bein zuerst aus.
+
+53. Welche Aufgabe erfüllt die freie Hand beim Selbstretten?
+x Mit der freien Hand wird der Körper stabilisiert und vom Gebäude entfernt gehalten.
+  Die freie Hand führt das Seil oberhalb des Feuerwehr-Haltegurtes.
+  Die freie Hand wird in Hüfthöhe gehalten, um im Bedarfsfall schneller das Seil greifen zu können.
+
+54. Welche Aussage über den Gerätesatz „Absturzsicherung“ ist richtig?
+x darf nur von speziell ausgebildetem Personal eingesetzt werden
+  darf auch zum Heben und Senken von Lasten verwendet werden
+  darf bei Feuerwehren gar nicht verwendet werden
+
+55. Welche Aussage zum „Auffangen“ ist richtig?
+x Auffangen sind Tätigkeiten zur Sicherung von Einsatzkräften in absturzgefährdeten Bereichen, bei denen ein freier Fall nicht auszuschließen ist.
+  Auffangen ist die Sicherung von Einsatzkräften mit dem Ziel, einen Absturz auszuschließen.
+  Auffangen dient der Einschränkung des Bewegungsraumes der zu sichernden Einsatzkraft. Ein Absturz wird ausgeschlossen, wenn verhindert wird, dass der Gesicherte die Absturzkante erreicht.
+
+56. Welche Aussage zum „Halten“ ist richtig?
+x Halten ist das Sichern von Personen und Einsatzkräften mit dem Ziel, einen Absturz auszuschließen.
+  Halten ist das Sichern von Personen und Einsatzkräften im absturzgefährdeten Bereich.
+  Halten darf nur von Einsatzkräften durchgeführt werden, die das Seminar „Absturzsicherung“ absolviert haben.
+
+57. Welche Leinen und Seile finden im Feuerwehrdienst Verwendung?
+  Feuerwehrseile, Mehrzweckseile, Kernmantelseile
+  Feuerwehrleinen, Mehrzweckseile, Kernmantelleinen
+x Feuerwehrleinen, Mehrzweckleinen, Kernmantelseile
+
+58. Wann darf eine Sichtprüfung der Feuerwehrleine mit dem Einlegen der Feuerwehrleine in den Feuerwehrleinenbeutel kombiniert werden?
+  Nie, die Sichtprüfung ist immer separat durchzuführen.
+x Wenn keine Handschuhe getragen werden, kann die Sichtprüfung mit dem Einlegen in den Leinenbeutel kombiniert werden.
+  Die Sichtprüfung kann ohne Beschränkung mit dem Einlegen in den Leinenbeutel kombiniert werden.
+

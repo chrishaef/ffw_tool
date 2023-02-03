@@ -1,0 +1,26 @@
+// Dateiname  	= anpassung.txt
+// Ordner	= Anpassungen
+//
+// *************************************************************
+// *  Hier können individuelle Anpassungen vorgenommen werden  *
+// *  Was alles geht findest Du in der Hilfe				           *
+// *  Bearbeiten nur mit dem Windows-Editor   					       *
+// *                                                           *
+// *  Manfred Altenhein www.alraft.de/altenhein/fragbogen/     *
+// *************************************************************
+
+// Hier wird ein anderes Startbild festgelegt. Es heißt startbild.jpg und befindet sich im Ordner Anpassungen 
+#StartBild: startbild.jpg
+
+// Der geänderte Fenster-Titel 
+#FensterTitel: Fragebogen Jugendfeuerwehr Waldeck-Frankenberg
+
+// Die Urkunde wird mit Alfred Nobel aus Stockholm unterzeichnet
+#UrkundeName: Alfred Nobel 
+#UrkundeOrt: Stockholm
+
+// Die Liesmich-Datei heißt liesmich.txt und befindet sich im Ordner Anpassungen
+#LiesMich: liesmich.txt
+
+// Der Liesmich-Menü-Punkt wird als 'Info' angezeigt
+#LiesMichMenü: Info

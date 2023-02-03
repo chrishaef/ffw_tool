@@ -1,0 +1,77 @@
+// Diverses.txt
+// Dies ist ein Muster für einen Fragebogen
+// Stand 6. Mai 2009
+// Trennzeichen: /tip/
+
+1. Mit welcher Geschwindigkeit dreht sich die Erde um die Sonne?
+  28.800 km pro Stunde
+  13-fache Schallgeschwindigkeit
+x 105.000 km pro Stunde
+  Gar nicht, denn die Sonne dreht sich um die Erde
+
+
+2. Ein Wanderer geht zu Fuß nach Alraft. Unterwegs kommen ihm 5_Schwestern entgegen. Alle Schwestern haben noch ihren Bruder dabei. Wie viele gingen nach Alraft?
+x Einer ging nach Alraft
+  Sechs gingen nach Alraft
+  Zehn gingen nach Alraft
+
+3. An welchem Tag wurde mit dem Bau der Berliner Mauer begonnen?
+  21. Juni 1948
+  4. Oktober 1957
+x 13. August 1961
+  21. Juli 1969
+
+4. Wie viele Nullen hat ein Milliarde?
+  6 Nullen
+x 9 Nullen
+  10 Nullen
+  12 Nullen
+
+5. Welches Jahr war kein Schaltjahr?
+  1600
+x 1900
+  2000 		
+
+6. In welchem Bundesland liegt Kassel?
+  in Niedersachsen
+  in Thüringen
+  in Nordrhein-Westfalen
+x in Hessen
+
+7. Wer schrieb die Geschichte vom Struwwelpeter?
+x Heinrich Hoffmann
+	Wilhelm Busch
+	Die Gebrüder Grimm
+	Mark Twain
+
+8. Wer schrieb die Geschichte von Max und Moritz?
+	Heinrich Hoffmann
+	Die Gebrüder Grimm
+x Wilhelm Busch
+	Heinz Erhardt
+	
+9. Welcher Planet ist der Sonne am nächsten?
+  Erde
+  Mars
+  Venus
+x Merkur
+  Pluto	
+
+10. Wie viele Monde hat der Mars
+  Einen
+x Zwei
+  Vier
+  Zwölf
+
+11. <mond.jpg>Der Mond dreht sich um die Erde. Aber in welche Richtung?
+x nach Osten
+	nach Westen
+	Der Mond dreht sich gar nicht - die Erde dreht sich!
+
+12. In welcher Richtung dreht sich die Erde um die Sonne?
+  Falsche Frage! Die Sonne dreht sich um die Erde. Dabei dreht sie sich von Osten nach Westen
+x nach Osten
+  nach Westen
+
+	
+// Ende Diverses

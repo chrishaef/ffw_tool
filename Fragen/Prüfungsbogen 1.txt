@@ -1,0 +1,293 @@
+// .txt
+// automatisch übersetzt am 03 Feb 2023 um 22:20:17 Uhr
+
+1. Wie verändert sich der Flammpunkt von Ethanol (Spiritus), wenn diese Flüssigkeit mit Wasser verdünnt wird?
+x Der Flammpunkt steigt.
+  Der Flammpunkt bleibt gleich.
+  Der Flammpunkt sinkt.
+
+2. Was ist eine exotherme Reaktion?
+  Eine Reaktion, bei der Wärme aufgenommen wird.
+x Eine Reaktion, bei der Wärme abgegeben wird.
+  Eine Reaktion dieser Art gibt es nicht.
+
+3. Welche Bezeichnung ist für Stoffe, die durch die Energie einer Streichholzflamme zur Entzündung gebracht werden können, zutreffend?
+  schwer entzündbare Stoffe
+x normal entzündbare Stoffe
+  leicht entzündbare Stoffe
+
+4. Was versteht man unter dem Begriff „Glut“?
+  Unter Glut versteht man einen exotherm reagierenden Stoff mit sichtbarer Wärmestrahlung.
+x Unter Glut versteht man erwärmte feste oder flüssige Stoffe mit sichtbarer Wärmestrahlung.
+  Unter Glut versteht man erwärmte gasförmige Stoffe, die ohne Flamme brennen.
+
+5. Wie kann Wärme bei einem Brand übertragen werden?
+x durch Wärmestrahlung, Wärmeleitung und Konvektion
+  durch Wärmefluss, Wärmebindung und Wärmezufuhr
+  durch Wärmeumlauf, Thermik und Wärmebindung
+
+6. In welche Klassen werden Brände von brennbaren Stoffen eingeteilt?
+  in Gefahrklassen
+  in Feuerwiderstandsklassen
+x in Brandklassen
+
+7. In welcher Zone einer Flamme herrscht die höchste Temperatur?
+  in der Gaszone
+  in der Glühzone
+x in der Brennzone
+
+8. Wie bezeichnet man die Übertragung von Wärme in strömenden Gasen oder Flüssigkeiten?
+x Konvektion (Wärmemitführung)
+  Wärmeleitung
+  Wärmedurchgang
+
+9. Welche der nachfolgend aufgeführten Stoffe neigen zur Selbstentzündung?
+  Benzin und Dieselöl
+x weißer Phosphor, leinölgetränkte Putzwolle und feuchtes Heu
+  Wolle und Stroh
+
+10. Welche Eigenschaften haben entzündbare Flüssigkeiten, die nach GHS in die Kategorien 1, 2 und 3 eingestuft werden?
+x entzündbar, leicht entzündbar, extrem entzündbar
+  verflüssigt, flüssig, verdampfend
+  nicht brennbar, brennbar, explosiv
+
+11. Warum werden die Brände von Metallen in eine eigene Brandklasse eingeteilt?
+  Weil die brennbaren Metalle leichter als Wasser sind und somit vom Wasser brennend fortgeschwemmt werden können.
+x Weil die Brandtemperaturen bei Metallbränden weit über denen der Brandklasse A liegen und die Anwendung des für die Brandklasse üblichen Löschmittels Wasser somit problematisch ist.
+  Weil das Wasser in der Brandklasse D anders als in der Brandklasse A erstickend wirkt.
+
+12. Welche Temperatur muss zum Löschen eines Brandes durch Abkühlen unterschritten werden?
+  die Zündtemperatur
+  den Brennpunkt
+x die Mindestverbrennungstemperatur
+
+13. Wie viel Liter Löschwasser führt ein LF 10 im Löschwasserbehälter mit?
+  750 Liter
+  1000 Liter
+x 1200 Liter
+
+14. Was versteht man bei einer Drehleiter unter der Nennrettungshöhe?
+  Die Nennrettungshöhe ist die lotrechte Höhe von Standfläche bis zu Bodenoberseite des Korbes.
+x Die Nennrettungshöhe ist die festgelegte Rettungshöhe bei Nennreichweite.
+  Die Nennrettungshöhe ist die Höhe, die eine Drehleiter mindestens erreichen muss.
+
+15. Mit welcher Feuerlöschkreiselpumpe ist ein TLF 2000 ausgerüstet?
+  mit einer Tragkraftspritze PFPN 10-1000
+x mit einer FPN 10-1000
+  mit einer FPN 10-2000
+
+16. Welche Mannschaftsstärke hat ein GW-L1?
+  Ein GW-L1 hat eine Mannschaftsstärke von 1/5/6 bzw. 1/8/9.
+x Ein GW-L1 hat eine Mannschaftsstärke von 1/2/3 bzw. 1/5/6.
+  Ein GW-L1 hat eine Mannschaftsstärke von 1/8/9 bzw. 1/2/3.
+
+17. Welches Einsatzmittel gehört zur Standardbeladung einer DLA(K) 23/12?
+  ein BM-Strahlrohr mit Stützkrümmer
+  ein Sammelstück und ein Saugkorb
+x zwei B-Druckschläuche
+
+18. Welches wesentliche Merkmal zeichnet ein MLF aus?
+  die Gruppenkabine
+  der festeingebaute Lichtmast (Einsatzstellenbeleuchtung)
+x die Feuerlöschkreiselpumpe vom Typ FPN 10-1000
+
+19. Wie viele C-Druckschläuche gehören zur Standardbeladung eines TSF-W mit einer Schnellangriffseinrichtung (Wasser)?
+  10 C-Druckschläuche
+x 9 C-Druckschläuche
+  12 C-Druckschläuche
+
+20. Wie lang ist die Schnellangriffseinrichtung (Wasser) bei einem TLF 3000?
+  20 m oder 45 m
+x 30 m oder 50 m
+  40 m oder 60 m
+
+21. Welche Feuerlöschkreiselpumpe ist in einem TLF 4000 eingebaut?
+x eine FPN 10-2000
+  eine FPN 10-4000
+  eine FPH 20-40
+
+22. Welches Einsatzmittel gehört nicht zur Standardbeladung eines TSF?
+  die Steckleiter
+  die Pressluftatmer
+x das Schaumstrahlrohr
+
+23. Welche Bedeutung hat die Ziffer „23“ bei der Typkennzeichnung DLA(K) 23/12?
+x „23“ steht für die Nennrettungshöhe.
+  „23“ steht für die Nenneinsatzhöhe.
+  „23“ steht für die Rettungshöhe.
+
+24. Welches der nachfolgend aufgeführten Einsatzmittel gehört zur feuerwehrtechnischen Standardbeladung eines LF 10?
+  eine Tragkraftspritze vom Typ PFPN 10-1000
+x ein Kohlenstoffdioxid-Feuerlöscher K 5
+  eine Tauchmotorpumpe TP 8/1
+
+25. Welche Aussage über ein MLF ist richtig?
+x Ein MLF hat eine Beladung für eine Gruppe.
+  Ein MLF hat einen Löschwasserbehälter mit mindestens 1000 l Inhalt.
+  Mit einem MLF können nur Brandbekämpfungsmaßnahmen durchgeführt werden.
+
+26. Welches der nachfolgenden Feuerwehrfahrzeuge hat den gleichen Anwendungsbereich wie der inzwischen aus der Norm zurückgezogene SW 2000?
+  der GW-G
+  der GW-SW
+x der GW-L2
+
+27. Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines TSF-W?
+x 10 B-Druckschläuche
+  12 B-Druckschläuche
+  14 B-Druckschläuche
+
+28. Wozu dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt werden können?
+  zum Ziehen von Lasten mit dem Drahtseil
+  zum Ziehen von Lasten mittels Flaschenzug
+x zum Anheben von Lasten
+
+29. Welche nutzbare Menge hat der eingebaute Schaummittelbehälter des TLF 4000?
+  mindestens 200 Liter
+x mindestens 500 Liter
+  mindestens 4800 Liter
+
+30. Welche der nachfolgenden Aussagen treffen für ein TSF-W zu?
+x Ein TSF-W hat die Beladung für eine Löschgruppe.
+  Ein TSF-W hat die Beladung für eine Löschstaffel.
+  Ein TSF-W hat eine Mannschaftsstärke von 1/8/9.
+
+31. Welches nachfolgende Löschfahrzeug kann nach Norm mit einer maschinellen Zugeinrichtung (Seilwinde) ausgerüstet sein?
+  das TLF 2000
+x das HLF 20
+  das LF 10
+
+32. Welche Aussage trifft für ein HLF 10 nicht zu?
+  Ein HLF 10 hat eine Gruppenbesatzung.
+  Ein HLF 10 kann zur Gefahrenabwehr im Rahmen der Allgemeinen Hilfe eingesetzt werden.
+x Ein HLF 10 hat einen Löschwasservorrat von 1200 l.
+
+33. Dürfen nach FwDV 1 „Grundtätigkeiten“ gehärtete Metallteile mit hydraulisch betriebenen Schneidgeräten getrennt werden?
+  ja
+x nein
+  Das entscheidet der Truppführer von Fall zu Fall.
+
+34. Welcher Sicherheitsabstand ist grundsätzlich bei unter Last stehenden Drahtseilen mindestens einzuhalten?
+  die halbe Seillänge
+x das 1,5-fache der wirksamen Seillänge
+  die doppelte Seillänge
+
+35. Bis zu welchem Winkel darf die hydraulische Winde bei der Verwendung der balligrunden Fußplatte höchstens genutzt werden?
+x bis zu einem Winkel von 75° zur Ebene der Fußplatte
+  bis zu einem Winkel von 65° zur Ebene der Fußplatte
+  bis zu einem Winkel von 55° zur Ebene der Fußplatte
+
+36. Wie hoch ist der zulässige Betriebsdruck von hydraulischen Rettungsgeräten nach DIN EN 13204 (doppelt wirkende hydraulische Rettungsgeräte)?
+  mindestens 630 bar
+x Der maximal zulässige Betriebsdruck ist nicht begrenzt.
+  maximal 720 bar
+
+37. Welche Kraft entwickelt der einfach wirkende Hydraulikzylinder des hydraulischen Hebesatzes nach DIN 14800-6 2007-05?
+x mindestens 120 kN
+  maximal 150 kN
+  nach Herstellerangaben
+
+38. Welche Aussage über Druckluftquellen bei Hebekissensystemen > 1 bar ist richtig?
+  Es dürfen nur mitgeführte Druckluftflaschen verwendet werden.
+x Es können mitgeführte Druckluftflaschen, ortsfeste Druckluftnetze oder LKW-Bremsanlagen genutzt werden.
+  Atemluftflaschen sind unzulässig.
+
+39. Wer darf Werkzeuge/Zubehör aus dem Feuerwehr-Elektrowerkzeugkasten einsetzen?
+  nur der Einheitsführer
+  nur der Truppführer des befohlenen Trupps
+x nur Elektro-Fachpersonal
+
+40. Was ist beim Anheben einer Last bei einem Hebekissensystem > 1 bar zu beachten?
+  Die Hebekissen dürfen nur paarweise verwendet werden.
+x Es dürfen maximal zwei Hebekissen übereinander eingesetzt werden.
+  Ein Unterbauen ist aufgrund der geringen Hubhöhe nicht notwendig.
+
+41. Welche der nachfolgenden Aussagen trifft für einen Hebebaum zu?
+x Der Hebebaum dient zum Heben und Bewegen von Lasten bei geringer Hubhöhe.
+  Der Hebebaum dient zum Heben und Bewegen von Lasten bei großer Hubhöhe.
+  Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem Prinzip eines zweiarmigen Hebels.
+
+42. Flutlichtstrahler dienen der Feuerwehr zum großflächigen Ausleuchten von Einsatzstellen. Welche Aussage hierzu trifft nicht zu?
+  Flutlichtstrahler nicht in Bereichen mit explosiven Atmosphären einsetzen
+x Flutlichtstrahler können nach dem Einsatz sofort wieder auf dem Feuerwehrfahrzeug verlastet werden.
+  Die Anschlussleitungen der Flutlichtstrahler müssen immer komplett abgerollt werden.
+
+43. In welche Richtung werden die Erdnägel eines Erdankers eingeschlagen?
+  entgegen der Zugrichtung
+x in Zugrichtung
+  50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung
+
+44. Wem obliegt die Gesetzgebungskompetenz im Rahmen des Zivilschutzes?
+x dem Bund
+  dem Land
+  der Gemeinde
+
+45. Welche Aufgabenbereiche werden im Rahmen des Zivilschutzes durch den Bund ergänzend ausgestattet?
+  der Aufgabenbereich Führung
+  der Aufgabenbereich Wasserrettung
+x der Aufgabenbereich Brandschutz
+
+46. Wer nimmt nach HBKG für den Katastrophenschutz die Aufgaben der Informations- und Kommunikationszentrale wahr?
+  der Verwaltungsstab
+x die Zentrale Leitstelle
+  der Katastrophenschutzstab
+
+47. Wer ist die untere KatS-Behörde nach § 25 HBKG?
+  der Regierungspräsident eines Regierungsbezirkes
+x der Landrat eines Landkreises bzw. der Oberbürgermeister einer kreisfreien Stadt
+  der Bürgermeister einer Gemeinde
+
+48. Woraus setzt sich eine Katastrophenschutzleitung mindestens zusammen?
+x aus einem Katastrophenschutzstab, aus einem Verwaltungsstab, einer GABC-Mess- sowie einer Informations- und Kommunikationszentrale
+  aus dem Katastrophenschutzstab und einer Technischen Einsatzleitung
+  aus dem Krisenstab und einer Zentralen Leitstelle
+
+49. Welche Einheiten und Einrichtungen werden für den Aufgabenbereich Führung vorgesehen?
+  die IuK-Zentralen
+x die Katastrophenschutzstäbe und die Führungsgruppen Technische Einsatzleitungen
+  die IuK-Gruppen
+
+50. Für welchen Aufgabenbereich stellt das Land Hessen keine eigenen Einheiten auf?
+  für den Brandschutz
+x für die Bergung und die Instandsetzung
+  für die Wasserrettung
+
+51. Wer übernimmt die operativ-taktische Führung im Katastrophenfall?
+  der Verwaltungsstab
+  der politisch Gesamtverantwortliche
+x der Katastrophenschutzstab
+
+52. Welche aufgeführte Person nimmt nach § 25 HBKG die Aufgaben einer unteren Katastrophenschutzbehörde wahr, wenn eine kreisangehörige Gemeinde während einer Katastrophe ohne Verbindung mit der zuständigen Katastrophenschutzbehörde ist?
+  der Stadtrat
+x der Bürgermeister
+  der Leiter des örtlichen Ordnungsamtes
+
+53. In welcher Feuerwehr-Dienstvorschrift (FwDV) ist die Führungsorganisation im Katastrophenfall u. a. festgelegt?
+  FwDV 2
+  FwDV 3
+x FwDV 100
+
+54. In den Feuerwehrhäusern und Feuerwachen sind bezüglich der „Allgemeinen Einsatzstellenhygiene“ besondere Bereiche zu schaffen. Wie nennt man diese Bereiche?
+  Rot-Grün-Bereiche
+  Schwarz-Rot-Bereiche
+x Schwarz-Weiß-Bereiche
+
+55. Welche Maßnahmen sind sachgerecht, wenn der Verdacht auf einen Knochenbruch (Fraktur) besteht?
+  kühlen des betroffenen Körperteils
+x psychische Erste Hilfe leisten und Notruf absetzen
+  Schocklage, um ein Abgleiten in einen Schock zu verhindern
+
+56. Welcher Rhythmus ist bei der Herz-Lungen-Wiederbelebung richtig?
+x 30 Herzdruckmassagen und 2 Beatmungen im Wechsel
+  2 Beatmungen und 15 Herzdruckmassagen im Wechsel
+  eine Beatmung und anschließend 5 Herzdruckmassagen und 2 Beatmungen im Wechsel
+
+57. Eine bewusstlose Person hat für Sie erkennbar einseitig mehrere Rippen gebrochen. Wie ist diese Person zu lagern?
+  auf der unverletzten Seite in der stabilen Seitenlage
+x auf der verletzten Seite in der stabilen Seitenlage
+  mit erhöhtem Oberkörper in halbsitzender Position
+
+58. Was ist bei der Versorgung einer Amputationsverletzung zu beachten?
+x Das Amputat muss fachgerecht gekühlt werden.
+  Das Amputat muss desinfiziert werden.
+  Die Amputationswunde muss gereinigt werden.
+

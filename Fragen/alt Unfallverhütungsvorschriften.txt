@@ -1,0 +1,154 @@
+// alt Unfallverhütungsvorschriften.txt
+// automatisch übersetzt am 18 Jun 2009 um 22:00:49 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. In welchen Zeitabständen sind die Feuerwehrangehörigen gemäß der UVV_GUV_0.1 Allgemeine Vorschriften über die Gefahren im Feuerwehrdienst sowie über die Maßnahmen zur Verhütung von Unfällen zu unterweisen?
+  nur alle zwei Jahre
+x mindestens jährlich einmal
+  Es liegt im Ermessen des Wehrführers die Vorschriften bekanntzugeben.
+
+2. Die Angehörigen einer Freiwilligen Feuerwehr im Land Hessen sind gegen Unfälle im Dienst versichert. Diese Versicherung besteht
+  bei der Krankenversicherung.
+  bei der Brandversicherung.
+x bei der Unfallkasse Hessen.
+
+3. Welcher Prüfung unterliegen gemäß der UVV-Feuerwehren Sicherheitsgurte nach jeder Benutzung?
+x Sicherheitsgurte müssen einer Sichtprüfung unterzogen werden.
+  Sie müssen einer Sicht- und Belastungsprüfung unterzogen werden.
+  Sie müssen einer Funktionsprüfung unterzogen werden.
+
+4. Wieviel Personen sind gemäß UVV-Feuerwehren zum Halten eines BM-Strahlrohres ohne Stützkrümmer erforderlich?
+  2 Personen
+x 3 Personen
+  4 Personen
+
+5. Welche Schutzausrüstung ist gemäß der UVV-Feuerwehren bei Übungen bzw. im Einsatz zu tragen?
+  Bei Übungen genügt es, wenn der Feuerwehrhelm und der Schutzanzug getragen werden.
+  Beim Einsatz ist keine besondere Schutzausrüstung erforderlich.
+x Bei Übungen und im Einsatz ist die persönliche Schutzausrüstung zu tragen, die vor den vorhandenen und den zu erwartenden Gefahren schützt. Mindestens: Feuerwehr-schutzanzug, Feuerwehrhelm mit Nackenschutz und Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk und bei besonderen Gefahren zusätzlich spezielle persönliche Schutzausrüstung.
+
+6. Bis zu welcher Höhe dürfen gemäß der UVV-Feuerwehren Selbstrettungsübungen mit der Feuerwehrleine unter besonderen Sicherungsmaßnahmen durchgeführt werden?
+  Selbstrettungsübungen sind bis zu einer Höhe von 6_Metern erlaubt.
+x Selbstrettungsübungen sind bis zu einer Höhe von 8_Metern erlaubt.
+  Selbstrettungsübungen sind bis zu einer Höhe von 10_Metern erlaubt.
+
+7. In welchem Geltungsbereich findet die UVV  Feuerwehren Anwendung?
+x Die UVV  Feuerwehren gilt für Feuerwehreinrichtungen und den Feuerwehrdienst.
+  Die UVV  Feuerwehren gilt nur an Einsatzstellen und bei Übungen.
+  Die UVV  Feuerwehren gilt nur an Einsatzstellen, insbesondere bei der Rettung von Menschenleben.
+
+8. In welchen regelmäßigen Zeitabständen muss ein Feuerwehrsicherheitsgurt geprüft werden und nach wieviel Jahren ist er auszumustern?
+  jährliche Prüfung, Ausmusterung 12_Jahre nach Indienststellung
+  halbjährliche Prüfung, Ausmusterung nach 12_Jahren
+x jährliche Prüfung, Ausmusterung 20_Jahre nach dem Herstellungsdatum
+
+9. Welche Mindestabstände sind bei Annäherung an elektrische, unter Spannung stehende Anlagen einzuhalten?
+  bis 1 000 Volt 1 Meter, über 220_000_Volt mindestens 1_Meter
+  bis 1 000 Volt 1 Meter, über 220_000_Volt mindestens 3_Meter
+x bis 1 000 Volt 1 Meter, über 220_000_Volt mindestens 5_Meter
+
+10. Welcher Sicherheitsabstand ist mit Leitern in der Nähe von elektrischen Freileitungen mit einer Spannung von 110_000_Volt einzuhalten?
+x 3 Meter
+  4 Meter
+  5 Meter
+
+11. Welche Prüfung ist jährlich bei Haken-, Steck- und Schiebleitern durchzuführen?
+x eine Sicht- und Belastungsprüfung
+  nur eine Sichtprüfung
+  nur eine Belastungsprüfung
+
+12. Wo ist die Art der Durchführung der regelmäßigen Prüfungen von Ausrüstungen und Geräten gemäß der UVV-Feuerwehren festgelegt?
+x in der Geräteprüfordnung
+  in den Feuerwehrdienstvorschriften
+  in den Brandschutzgesetzen der Bundesländer
+
+13. In welchen regelmäßigen Zeitabständen sind alle genormten tragbaren Leitern einer Prüfung zu unterziehen?
+x mindestens einmal jährlich
+  mindestens alle zwei Jahre
+  nur alle drei Jahre
+
+14. Wie ist eine C-Schlauchleitung gemäß der FwDV_1/1 beim Besteigen einer Leiter zu tragen?
+  Das Strahlrohr wird zwischen Sicherheitsgurt und Körper gesteckt.
+  Der Schlauch wird mit einem Schlauchhalter am Körper befestigt.
+x Der Schlauch wird über die Schulter getragen, das Strahlrohr wird nicht zwischen Sicherheitsgurt und Körper gesteckt.
+
+15. Von wie viel Personen muss gemäß der UVV-Feuerwehren und der Feuerwehrdienstvorschrift 1/1 (Grundtätigkeiten -Löscheinsatz und Rettung-) ein Sprungtuch im Einsatz im Untergriff in Schulterhöhe gehalten werden?
+  von mindestens 10 Personen
+  von mindestens 15 Personen
+x von mindestens 16 Personen
+
+16. Ist während der Fahrt zur Einsatzstelle der Feuerwehrhelm zu tragen?
+  Nur wenn Sondersignale benutzt werden.
+x Ja, während der gesamten Fahrt.
+  Nein, nur während des Einsatzbeginnes gemäß den Feuerwehr-Dienstvorschriften (FwDV).
+
+17. Wie sind gemäß der UVV-Feuerwehren Glasdächer und Faserzementdächer begehbar?
+  Solche Dächer sind nur flach kriechend zu begehen.
+  Solche Dächer sind nur truppweise mit Sicherung durch Feuerwehrleinen begehbar.
+x Solche Dächer sind nur mit geeigneten Sicherungsmaßnahmen gegen Durchbruch und Absturz (z. B. tragbaren Leitern, Bohlen) zu begehen.
+
+18. Unter welcher Voraussetzung dürfen schadhafte Leitern gemäß der UVV-Leitern und Tritte wieder benutzt werden?
+  Sie dürfen nie mehr benutzt werden.
+  Sie dürfen wieder benutzt werden, wenn sie notdürftig in Stand gesetzt und gestrichen sind.
+x Sie dürfen erst nach einer sachgemäßen Instandsetzung, durch die ihre ursprüngliche Festigkeit wiederhergestellt und ein sicheres Begehen gewährleistet ist, wieder benutzt werden.
+
+19. Was ist bei Leitern, die an oder auf Verkehrswegen aufgestellt sind, gemäß der UVV-Leitern und Tritte zu beachten?
+x Auf sie ist auffällig hinzuweisen und sie sind gegen Umstoßen zu sichern.
+  Leitern dürfen nicht auf Verkehrswegen aufgestellt werden.
+  Leitern dürfen nur auf Verkehrswegen aufgestellt werden, wenn diese Wege von der Polizei abgesperrt sind.
+
+20. Wie sind gemäß der UVV-Feuerwehren Strahlrohre, Schläuche und Verteiler zu benutzen?
+x So, dass Feuerwehrangehörige beim Umgang mit diesen Geräten sowie durch den Wasserstrahl nicht gefährdet werden.
+  So, dass sie mindestens 35 Jahre eingesetzt werden können.
+  Eine besondere Art der Benutzung ist nicht vorgeschrieben.
+
+21. Bis zu welcher Höhe dürfen gemäß der UVV-Feuerwehren Sprungübungen mit dem Sprungtuch durchgeführt werden?
+  bis zu 8 m
+x Sprungübungen mit dem Sprungtuch sind laut UVV_verboten.
+  bis zu 6 m
+
+22. Welche der nachfolgend aufgeführten Ausrüstungsgegenstände sind gemäß der UVV-Feuerwehren nach jeder Benutzung einer Sichtprüfung auf Abnutzung und Fehlerstellen zu unterziehen?
+  Saugschläuche, Saugkorb und Arbeitsleinen
+x Leitern, Sicherheitsgurte, Feuerwehrleinen, Sprungrettungsgeräte und ortsveränderliche elektrische Betriebsmittel
+  Schaumrohre, Zumischer und D-Ansaugschläuche
+
+23. Was ist im Sinne der UVV-Feuerwehren der Einsatzort?
+x Die Stelle, an der die Feuerwehr dienstlich tätig wird.
+  der Zuständigkeitsbereich
+  das Gemeindegebiet
+
+24. Welche Sicherheitsregeln sind gemäß den Unfallverhütungsvorschriften beim Einsatz einer tragbaren Leiter zu beachten?
+  Anleiterwinkel und Bodenverhältnisse sind zu beachten, die Leiter muss mindestens zu einem Drittel überstehen.
+  Leitern sind standsicher aufzustellen und müssen mindestens 20_cm über die Einstiegsöffnung hinausragen.
+x Die Standsicherheit muss gewährleistet sein, sie muss mindestens 1_m über die Einstiegsöffnung hinausragen und der Anstellwinkel von 65 - 75_o muss eingehalten werden. Die Leitern dürfen nur an sichere Stützpunkte angelegt werden.
+
+25. Worauf ist gemäß der VDE 0132 (Brandbekämpfung im Bereich elektrischer Anlagen) beim Aufrichten von Leitern in der Nähe elektrischer Freileitungen oder sonstiger stromführender Teile zu achten?
+  Es ist darauf zu achten, dass die eingesetzten Leitern isoliert sind.
+  Es ist darauf zu achten, dass die eingesetzten Leitern geerdet sind.
+x Es ist darauf zu achten, dass ein entsprechender Sicherheitsabstand eingehalten wird.
+
+26. In welchem Fall darf von einer tragbaren Leiter Wasser gegeben werden?
+  Wenn die Leiter von einem Feuerwehrangehörigen gesichert wird.
+x Wenn die Leiter am Kopfende befestigt ist und der Strahlrohrführer mit dem Sicherheitsgurt gesichert ist.
+  Von einer tragbaren Leiter darf keinesfalls Wasser gegeben werden.
+
+27. In welchem Fall darf von den Unfallverhütungsvorschriften abgewichen werden?
+x Im Einzelfall kann bei Einsätzen zur Menschenrettung von den Unfallverhütungs-vorschriften abgewichen werden.
+  Nur zur Rettung von wertvollen Sachgütern darf von den Unfallverhütungsvorschriften abgewichen werden.
+  Zur Rettung von Tieren darf von den Unfallverhütungsvorschriften abgewichen werden.
+
+28. Welche der folgenden Teile der persönlichen Schutzausrüstung müssen den Feuerwehrangehörigen gemäß der UVV-Feuerwehren zur Verfügung gestellt werden?
+  Feuerwehrhelm mit Nackenschutz, Sicherheitsschuhwerk, Schutzhandschuhe
+  Feuerwehrhelm mit Nackenschutz, Schutzanzug
+x Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe, Feuerwehrschutzschuhwerk
+
+29. Welche persönlichen Ausrüstungsgegenstände muss der Maschinist gemäß der UVV-Feuerwehren mindestens tragen?
+  Feuerwehrhelm, Schutzhandschuhe und Signalpfeife
+  Feuerwehrhelm, Schutzhandschuhe, Schutzschuhwerk
+x Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzschuhwerk, Feuerwehrschutzanzug, Feuerwehrschutzhandschuhe
+
+30. Müssen aktive Feuerwehrangehörige über Unfallgefahren bezüglich der Unfallverhütungsvorschriften unterwiesen werden?
+x Ja, mindestens einmal jährlich.
+  Nein, es sei denn, dass es der Leiter der Feuerwehr für notwendig hält.
+  Ja, aber nur in ganz bestimmten Ausnahmefällen.
+

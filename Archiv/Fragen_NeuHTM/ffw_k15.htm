@@ -1,0 +1,67 @@
+<HTML>
+<HEAD>
+<SCRIPT type="text/javascript">
+if (parent.frames.length<4) window.top.location.href="fragebogen.htm";
+
+parent.Index.Thema = 'Physische und psychische Belastung';
+parent.Index.LetzteFrage = 9;
+var t = new parent.Index.makeFragen(parent.Index.LetzteFrage);
+
+function FuelleFragen() {
+t[1].ok = "b";
+t[2].ok = "c";
+t[3].ok = "b";
+t[4].ok = "a";
+t[5].ok = "b";
+t[6].ok = "b";
+t[7].ok = "b";
+t[8].ok = "b";
+t[9].ok = "b";
+}
+
+function FuelleAntwort() {
+t[1].frage = "Welcher Einsatz ist psychisch besonders belastend?";
+t[1].a = "ein stundenlanger Einsatz wegen einer &Ouml;lspur";
+t[1].b = "ein Einsatz mit verletzten oder sterbenden Kindern";
+t[1].c = "ein langwieriger Unwettereinsatz";
+t[2].frage = "Wodurch kann Stress im Einsatz entstehen?";
+t[2].a = "Stress kann durch einen Wetterumschwung entstehen.";
+t[2].b = "Stress kann durch k&ouml;rperliche Fitness entstehen.";
+t[2].c = "Stress kann durch zu viele oder zu wenige Informationen entstehen.";
+t[3].frage = "Wie kann sich Stress im Einsatz auswirken?";
+t[3].a = "ruhiges, &uuml;berlegtes Arbeiten";
+t[3].b = "verminderte Entscheidungsf&auml;higkeit";
+t[3].c = "Es entsteht das Gef&uuml;hl der Unterforderung.";
+t[4].frage = "Welche Ma&szlig;nahme ist geeignet, um eine pers&ouml;nliche Belastung zu minimieren?";
+t[4].a = "Ausreichend schlafen und „gen&uuml;gend Zeit f&uuml;r sich selbst“ finden.";
+t[4].b = "&Auml;nderungen der pers&ouml;nlichen Lebenssituation keinesfalls mit anderen besprechen.";
+t[4].c = "Sich nicht zu viel fachliches Wissen aneignen.";
+t[5].frage = "Auf der R&uuml;ckfahrt von einem schwierigen Einsatz ist ein ansonsten sehr ruhiger Kamerad ausgesprochen redselig. Was k&ouml;nnte die Ursache f&uuml;r dieses Verhalten sein?";
+t[5].a = "Der Kamerad ist um diese Uhrzeit besonders fit.";
+t[5].b = "Der Kamerad leidet unter akutem Stress.";
+t[5].c = "Der Kamerad hat Geburtstag.";
+t[6].frage = "Nach einem schwierigen Einsatz f&auml;llt Ihnen auf, dass ein Kamerad mehr als &uuml;blich raucht und sich gereizt verh&auml;lt. Welche der nachstehenden Verhaltensweisen ist in einer solchen Situation angemessen?";
+t[6].a = "Ich bitte ihn um eine Zigarette und rauche aus Sympathie mit.";
+t[6].b = "Ich frage vorsichtig nach, ob ihn etwas bedr&uuml;ckt oder er irgendwelche Probleme hat.";
+t[6].c = "Ich lasse ihn in Ruhe, um &Auml;rger mit dem Kameraden zu vermeiden.";
+t[7].frage = "Sie bemerken bei sich selbst, dass Sie in letzter Zeit h&auml;ufig gereizt reagieren und schlecht schlafen. St&auml;ndig m&uuml;ssen Sie an den Einsatz mit dem schwerverletzten Kind vor ein paar Wochen denken. Dadurch sind Sie auch h&auml;ufig unkonzentriert. Welche der nachstehenden Ma&szlig;nahmen ist zur L&ouml;sung dieses Problems angemessen?";
+t[7].a = "Ich besorge mir Schlaftabletten, das andere geht schon vor&uuml;ber.";
+t[7].b = "Ich rede mit Freunden oder Kameraden &uuml;ber den Einsatz.";
+t[7].c = "Ich nehme Beruhigungsmittel ein, um weniger gereizt zu sein.";
+t[8].frage = "Welche Ma&szlig;nahme ist geeignet, um Stressreaktionen der Einsatzkr&auml;fte zu senken?";
+t[8].a = "Hektik";
+t[8].b = "Ordnung an der Einsatzstelle";
+t[8].c = "Unentschlossenheit";
+t[9].frage = "Wie kann Stress f&uuml;r Einsatzkr&auml;fte vermieden werden?";
+t[9].a = "nur neueste Ger&auml;te einsetzen";
+t[9].b = "aus Fehlern lernen (Einsatznachbesprechung)";
+t[9].c = "viel Fl&uuml;ssigkeit zu sich nehmen";
+}
+
+</SCRIPT>
+
+</HEAD>
+<BODY onLoad = 'parent.Index.AllesBereit();'>
+&nbsp;
+</BODY>
+</HTML>

@@ -1,0 +1,88 @@
+// Besondere Gefahren im Zivilschutz.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:17:58 Uhr
+
+1. Welche Feuerwehrdienstvorschrift regelt die Vorgehensweise bei Gefahren durch Kampfstoffe?
+  die FwDV 2
+x die FwDV 500
+  die FwDV 13/1
+
+2. Welches vom Bund zur Verfügung gestellte Fahrzeug erhält bei Einsätzen mit ABC-Kampfstoffen eine besondere Bedeutung?
+  RW
+x Dekon-LKW-P
+  LF 10/6
+
+3. Welche Kampfmittel senden ionisierende Strahlen aus?
+  Biologische Waffen
+x Kernwaffen
+  Chemische Kampfstoffe
+
+4. Wie kommt bei einem Kernwaffeneinsatz die freigesetzte Energie zur Wirkung?
+  nur als ionisierende Strahlung
+  nur als thermische und ionisierende Strahlung
+x als Druck, thermische und ionisierende Strahlung
+
+5. Welche Strahlungsarten können bei einem Kernwaffeneinsatz entstehen?
+  nur Gammastrahlung
+  nur Alpha- und Betastrahlung
+x Alpha-, Beta-, Gamma- und Neutronenstrahlung
+
+6. Welche der folgenden Maßnahmen mindern die Wirkung der ionisierenden Strahlung?
+  vor und nach dem Einsatz viel Milch trinken
+  nach dem Einsatz Hände und Gesicht desinfizieren
+x Abschirmung nutzen, Abstand halten, Aufenthaltsdauer begrenzen
+
+7. Welche schädlichen Wirkungen können ionisierende Strahlen haben?
+  Ionisierende Strahlen sind generell ungefährlich.
+x Ionisierende Strahlen können Langzeitschäden sowie sofort auftretende Akutschäden verursachen.
+  Ionisierende Strahlen können nur Akutschäden verursachen.
+
+8. In welchen Aggregatzuständen können biologische Kampfstoffe vorkommen?
+x fest, flüssig und gasförmig
+  fest und gasförmig
+  nur flüssig
+
+9. Welche der folgenden Stoffe werden den biologischen Kampfstoffen zugeordnet?
+  Viren und Säurenebel
+  Giftgas und Bakterien
+x Bakterien, Pilze, Viren, Toxine
+
+10. Wie gelangen B-Kampfstoffe überwiegend in den Körper?
+x über die Atemwege und den Verdauungstrakt
+  nur über die Haut
+  nur über Verletzungen
+
+11. Welche der folgenden Maßnahmen ist gegen chemische Kampfstoffe wirksam?
+  die Durchführung von Schutzimpfungen
+x das Benutzen von Schutzkleidung und Atemschutz
+  die Durchführung von Vorsorgeuntersuchungen
+
+12. Welche Aussage bezüglich der Flüchtigkeit chemischer Kampfstoffe ist richtig?
+  Chemische Kampfstoffe sind immer flüchtig.
+  Chemische Kampfstoffe sind immer sesshaft.
+x Chemische Kampfstoffe können flüchtig, wenigflüchtig oder sesshaft sein.
+
+13. Wodurch kann man gegebenenfalls die Ausbringung chemischer Kampfstoffe erkennen?
+x an markanten Gerüchen oder Beobachtungen bei anderen Lebewesen
+  Es gibt grundsätzlich keine Anzeichen.
+  anhand von Wetterbeobachtungen
+
+14. Welche Vorgehensweise nach einer Kontamination mit einem chemischen Kampfstoff ist richtig?
+  Eine sofortige Notdekontamination ist bei C-Kampfstoffen zu unterlassen.
+x Eine Notdekontamination ist durchzuführen.
+  Bevor Maßnahmen zur Dekontamination durchgeführt werden, muss der Betroffene einem ermächtigten Arzt vorgestellt werden.
+
+15. Welches Fahrzeug wird unter anderem für Messaufgaben im Zivilschutz vom Bund vorgesehen?
+x ABC-Erkundungskraftwagen
+  Strahlenspürtruppfahrzeug
+  Gerätewagen IuK
+
+16. Auf welchem Weg können chemische Kampstoffe in den Körper aufgenommen werden?
+  nur über die Atemwege
+x auch über die Haut
+  nur über die Atemwege und den Verdauungstrakt
+
+17. Welches Bundesamt unterstützt die Arbeit im Zivilschutz?
+  das Bundesamt für Katastrophenschutz
+  das Bundeszivilschutzamt
+x das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+

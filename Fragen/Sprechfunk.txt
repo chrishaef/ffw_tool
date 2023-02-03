@@ -1,0 +1,63 @@
+// Sprechfunk.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:19:31 Uhr
+
+1. Sie sind als angerufene Sprechfunkbetriebsstelle nicht in der Lage, eine Nachricht sofort aufzunehmen. Welche Anrufantwort ist zu verwenden?
+  „Hier (Rufname) - ich habe keine Zeit - ENDE“
+  „Hier (Rufname) - ich kann Sie nicht aufnehmen - ENDE“
+x „Hier (Rufname) - warten!“
+
+2. Im Digitalfunknetz der BOS werden die Betriebsarten „Netzbetrieb“ (TMO - Trunked Mode Operation) und „netzunabhängiger Betrieb“ (DMO - Direct Mode Operation) unterschieden. Welche Aussage ist hierzu richtig?
+  Die Betriebsart „Netzbetrieb“ (TMO) ist für Feuerwehren nicht vorgesehen und wird nur von der Polizei verwendet.
+  Die Betriebsart „netzunabhängiger Betrieb“ (DMO) ist ausschließlich in Gebäuden zulässig.
+x In der Betriebsart „netzunabhängiger Betrieb“ (DMO) können zwei oder mehrere Teilnehmer direkt miteinander kommunizieren, ohne auf die Netzinfrastruktur selbst zugreifen zu müssen.
+
+3. Welche Aussage trifft für die Rufart „Einzelruf“ in der Betriebsart „Netzbetrieb“ (TMO - Trunked Mode Operation) zu?
+  Der Einzelruf ist in der Betriebsart „Netzbetrieb“ (TMO) nur mit Handfunkgeräten möglich.
+  Der Einzelruf entspricht dem Linienverkehr im Analogfunk. Alle Teilnehmer hören das laufende Funkgespräch mit, dürfen jedoch nicht an der Kommunikation teilnehmen.
+x Unter dem Einzelruf wird eine Punkt-zu-Punkt-Verbindung zwischen zwei Teilnehmern verstanden.
+
+4. Wer ist für das Endgeräte-Management, die Anwenderbetreuung und für den prozessorientierten Service in seinem Zuständigkeitsbereich für den Digitalfunk in Hessen verantwortlich?
+  die Landeskoordinierungsstelle Digitalfunk (LKD)
+x der Servicepoint
+  die Landesbetriebsstelle Digitalfunk (LBD)
+
+5. Kann beim Einsatz tragbarer Sprechfunkanlagen (z. B. FuG 11b) in Stahlbetonkonstruktionen oder Tunnelanlagen die Ausbreitung der elektromagnetischen Wellen behindert werden?
+x ja, erheblich
+  ja, jedoch nur unmaßgeblich
+  nein, in keinem Fall
+
+6. Welche Nachrichten werden im Funknetz der nichtpolizeilichen BOS in Hessen mit den Worten “Achtung, Achtung“ eingeleitet?
+  Nachrichten mit dem Vermerk „Blitz“
+  Nachrichten mit dem Vermerk „Sofort“
+x Alarmnachrichten
+
+7. Buchstabieren Sie das Wort „FALSCH“ nach der „Buchstabiertafel Inland“. Ich buchstabiere:
+  Foxtrott, Alpha, Lima, Sierra, Charlie, Hotel
+x Friedrich, Anton, Ludwig, Schule
+  Friedrich, Anna, Leopold, Schule
+
+8. Welche Einrichtung ist der funkbetriebliche Mittelpunkt eines Funkverkehrskreises?
+  die große Relaisfunkstelle
+x die Zentrale Leitstelle
+  das Regierungspräsidium
+
+9. Unter welchen Bedingungen dürfen nichtpolizeiliche BOS in Hessen Funkbetriebsübungen im 4-m-Wellenbereich durchführen?
+  auf Anordnung des nächsten Vorgesetzten und nur auf einem Übungskanal, Bandlage und Verkehrsart beliebig
+  nur auf dem Betriebskanal, Bandlage „U“, Verkehrsart „W“
+x nur im Rahmen einer funkbetrieblichen Weisung der zuständigen Betriebsleitung
+
+10. Wer ist für das Endgeräte-Management, die Anwenderbetreuung und für den prozessorientierten Service in seinem Zuständigkeitsbereich für den Digitalfunk in Hessen verantwortlich?
+  Die Landeskoordinierungsstelle Digitalfunk (LKD)
+  Die Landesbetriebsstelle Digitalfunk (LBD)
+x Servicepoint
+
+11. Welche Aussage ist zu dem Funkrufnamen „Florian Mücke 7-47-14“ zutreffend?
+  Es handelt sich um das 14te TSF-W der Gemeinde Mücke.
+x Es handelt sich um das vierte Handsprechfunkgerät des Florian Mücke 7-47-1.
+  Dieser Funkrufname entspricht nicht dem Sonderschutzplan „AB 2 Plan 2 Funkrufnamenkatalog 2011“ und ist daher ungültig.
+
+12. An einer Einsatzstelle der Feuerwehr wird im Sprechfunkbetrieb zu der primär genutzten Gruppe eine zweite Gruppe im netzunabhängigen Betrieb (DMO) benötigt. Welche Gruppe darf verwendet werden?
+x Es kann unverzüglich die Gruppe 302F geschaltet werden. Das Umschalten befiehlt die Betriebsleitung, in diesen Fall der Einsatzleiter.
+  Es muss eine Gruppe über die zuständige zentrale Leitstelle bei der Landesbetriebsstelle Digitalfunk (LBD) beantragt werden. Erst nach Bestätigung durch die LBD darf die neue Gruppe genutzt werden.
+  Es kann als zweite Gruppe aus dem Gruppen-Ordner „Feuerwehr“ jede Gruppe (301F, 302F, 303F, 304F, 305F, 306F+) beliebig gewählt und ohne weitere Befehle verwendet werden.
+

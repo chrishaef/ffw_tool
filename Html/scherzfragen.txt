@@ -1,0 +1,45 @@
+// Scherzfragen.txt
+// Dies ist ein Muster für einen Fragebogen
+// Stand 6. Mai 2009
+
+1. Wie lange dauerte der 30-jährige Krieg?
+  6 Tage
+  17 Monate
+x 30 Jahre
+
+2. Auf welchen Wochentag fällt Ostersonntag?
+  Mittwoch
+x Sonntag
+  Freitag
+
+3. Wer schrieb Goethes Faust?
+x Goethe
+  Schiller
+  Fontane
+
+4. Wie heißt Helmut Kohl mit Vornamen?
+  Horst
+  Hans
+  Hannelore
+x Helmut
+  Hermann
+
+5. Welches Gebäude gehört zu den sieben Weltwundern?
+  Das Empire State Building
+x Der Leuchtturm von Alexandria
+  Unser Holzstall
+
+6. Was ist das wichtigste beim Schweißen?
+  Der Stickstoff
+  Die Lötlampe
+  Die 360 Volt Leitung
+x Der Buchstabe <B>w</B>
+
+7. Der Polier fragt den Arbeiter: "Was ergibt drei mal Sieben?"
+  14
+  21
+x Feinen Sand
+  28
+
+
+// Ende Scherz-Fragen

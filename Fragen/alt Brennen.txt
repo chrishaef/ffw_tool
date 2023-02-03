@@ -1,0 +1,359 @@
+// alt Brennen.txt
+// automatisch übersetzt am 18 Jun 2009 um 21:59:09 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. Wie heißt das Produkt aus der Verbindung eines Stoffes mit Sauerstoff?
+  Das Produkt heißt Oxidation.
+  Das Produkt heißt Chemischer Vorgang.
+x Das Produkt heißt Oxid.
+
+2. Welche Art der Wärmeübertragung ist an kein Medium gebunden?
+  die Wärmeleitung
+  die Konvektion
+x die Wärmestrahlung
+
+3. Bei welcher Temperatur eines Stahlträgers beträgt die Tragfähigkeit nur noch etwa die Hälfte?
+x bei ca.   500 °C
+  bei ca.   900 °C
+  bei ca. 1.100 °C
+
+4. Welche Aussage hinsichtlich der Temperatur des Flammpunktes und des Brennpunktes einer brennbaren Flüssigkeit ist richtig?
+x Die Temperatur des Brennpunktes ist höher als die des Flammpunktes.
+  Flammpunkt und Brennpunkt haben die gleiche Temperatur.
+  Die Temperatur des Flammpunktes ist höher als die des Brennpunktes.
+
+5. Welches Gas entsteht hauptsächlich bei einer vollkommenen Verbrennung?
+  Es entsteht Kohlenmonoxid.
+  Es entsteht Stickstoff.
+x Es entsteht Kohlendioxid.
+
+6. Brennbare Flüssigkeiten können einen hohen oder einen niedrigen Flammpunkt haben. Welche Flüssigkeiten sind gefährlicher?
+  Der Flammpunkt ist ohne Bedeutung.
+  Flüssigkeiten mit einem hohen Flammpunkt sind gefährlicher.
+x Flüssigkeiten mit einem niedrigen Flammpunkt sind gefährlicher.
+
+7. Welche brennbaren Flüssigkeiten gehören in die Gefahrklasse_B_nach der "Verordnung über brennbare Flüssigkeiten" (VbF)?
+  Alle brennbaren Flüssigkeiten, die nicht mit Wasser mischbar sind.
+x Alle brennbaren Flüssigkeiten mit einem Flammpunkt unter 21°C, die mit Wasser mischbar sind.
+  Alle brennbaren Flüssigkeiten gehören in die Gefahrklasse_B_nach VbF.
+
+8. Was versteht man unter dem Begriff "Zündtemperatur" gemäß DIN_14_011?
+x Die Zündtemperatur ist die ermittelte niedrigste Temperatur einer erhitzten Wand, an der die am leichtesten entzündbare explosionsfähige Atmosphäre gerade noch zum Brennen mit Flammenerscheinung angeregt wird.
+  Die Zündtemperatur ist die Temperatur eines brennenden Streichholzes.
+  Die Zündtemperatur ist die Temperatur, bei der eine brennbare Flüssigkeit beginnt, Dämpfe abzugeben.
+
+9. Wovon hängt die Brandgefährlichkeit eines festen Stoffes ab?
+  von seiner Brennbarkeit
+x von seiner Entzündbarkeit
+  von seiner Festigkeit
+
+10. Was ist Wärme?
+  der Wärmezustand eines Stoffes
+x eine Form der Energie
+  die ablesbare Temperatur am Thermometer
+
+11. Was versteht man unter "Abbrandrate" gemäß DIN_14_011?
+x Die Abbrandrate ist die in einer bestimmten Zeitspanne verbrennende Masse eines brennbaren Stoffes.
+  Die Abbrandrate ist die Restmenge eines verbrannten Stoffes.
+  Die Abbrandrate ist ein brennender Stoff, der in Raten verbrennt.
+
+12. Welchen Explosionsbereich hat ein Acetylen-Luft-Gemisch?
+  von    0 bis 99 Vol.-%
+  von    4 bis 74 Vol.-%
+x von 1,5 bis 82 Vol.-%
+
+13. Wo findet bei einer Kerzenflamme das Brennen statt?
+  direkt am Docht
+  im Innern der Flamme
+x an der Außenfläche der Flamme
+
+14. Welche Stoffe haben eine bestimmte Zündtemperatur?
+  Nur alle holzförmigen Stoffe haben eine Zündtemperatur.
+x Alle brennbaren Stoffe haben eine Zündtemperatur.
+  Nur gasförmige Stoffe haben eine Zündtemperatur.
+
+15. <IMG SRC='a.gif' WIDTH=100 Height=95 ALIGN=RIGHT alt=''>Für welche Brände ist ein mit folgendem Bildzeichen versehener Feuerlöscher geeignet?
+x Brände von festen Stoffen
+  Brände von Gasen
+  Brände von flüssigen oder flüssig werdenden Stoffen
+
+16. <IMG SRC='b.gif' WIDTH=100 Height=95 ALIGN=RIGHT alt=''>Für welche Brände ist ein mit folgendem Bildzeichen versehener Feuerlöscher geeignet?
+  Brände von festen Stoffen
+  Brände von Gasen
+x Brände von flüssigen oder flüssig werdenden Stoffen
+
+17. <IMG SRC='d.gif' WIDTH=100 Height=95 ALIGN=RIGHT alt=''>Für welche Brände ist ein mit folgendem Bildzeichen versehener Feuerlöscher geeignet?
+  Brände von festen Stoffen
+  Brände von Gasen
+x Brände von Metallen
+
+18. In welche Gefahrklasse der Verordnung über brennbare Flüssigkeiten ist Alkohol einzuordnen?
+x in der Gefahrklasse B
+  in der Gefahrklasse A I
+  in der Gefahrklasse A II
+
+19. Welcher der angegebenen Stoffe verbrennt nur mit Flamme?
+  Koks
+x Kerzenwachs
+  Papier
+
+20. Wie bezeichnet man ein nicht bestimmungsgemäßes Brennen, das sich unkontrolliert ausbreitet?
+  Flugfeuer
+  Feuerbrücke
+x Brand
+
+21. Was ist Wärmestrahlung?
+  Wärmestrahlung ist eine Strahlung, die ungehindert durch jeden Körper hindurchgeht.
+  Wärmestrahlung ist eine elektromagnetische Wellenstrahlung, die von der Wärmeleitzahl abhängt.
+x Wärmestrahlung ist eine elektromagnetische Wellenstrahlung, die mit der Entfernung im Quadrat abnimmt.
+
+22. Welche Voraussetzungen müssen vorhanden sein, damit eine Verbrennung stattfinden kann?
+  brennbarer Stoff, Sauerstoff, Wärme, Flammpunkt und ein Katalysator
+x brennbarer Stoff, Sauerstoff, richtiges Mengenverhältnis und die Zündtemperatur
+  brennbarer Stoff, Luft mit mindestens 10_% Sauerstoff und 89_% Stickstoff
+
+23. Welche der folgenden Brände gehören in die Brandklasse_D?
+x Brände von Aluminium und Magnesium
+  Brände von Holzkohle und Papier
+  Brände von Methan und Propan
+
+24. Welche der nachstehend aufgeführten Stoffe gelten als leicht entzündlich?
+x Acetylen, Schwefelkohlenstoff und Zellhorn
+  Heizöl, Dieselkraftstoff und Petroleum
+  Magnesium, Natrium und Kalium
+
+25. Welche der aufgeführten Stoffe brennen nur mit Flamme?
+x Wachs und Stearin
+  Metalle und Holzkohle
+  Holz, Kohle und Papier
+
+26. Welche brennbaren Stoffe haben einen Brennpunkt?
+  alle brennbaren festen Stoffe
+x alle brennbaren flüssigen Stoffe
+  alle brennbaren gasförmigen Stoffe
+
+27. Was ist eine Oxidation?
+  Oxidation ist ein physikalischer Vorgang.
+  Oxidation ist ein mechanischer Vorgang.
+x Oxidation ist ein chemischer Vorgang.
+
+28. Welche der aufgeführten Stoffe haben einen Flammpunkt?
+  Holz und Kohle
+  Butan, Propan und Acetylen
+x Schwefelkohlenstoff, Alkohol und Spiritus
+
+29. Welcher der aufgeführten Stoffe fördert durch seine Anwesenheit den Brennvorgang, ist jedoch selbst nicht brennbar?
+  Stickstoff
+x Sauerstoff
+  Kohlenstoff
+
+30. Welche Maßeinheit ist die SI-Einheit der Wärme?
+  Kalorie
+x Joule
+  Newton
+
+31. Welche der nachfolgend aufgeführten Stoffe brennen nicht mit Flammen?
+x Holzkohle und Koks
+  Benzin und Lösungsmittel
+  Holzwolle und Papier
+
+32. Welche Brände nachfolgender brennbarer Stoffe gehören zur Brandklasse_C?
+  Brände fester Stoffe
+x Brände gasförmiger Stoffe
+  Brände flüssiger oder flüssig werdender Stoffe
+
+33. Welche der nachfolgenden Aussagen ist richtig?
+  Das Zerkleinern von Stoffen ist ein chemischer Vorgang.
+x Das Umwandeln von Stoffen ist ein chemischer Vorgang.
+  Das Kühlen von Stoffen ist ein chemischer Vorgang.
+
+34. Was ist die Mindestverbrennungstemperatur?
+  Die Mindestverbrennungstemperatur ist die Temperatur, bei der ein brennbarer Stoff zündet.
+x Die Mindestverbrennungstemperatur ist eine auf den Stoff bezogene Temperatur, die mindestens erforderlich ist, um eine Verbrennung aufrechtzuerhalten.
+  Die Mindestverbrennungstemperatur eine Temperatur, bei der der Stoff erstmalig entflammen kann.
+
+35. Wann spricht man von einem Wärmestau?
+x Wenn mehr Wärme erzeugt wird, als abgeführt werden kann.
+  Wenn nur wenig Sauerstoff zum Brandherd gelangen kann.
+  Wenn ein brennbarer Stoff mit einem sehr hohen Heizwert verbrennt.
+
+36. Welcher der nachstehend aufgeführten Stoffe brennt unter gleichen Bedingungen mit der höchsten Brandtemperatur?
+  Propan
+  Holzkohle
+x Aluminium
+
+37. Welche Dämpfe folgender brennbarer Flüssigkeiten haben bei normalem Sauerstoffgehalt der Umgebungsluft den größten Explosionsbereich?
+x Schwefelkohlenstoff
+  Benzin
+  Spiritus
+
+38. Welche ist die richtige Reihenfolge der nachstehenden Begriffe, wenn die Begriffe mit steigender Temperatur angeordnet werden sollen?
+  Brennpunkt, Flammpunkt, Zündtemperatur
+  Flammpunkt, Zündtemperatur, Brennpunkt
+x Flammpunkt, Brennpunkt, Zündtemperatur
+
+39. Welcher der nachfolgend aufgeführten Stoffe hat den niedrigsten Flammpunkt?
+x Benzin
+  Heizöl
+  Glyzerin
+
+40. Welche Voraussetzungen sind für eine Selbstentzündung notwendig?
+  Heu oder Stroh müssen vorhanden sein.
+x Der brennbare Stoff muss merklich oxidieren und die hierbei erzeugte Wärme muss gestaut bleiben.
+  Der brennbare Stoff muss die Zündtemperatur erreicht haben, es müssen eine Umgebungstemperatur von 0_°C, Sauerstoff, Antikatalysatoren und alles im richtigen Mengenverhältnis vorhanden sein.
+
+41. Wie sind die brennbaren Stoffe nach ihrer Entzündbarkeit eingeteilt?
+  in schwer, normal und leicht brennbare Stoffe
+  in schwer-, normal-, leicht- und schnellentzündliche Stoffe
+x in selbst-, leicht-, normal- und schwerentzündbare Stoffe
+
+42. Wovon ist die Entzündbarkeit eines brennbaren Stoffes abhängig?
+x vom Zustand des brennbaren Stoffes, Art der Zündquelle bzw. Art der Wärmeenergie und vom Sauerstoffgehalt der Umgebungsatmosphäre
+  nur vom Sauerstoff der Umgebung und vom Zustand des brennbaren Stoffes
+  vom richtigen Mengenverhältnis, vom Sauerstoff, von den zur Verfügung stehenden Löschmitteln
+
+43. Welcher der nachstehend aufgeführten Stoffe hat die höchste Zündtemperatur?
+x Wasserstoff
+  Holzkohle
+  Papier
+
+44. Wie verändert sich der Flammpunkt von Ethanol (Spiritus), wenn es mit Wasser verdünnt wird?
+x Der Flammpunkt steigt, da durch das Verdünnen weniger Dämpfe gebildet werden.
+  Der Flammpunkt bleibt gleich, da es sich um eine stoffspezifische Größe handelt.
+  Der Flammpunkt sinkt, da auch der Siedepunkt sinkt.
+
+45. Welcher der nachfolgend aufgeführten Stoffe hat den größten Explosionsbereich?
+  Propan
+x Acetylen
+  Methan
+
+46. Welcher der nachfolgend aufgeführten brennbaren Stoffe benötigt die niedrigste Mindestzündenergie?
+  Holz
+x Propan
+  Heizöl
+
+47. Welcher Brandklasse sind Brände von Wachs, Stearin und Paraffin zugeordnet?
+  Brandklasse A
+x Brandklasse B
+  Brandklasse C
+
+48. Was ist eine exotherme Reaktion?
+  Eine chemische Reaktion, bei der Wärme aufgenommen wird.
+x Eine chemische Reaktion, bei der Wärme abgegeben wird.
+  Eine chemische Reaktion dieser Art gibt es nicht.
+
+49. Was versteht man unter dem Begriff "Feuer"?
+  Unter Feuer versteht man einen chemischen Vorgang.
+x Unter Feuer versteht man ein bestimmungsgemäßes Brennen (Nutzfeuer) oder nicht bestimmungsgemäßes Brennen (Schadenfeuer).
+  Unter Feuer versteht man einen mechanischen Vorgang.
+
+50. In welchem Temperaturbereich liegt der Flammpunkt brennbarer Flüssigkeiten der Gruppe_B_nach der Verordnung brennbarer Flüssigkeiten (VbF)?
+  von 21 °C bis 55 °C
+x unter 21 °C
+  von 22 °C bis 40 °C
+
+51. Wie nennt man den Bereich zwischen der oberen und der unteren Explosionsgrenze?
+  Temperaturbereich
+  Verdampfungsbereich
+x Explosionsbereich
+
+52. Wie ist die Bezeichnung für Stoffe, die durch die Energie einer Streichholzflamme zur Entzündung gebracht werden können?
+  Schwer entzündliche Stoffe
+x Normal entzündliche Stoffe
+  Leicht entzündliche Stoffe
+
+53. Welche der nachfolgend aufgeführten Stoffe brennen vergleichsweise träge?
+  Holzwolle und Stroh
+x reine Wolle und Sicherheitsfilm
+  Zellhorn und Magnesium
+
+54. Welche Brände werden der Brandklasse_B_zugeordnet?
+  Brände fester Stoffe
+  Brände von Gasen
+x Brände flüssiger oder flüssig werdender Stoffe
+
+55. Was versteht man unter dem Begriff "Glut"?
+  Unter Glut versteht man exotherm reagierende Gase oder Dämpfe, von denen sichtbare Strahlung ausgeht.
+x Unter Glut versteht man erwärmte feste oder flüssige Stoffe mit sichtbarer Wärmestrahlung.
+  Unter Glut versteht man erwärmte gasförmige Stoffe, die ohne Flamme brennen.
+
+56. Was versteht man unter dem Begriff "Temperatur"?
+  Temperatur ist eine Maßeinheit für die Wärmeenergie.
+x Temperatur kennzeichnet den Wärmezustand eines Stoffes.
+  Temperatur ist eine Maßeinheit für den Heizwert eines Stoffes.
+
+57. Wie bezeichnet man Stoffe, die bereits durch eine vergleichsweise schwache Zündquelle zur Entzündung gebracht werden können?
+  schwerentzündliche Stoffe
+  normalentzündliche Stoffe
+x leichtentzündliche Stoffe
+
+58. Wie bezeichnet man die chemische Vereinigung eines Stoffes mit Sauerstoff?
+  Man bezeichnet diesen Vorgang als Thermodynamik.
+x Man bezeichnet diesen Vorgang als Oxidation.
+  Man bezeichnet diesen Vorgang als Definition.
+
+59. Welchen Einfluss hat der Sauerstoff auf den Brennvorgang?
+  Bei Anwesenheit von Sauerstoff wird der Brennvorgang gehemmt.
+x Der Brennvorgang verläuft je nach Sauerstoffzufuhr schneller oder langsamer.
+  Die Anwesenheit von Sauerstoff ist für den Brennvorgang ohne Bedeutung.
+
+60. Wie kann Wärme bei einem Brand übertragen werden?
+x durch Wärmestrahlung, Wärmeleitung, Konvektion
+  durch Wärmefluss, Wärmebindung, Wärmezufuhr
+  durch Wärmeumlauf, Thermik, Wärmebindung
+
+61. Brennbare Stoffe werden für die Löschmittelzuordnung eingeteilt in:
+  Gefahrklassen
+  Feuerwiderstandsklassen
+x Brandklassen
+
+62. Welche Zone einer Flamme ist die wärmste?
+  die Gaszone
+  die Glühzone
+x die Brennzone
+
+63. Welche Stoffe dehnen sich bei Erwärmung aus?
+  Nur flüssige Stoffe dehnen sich bei Erwärmung aus.
+  Nur gasförmige Stoffe dehnen sich bei Erwärmung aus.
+x Alle festen, flüssigen (außer Wasser von 0_°C_bis 4_°C) und gasförmigen Stoffe dehnen sich bei Erwärmung aus.
+
+64. Wie bezeichnet man die Übertragung von Wärme durch strömende Gase oder Flüssigkeiten?
+x Konvektion (Wärmemitführung)
+  Wärmeleitung
+  Wärmedurchgang
+
+65. Sind Dämpfe von Benzin schwerer oder leichter als Luft?
+x Die Dämpfe sind schwerer als Luft.
+  Die Dämpfe sind leichter als Luft.
+  Die Dämpfe sind ebenso schwer wie Luft.
+
+66. Zu welcher Gefahrklasse zählt Dieselkraftstoff mit einem Flammpunkt von +_76_°C?
+  zur Gefahrklasse A I
+  zur Gefahrklasse A II
+x zur Gefahrklasse A III
+
+67. Welche der nachfolgend aufgeführten Stoffe neigen zur Selbstentzündung?
+  Benzin und Dieselöl
+x Weißer Phosphor, leinölgetränkte Putzwolle und feuchtes Heu
+  Wolle und Stroh
+
+68. Woher erhält ein Stoff die zur Fremdentzündung erforderliche Zündenergie?
+x von außen
+  Die Energie erzeugt der Stoff selbst.
+  Es wird überhaupt keine Energie zugeführt.
+
+69. Welche nachfolgenden Stoffe brennen nur mit Glut?
+x alle Metalle und alle künstlich entgasten Stoffe
+  alle Kunststoffe und ihre Ausgangsprodukte
+  alle brennbaren Flüssigkeiten
+
+70. Was ist ein Schwelbrand?
+  Ein Brand, der nach kurzer Zeit von selbst wieder erlischt.
+x Ein infolge Sauerstoffmangels sehr langsam verlaufender Brand.
+  Ein Brand mit einer hohen Flammenausbreitungsgeschwindigkeit.
+
+71. Welche Gefahrklasse der brennbaren Flüssigkeiten ist nach der Verordnung über brennbare Flüssigkeiten (VbF) in Gefahrklassen unterteilt?
+x die Gefahrklasse A
+  die Gruppe B
+  die Gefahrklassen A und B
+

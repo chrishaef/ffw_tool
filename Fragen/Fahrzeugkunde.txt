@@ -1,0 +1,283 @@
+// Fahrzeugkunde.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:12 Uhr
+
+1. Welches der nachfolgenden Feuerwehrfahrzeuge hat keinen Löschwasserbehälter?
+  das Löschgruppenfahrzeug LF 10
+  das Kleinlöschfahrzeug KLF
+x das Tragkraftspritzenfahrzeug TSF
+
+2. Welche Mannschaftsstärke hat ein HLF 20?
+x Ein HLF 20 hat eine Mannschaftsstärke von 1/8/9.
+  Ein HLF 20 hat eine Mannschaftsstärke von 1/5/6.
+  Ein HLF 20 hat eine Mannschaftsstärke von 1/2/3.
+
+3. Wie viel Liter Löschwasser führt ein LF 10 im Löschwasserbehälter mit?
+  750 Liter
+  1000 Liter
+x 1200 Liter
+
+4. Welche Mannschaftsstärke hat ein TSF-W?
+x Ein TSF-W hat eine Staffelbesatzung.
+  Ein TSF-W hat eine Truppbesatzung.
+  Ein TSF-W hat eine Gruppenbesatzung.
+
+5. Wie viel Meter B-Druckschlauchleitung kann mit den auf einem HLF 20 untergebrachten B-Druckschläuchen (ohne den 5 m B-Druckschlauch) verlegt werden?
+x 280 m
+  565 m
+  485 m
+
+6. Welche der nachfolgend aufgeführten tragbaren Leitern gehört nicht zur Standardbeladung eines LF 20?
+  die Steckleiter
+  die Schiebleiter
+x die Klappleiter
+
+7. Was bedeutet die Fahrzeugkurzbezeichnung KLF?
+  Die Fahrzeugkurzbezeichnung KLF bedeutet kommunales Löschfahrzeug.
+x Die Fahrzeugkurzbezeichnung KLF bedeutet Kleinlöschfahrzeug.
+  Die Fahrzeugkurzbezeichnung KLF bedeutet Kleinlöschtankfahrzeug.
+
+8. Was versteht man bei einer Drehleiter unter der Nennrettungshöhe?
+  Die Nennrettungshöhe ist die lotrechte Höhe von Standfläche bis zu Bodenoberseite des Korbes.
+x Die Nennrettungshöhe ist die festgelegte Rettungshöhe bei Nennreichweite.
+  Die Nennrettungshöhe ist die Höhe, die eine Drehleiter mindestens erreichen muss.
+
+9. Welche Mannschaftsstärke hat ein Kleinlöschfahrzeug KLF?
+x eine Staffel
+  ein Trupp
+  eine Löschgruppe
+
+10. Mit welcher Feuerlöschkreiselpumpe ist ein TLF 2000 ausgerüstet?
+  mit einer Tragkraftspritze PFPN 10-1000
+x mit einer FPN 10-1000
+  mit einer FPN 10-2000
+
+11. Welches nachfolgende Feuerwehrfahrzeug gehört zu der Fahrzeuggruppe der Hubrettungsfahrzeuge?
+x die DLA(K) 23/12
+  die AL-18
+  der GW-G
+
+12. Welche Aufgaben kann im Rahmen der Gefahrenabwehr ein TSF-W im Wesentlichen nicht abdecken?
+  die Brandbekämpfung
+  die Löschwasserversorgung
+x die Technische Hilfeleistung
+
+13. Welchem Fahrzeugtyp wird der RW zugeordnet?
+x Der RW wird der Fahrzeuggruppe der Rüst- und Gerätewagen zugeordnet.
+  Der RW wird der Fahrzeuggruppe der Rettungswagen zugeordnet.
+  Der RW wird der Fahrzeuggruppe der sonstigen Feuerwehrfahrzeuge zugeordnet.
+
+14. Welche feuerwehrtechnische Einrichtung gehört zur Ausstattung eines RW?
+  ein Löschwasserbehälter
+  eine Schnellangriffseinrichtung Wasser
+x eine Einsatzstellenbeleuchtung (Lichtmast)
+
+15. Welches der nachfolgenden Hubrettungsfahrzeuge ist keine Drehleiter im Sinne der DIN EN 14043?
+x die Hubarbeitsbühne (HAB)
+  die DLA(K) 23/12
+  die DLA 23/12
+
+16. Welche Mannschaftsstärke hat ein GW-L1?
+  Ein GW-L1 hat eine Mannschaftsstärke von 1/5/6 bzw. 1/8/9.
+x Ein GW-L1 hat eine Mannschaftsstärke von 1/2/3 bzw. 1/5/6.
+  Ein GW-L1 hat eine Mannschaftsstärke von 1/8/9 bzw. 1/2/3.
+
+17. Was kennzeichnen die beiden letzten Ziffern in der Typenbezeichnung DLA(K) 23/12?
+  Die Ziffern bedeuten Fahrzeugmasse pro Fahrzeuglänge.
+  Die Ziffern 23/12 bedeuten den kleinsten und den größten Wendekreisdurchmesser in Metern.
+x Die Ziffern 23/12 kennzeichnen die Nennreichweite der Drehleiter.
+
+18. Welche Aussage über den GW-G ist richtig?
+  Der GW-G hat eine Staffelbesatzung.
+x Der GW-G hat eine Beladung zur Bearbeitung von Gefahrgutunfällen.
+  Der GW-G hat eine eingeschobene TS in Form einer PFPN 10-1000.
+
+19. Welches Einsatzmittel gehört zur Standardbeladung einer DLA(K) 23/12?
+  ein BM-Strahlrohr mit Stützkrümmer
+  ein Sammelstück und ein Saugkorb
+x zwei B-Druckschläuche
+
+20. Welches wesentliche Merkmal zeichnet ein MLF aus?
+  die Gruppenkabine
+  der festeingebaute Lichtmast (Einsatzstellenbeleuchtung)
+x die Feuerlöschkreiselpumpe vom Typ FPN 10-1000
+
+21. Wie viele C-Druckschläuche gehören zur Standardbeladung eines TSF-W mit einer Schnellangriffseinrichtung (Wasser)?
+  10 C-Druckschläuche
+x 9 C-Druckschläuche
+  12 C-Druckschläuche
+
+22. Wie lang ist die Schnellangriffseinrichtung (Wasser) bei einem TLF 3000?
+  20 m oder 45 m
+x 30 m oder 50 m
+  40 m oder 60 m
+
+23. Welche Feuerlöschkreiselpumpe ist in einem TLF 4000 eingebaut?
+x eine FPN 10-2000
+  eine FPN 10-4000
+  eine FPH 20-40
+
+24. Welches Einsatzmittel gehört nicht zur Standardbeladung eines TSF?
+  die Steckleiter
+  die Pressluftatmer
+x das Schaumstrahlrohr
+
+25. Wozu wird eine DLA(K) 23/12 im Wesentlichen eingesetzt?
+  zur Brandbekämpfung
+x zur Menschenrettung aus großen Höhen
+  zur technischen Hilfeleistung
+
+26. Welche nachfolgende Ausstattung hat eine DLA(K) 23/12?
+x Eine DLA(K) 23/12 hat einen Korb.
+  Eine DLA(K) 23/12 hat eine Arbeitsbühne.
+  Eine DLA(K) 23/12 hat eine Rettungsplattform.
+
+27. Welche Bedeutung hat die Ziffer „23“ bei der Typkennzeichnung DLA(K) 23/12?
+x „23“ steht für die Nennrettungshöhe.
+  „23“ steht für die Nenneinsatzhöhe.
+  „23“ steht für die Rettungshöhe.
+
+28. Welche Aussage über den Anwendungsbereich eines LF 20 ist richtig?
+x Ein LF 20 dient vornehmlich zur Bekämpfung von Bränden, zur Wasserförderung und zur Durchführung einfacher technischer Hilfeleistungen.
+  Ein LF 20 dient nur zur Brandbekämpfung.
+  Ein LF 20 dient hauptsächlich zur Menschenrettung.
+
+29. Welches der nachfolgend aufgeführten Einsatzmittel gehört zur feuerwehrtechnischen Standardbeladung eines LF 10?
+  eine Tragkraftspritze vom Typ PFPN 10-1000
+x ein Kohlenstoffdioxid-Feuerlöscher K 5
+  eine Tauchmotorpumpe TP 8/1
+
+30. Welches nachfolgende Feuerwehrfahrzeug hat eine Truppbesatzung?
+  das TSF
+  das KLF
+x der RW
+
+31. Welche der nachfolgenden Aussagen sind für ein TLF 3000 zutreffend?
+  Ein TLF 3000 hat eine Staffelbesatzung.
+x Ein TLF 3000 hat einen Löschwasserbehälter.
+  Ein TLF 3000 hat die feuerwehrtechnische Ausstattung für eine Löschgruppe.
+
+32. Welche nutzbare Löschwassermenge wird auf einem TLF 4000 mitgeführt?
+  mindestens 2000 l
+x mindestens 4000 l
+  mindestens 4800 l
+
+33. Welche Aufgabe kann im Rahmen der Gefahrenabwehr mit einem TLF 3000 nicht abgedeckt werden?
+  die Waldbrandbekämpfung
+  die Dachstuhlbrandbekämpfung
+x die Technische Hilfeleistung
+
+34. Welche Aussage über ein MLF ist richtig?
+x Ein MLF hat eine Beladung für eine Gruppe.
+  Ein MLF hat einen Löschwasserbehälter mit mindestens 1000 l Inhalt.
+  Mit einem MLF können nur Brandbekämpfungsmaßnahmen durchgeführt werden.
+
+35. Welches der nachfolgenden Feuerwehrfahrzeuge hat den gleichen Anwendungsbereich wie der inzwischen aus der Norm zurückgezogene SW 2000?
+  der GW-G
+  der GW-SW
+x der GW-L2
+
+36. Welche Aussage über den Anwendungsbereich eines LF 10 ist richtig?
+x Ein LF 10 dient vornehmlich zum Bekämpfen von Bränden, zur Wasserförderung und zur Durchführung einfacher technischer Hilfeleistungen.
+  Ein LF 10 dient nur zur Brandbekämpfung.
+  Ein LF 10 ist ein universell einsetzbares Fahrzeug. Es dient zur Brandbekämpfung, zum Fördern von Wasser und zum Retten aus großen Höhen.
+
+37. Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines TSF-W?
+x 10 B-Druckschläuche
+  12 B-Druckschläuche
+  14 B-Druckschläuche
+
+38. Wozu dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt werden können?
+  zum Ziehen von Lasten mit dem Drahtseil
+  zum Ziehen von Lasten mittels Flaschenzug
+x zum Anheben von Lasten
+
+39. Welches nachfolgende Löschfahrzeug hat eine Staffelbesatzung?
+  das TLF 3000
+x das TSF-W
+  das HLF 20
+
+40. Welche der nachfolgenden Aussagen treffen für ein LF 10 zu?
+x Der eingebaute Löschwasserbehälter hat einen nutzbaren Inhalt von 1200 Liter Wasser.
+  Es ist eine Feuerlöschkreiselpumpe PFPN 10-2000 eingebaut.
+  Das Fahrzeug ist vorgesehen für eine Staffelbesatzung.
+
+41. Welches der nachfolgenden Löschfahrzeuge kann mit einer Schnellangriffseinrichtung (Wasser) ausgerüstet sein?
+x das LF 20
+  das KLF
+  das TSF
+
+42. Welche Besatzung hat ein TLF 3000?
+  Staffelbesatzung
+x Truppbesatzung
+  Gruppenbesatzung
+
+43. Welche Besatzung hat ein TLF 4000?
+  Staffelbesatzung
+x Truppbesatzung
+  Gruppenbesatzung
+
+44. Welche nutzbare Menge hat der eingebaute Schaummittelbehälter des TLF 4000?
+  mindestens 200 Liter
+x mindestens 500 Liter
+  mindestens 4800 Liter
+
+45. Welches nachfolgende Löschfahrzeug hat eine Truppbesatzung?
+  das LF 10
+  das TSF
+x das TLF 3000
+
+46. Welche der nachfolgenden Aussagen treffen für ein TSF-W zu?
+x Ein TSF-W hat die Beladung für eine Löschgruppe.
+  Ein TSF-W hat die Beladung für eine Löschstaffel.
+  Ein TSF-W hat eine Mannschaftsstärke von 1/8/9.
+
+47. Welche nutzbare Wassermenge enthält der Löschmittelbehälter des TLF 3000?
+  mindestens 2400 Liter
+x mindestens 3000 Liter
+  mindestens 500 Liter
+
+48. Wie viele B-Druckschläuche mit einer Länge von 20 m gehören zur Normbeladung eines LF 10?
+  12 B-Druckschläuche
+x 14 B-Druckschläuche
+  16 B-Druckschläuche
+
+49. Welches nachfolgende Löschfahrzeug hat eine Staffelbesatzung?
+  das TLF 3000
+x das TSF-W
+  das LF 10
+
+50. Welches nachfolgende Löschfahrzeug kann nach Norm mit einer maschinellen Zugeinrichtung (Seilwinde) ausgerüstet sein?
+  das TLF 2000
+x das HLF 20
+  das LF 10
+
+51. Welche Aussage über Tragkraftspritzenfahrzeuge ist richtig?
+x Zu den Tragkraftspritzenfahrzeugen gehört das TSF.
+  Zu den Tragkraftspritzenfahrzeugen gehört das TSF-B.
+  Die Mannschaftsstärke eines TSF beträgt 1/8/9.
+
+52. Wozu dient u. a. die Ausrüstung eines RW?
+  zum Anheben von Lasten mittels Kranausleger
+  zum Transport von Notfallpatienten
+x zum Abstützen bei Bauunfällen
+
+53. Wozu dienen vorrangig Hubrettungsfahrzeuge in Form von Drehleitern?
+  zum Heben von schweren Lasten, zum Beispiel bei LKW- und Eisenbahnunfällen
+  zum Vortragen von Löschangriffen
+x zur Rettung von Personen aus großen Höhen
+
+54. Welche der nachfolgend aufgeführten Leitern gehören zur Standardbeladung eines MLF?
+x die Steckleiter
+  die Schiebleiter
+  die Klappleiter
+
+55. Welche Aussage trifft für ein HLF 10 nicht zu?
+  Ein HLF 10 hat eine Gruppenbesatzung.
+  Ein HLF 10 kann zur Gefahrenabwehr im Rahmen der Allgemeinen Hilfe eingesetzt werden.
+x Ein HLF 10 hat einen Löschwasservorrat von 1200 l.
+
+56. Welche Aufgaben kann im Rahmen der Gefahrenabwehr ein RW im Wesentlichen abdecken?
+  die Brandbekämpfung
+  die Löschwasserversorgung
+x die Allgemeine Hilfe
+

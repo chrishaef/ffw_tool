@@ -1,0 +1,28 @@
+// Brandsicherheitsdienst.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:03 Uhr
+
+1. Welche öffentliche Feuerwehr leistet den Brandsicherheitsdienst bei einer Veranstaltung im Bürgerhaus der Gemeinde B-Dorf?
+  Jede öffentliche Feuerwehr kann den Brandsicherheitsdienst im Bürgerhaus B-Dorf leisten.
+  Welche Feuerwehr den Brandsicherheitsdienst leistet, wird durch die Brandschutzdienststelle festgelegt.
+x Nur die öffentliche Feuerwehr der Gemeinde B-Dorf leistet den Brandsicherheitsdienst.
+
+2. Wer bestimmt Art und Umfang des Brandsicherheitsdienstes?
+  Der Leiter des Ordnungsamtes
+  Die Brandschutzdienststelle
+x Die Leitung der Feuerwehr
+
+3. Was gehört zu den Aufgaben eines Brandsicherheitsdienstes vor Beginn der Veranstaltung?
+  Erstellen eines Bestuhlungsplanes.
+x Rundgang durch den Kontrollbereich durchführen.
+  Besetzen der Brandmeldezentrale, damit Alarmierungen direkt an den Wachhabenden gemeldet werden können.
+
+4. In welcher Reihenfolge sind die Maßnahmen bei einem Brand innerhalb einer Versammlungsstätte abzuarbeiten?
+  Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, zuständige Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.
+x Zuständige Brandmeldestelle informieren, Erkundung, Brandbekämpfung, Lösch- und Sicherheitseinrichtungen auslösen, Einweisung der anrückenden Einsatzkräfte veranlassen.
+  Lösch- und Sicherheitseinrichtungen auslösen, Erkundung, Brandbekämpfung, zuständige Brandmeldestelle informieren, Einweisung der anrückenden Einsatzkräfte veranlassen.
+
+5. Welche Maßnahmen sind bei einem Brand außerhalb der Versammlungsstätte sofort zu ergreifen?
+x Die zuständige Brandmeldestelle ist sofort zu alarmieren.
+  Jedes Mitglied des Brandsicherheitsdienstes begibt sich unverzüglich zur Brandmeldezentrale um dort durch den Wachhabenden weitere Befehle zu erhalten.
+  Die Posten, die den Brand außerhalb der Versammlungsstätte bemerkt haben, beginnen unverzüglich mit Löscharbeiten.
+

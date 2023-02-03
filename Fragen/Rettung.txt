@@ -1,0 +1,68 @@
+// Rettung.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:19:10 Uhr
+
+1. Welche Aussage über das Anschlagen der Feuerwehrleine beim Selbstretten im Einsatz ist richtig?
+  Die Feuerwehrleine wird mit einem Mastwurf am Anschlagpunkt befestigt. Auf einen Spierenstich kann im Einsatz verzichtet werden.
+x Die Feuerwehrleine wird mit einem Mastwurf und einem Spierenstich am Anschlagpunkt befestigt.
+  Im Einsatz kann jeder Knoten zum Befestigen der Feuerwehrleine genommen werden.
+
+2. Die FwDV 1 „Grundtätigkeiten“ beschreibt das Aussteigen beim Selbstretten. Welche Aussage trifft zu?
+  Rechtshänder steigen mit dem linken Bein, Linkshänder mit dem rechten Bein zuerst aus.
+  Es kann frei gewählt werden, mit welchem Bein zuerst ausgestiegen wird.
+x Linkshänder steigen mit dem linken Bein, Rechtshänder mit dem rechten Bein zuerst aus.
+
+3. Wie wird die Abseilgeschwindigkeit beim Selbstretten geregelt?
+  Die Abseilgeschwindigkeit wird über die Körpermasse geregelt.
+  Je älter das Seil, umso langsamer die Abseilgeschwindigkeit.
+x Die Abseilgeschwindigkeit wird durch die Haltekraft der Bremshand geregelt.
+
+4. Welche Aufgabe erfüllt die freie Hand beim Selbstretten?
+x Mit der freien Hand wird der Körper stabilisiert und vom Gebäude entfernt gehalten.
+  Die freie Hand führt das Seil oberhalb des Feuerwehr-Haltegurtes.
+  Die freie Hand wird in Hüfthöhe gehalten, um im Bedarfsfall schneller das Seil greifen zu können.
+
+5. Was ist beim Einsatz einer Feuerwehrleine zu beachten?
+  Nur neue Leinen dürfen eingesetzt werden.
+x Vor Übungen und nach jeder Benutzung wird eine Sichtprüfung vom Benutzer durchgeführt.
+  Benutzte Leinen werden immer dem Gerätewart übergeben.
+
+6. Was ist beim Einsatz einer Feuerwehrleine zu beachten?
+  Benutzte Leinen werden immer dem Gerätewart übergeben.
+  Nur neue Leinen dürfen eingesetzt werden.
+x Beschädigte Leinen dürfen nicht eingesetzt werden.
+
+7. Welche Aussage über den Gerätesatz „Absturzsicherung“ ist richtig?
+x darf nur von speziell ausgebildetem Personal eingesetzt werden
+  darf auch zum Heben und Senken von Lasten verwendet werden
+  darf bei Feuerwehren gar nicht verwendet werden
+
+8. Welche Aussage zum „Auffangen“ ist richtig?
+x Auffangen sind Tätigkeiten zur Sicherung von Einsatzkräften in absturzgefährdeten Bereichen, bei denen ein freier Fall nicht auszuschließen ist.
+  Auffangen ist die Sicherung von Einsatzkräften mit dem Ziel, einen Absturz auszuschließen.
+  Auffangen dient der Einschränkung des Bewegungsraumes der zu sichernden Einsatzkraft. Ein Absturz wird ausgeschlossen, wenn verhindert wird, dass der Gesicherte die Absturzkante erreicht.
+
+9. Welche Aussage zum „Halten“ ist richtig?
+x Halten ist das Sichern von Personen und Einsatzkräften mit dem Ziel, einen Absturz auszuschließen.
+  Halten ist das Sichern von Personen und Einsatzkräften im absturzgefährdeten Bereich.
+  Halten darf nur von Einsatzkräften durchgeführt werden, die das Seminar „Absturzsicherung“ absolviert haben.
+
+10. Welche Leinen und Seile finden im Feuerwehrdienst Verwendung?
+  Feuerwehrseile, Mehrzweckseile, Kernmantelseile
+  Feuerwehrleinen, Mehrzweckseile, Kernmantelleinen
+x Feuerwehrleinen, Mehrzweckleinen, Kernmantelseile
+
+11. Wann darf eine Sichtprüfung der Feuerwehrleine mit dem Einlegen der Feuerwehrleine in den Feuerwehrleinenbeutel kombiniert werden?
+  Nie, die Sichtprüfung ist immer separat durchzuführen.
+x Wenn keine Handschuhe getragen werden, kann die Sichtprüfung mit dem Einlegen in den Leinenbeutel kombiniert werden.
+  Die Sichtprüfung kann ohne Beschränkung mit dem Einlegen in den Leinenbeutel kombiniert werden.
+
+12. Welche Aussage zu Anschlagpunkten ist richtig?
+  Anschlagpunkte müssen waagerecht verlaufen.
+x Der Anschlagpunkt muss sich immer oberhalb des Feuerwehr-Haltegurtes befinden.
+  Am Anschlagpunkt darf nur mit Endlosbandschlingen angeschlagen werden.
+
+13. Wie wird das lose Feuerwehrleinenende beim Selbstretten am Boden befestigt?
+x Das Leinenende wird nicht befestigt.
+  Das Leinenende wird an einem geeigneten Anschlagpunkt mit einem Mastwurf gesichert.
+  Das Leinenende wird durch einen Kameraden straff gehalten.
+

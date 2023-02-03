@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<SCRIPT type="text/javascript">
+if (parent.frames.length<4) window.top.location.href="fragebogen.htm";
+
+parent.Index.Thema = 'Sprechfunk';
+parent.Index.LetzteFrage = 12;
+var t = new parent.Index.makeFragen(parent.Index.LetzteFrage);
+
+function FuelleFragen() {
+t[1].ok = "c";
+t[2].ok = "c";
+t[3].ok = "c";
+t[4].ok = "b";
+t[5].ok = "a";
+t[6].ok = "c";
+t[7].ok = "b";
+t[8].ok = "b";
+t[9].ok = "c";
+t[10].ok = "c";
+t[11].ok = "b";
+t[12].ok = "a";
+}
+
+function FuelleAntwort() {
+t[1].frage = "Sie sind als angerufene Sprechfunkbetriebsstelle nicht in der Lage, eine Nachricht sofort aufzunehmen. Welche Anrufantwort ist zu verwenden?";
+t[1].a = "„Hier (Rufname) - ich habe keine Zeit - ENDE“";
+t[1].b = "„Hier (Rufname) - ich kann Sie nicht aufnehmen - ENDE“";
+t[1].c = "„Hier (Rufname) - warten!“";
+t[2].frage = "Im Digitalfunknetz der BOS werden die Betriebsarten „Netzbetrieb“ (TMO - Trunked Mode Operation) und „netzunabh&auml;ngiger Betrieb“ (DMO - Direct Mode Operation) unterschieden. Welche Aussage ist hierzu richtig?";
+t[2].a = "Die Betriebsart „Netzbetrieb“ (TMO) ist f&uuml;r Feuerwehren nicht vorgesehen und wird nur von der Polizei verwendet.";
+t[2].b = "Die Betriebsart „netzunabh&auml;ngiger Betrieb“ (DMO) ist ausschlie&szlig;lich in Geb&auml;uden zul&auml;ssig.";
+t[2].c = "In der Betriebsart „netzunabh&auml;ngiger Betrieb“ (DMO) k&ouml;nnen zwei oder mehrere Teilnehmer direkt miteinander kommunizieren, ohne auf die Netzinfrastruktur selbst zugreifen zu m&uuml;ssen.";
+t[3].frage = "Welche Aussage trifft f&uuml;r die Rufart „Einzelruf“ in der Betriebsart „Netzbetrieb“ (TMO - Trunked Mode Operation) zu?";
+t[3].a = "Der Einzelruf ist in der Betriebsart „Netzbetrieb“ (TMO) nur mit Handfunkger&auml;ten m&ouml;glich.";
+t[3].b = "Der Einzelruf entspricht dem Linienverkehr im Analogfunk. Alle Teilnehmer h&ouml;ren das laufende Funkgespr&auml;ch mit, d&uuml;rfen jedoch nicht an der Kommunikation teilnehmen.";
+t[3].c = "Unter dem Einzelruf wird eine Punkt-zu-Punkt-Verbindung zwischen zwei Teilnehmern verstanden.";
+t[4].frage = "Wer ist f&uuml;r das Endger&auml;te-Management, die Anwenderbetreuung und f&uuml;r den prozessorientierten Service in seinem Zust&auml;ndigkeitsbereich f&uuml;r den Digitalfunk in Hessen verantwortlich?";
+t[4].a = "die Landeskoordinierungsstelle Digitalfunk (LKD)";
+t[4].b = "der Servicepoint";
+t[4].c = "die Landesbetriebsstelle Digitalfunk (LBD)";
+t[5].frage = "Kann beim Einsatz tragbarer Sprechfunkanlagen (z. B. FuG 11b) in Stahlbetonkonstruktionen oder Tunnelanlagen die Ausbreitung der elektromagnetischen Wellen behindert werden?";
+t[5].a = "ja, erheblich";
+t[5].b = "ja, jedoch nur unma&szlig;geblich";
+t[5].c = "nein, in keinem Fall";
+t[6].frage = "Welche Nachrichten werden im Funknetz der nichtpolizeilichen BOS in Hessen mit den Worten “Achtung, Achtung“ eingeleitet?";
+t[6].a = "Nachrichten mit dem Vermerk „Blitz“";
+t[6].b = "Nachrichten mit dem Vermerk „Sofort“";
+t[6].c = "Alarmnachrichten";
+t[7].frage = "Buchstabieren Sie das Wort „FALSCH“ nach der „Buchstabiertafel Inland“. Ich buchstabiere:";
+t[7].a = "Foxtrott, Alpha, Lima, Sierra, Charlie, Hotel";
+t[7].b = "Friedrich, Anton, Ludwig, Schule";
+t[7].c = "Friedrich, Anna, Leopold, Schule";
+t[8].frage = "Welche Einrichtung ist der funkbetriebliche Mittelpunkt eines Funkverkehrskreises?";
+t[8].a = "die gro&szlig;e Relaisfunkstelle";
+t[8].b = "die Zentrale Leitstelle";
+t[8].c = "das Regierungspr&auml;sidium";
+t[9].frage = "Unter welchen Bedingungen d&uuml;rfen nichtpolizeiliche BOS in Hessen Funkbetriebs&uuml;bungen im 4-m-Wellenbereich durchf&uuml;hren?";
+t[9].a = "auf Anordnung des n&auml;chsten Vorgesetzten und nur auf einem &Uuml;bungskanal, Bandlage und Verkehrsart beliebig";
+t[9].b = "nur auf dem Betriebskanal, Bandlage „U“, Verkehrsart „W“";
+t[9].c = "nur im Rahmen einer funkbetrieblichen Weisung der zust&auml;ndigen Betriebsleitung";
+t[10].frage = "Wer ist f&uuml;r das Endger&auml;te-Management, die Anwenderbetreuung und f&uuml;r den prozessorientierten Service in seinem Zust&auml;ndigkeitsbereich f&uuml;r den Digitalfunk in Hessen verantwortlich?";
+t[10].a = "Die Landeskoordinierungsstelle Digitalfunk (LKD)";
+t[10].b = "Die Landesbetriebsstelle Digitalfunk (LBD)";
+t[10].c = "Servicepoint";
+t[11].frage = "Welche Aussage ist zu dem Funkrufnamen „Florian M&uuml;cke 7-47-14“ zutreffend?";
+t[11].a = "Es handelt sich um das 14te TSF-W der Gemeinde M&uuml;cke.";
+t[11].b = "Es handelt sich um das vierte Handsprechfunkger&auml;t des Florian M&uuml;cke 7-47-1. ";
+t[11].c = "Dieser Funkrufname entspricht nicht dem Sonderschutzplan „AB 2 Plan 2 Funkrufnamenkatalog 2011“ und ist daher ung&uuml;ltig.";
+t[12].frage = "An einer Einsatzstelle der Feuerwehr wird im Sprechfunkbetrieb zu der prim&auml;r genutzten Gruppe eine zweite Gruppe im netzunabh&auml;ngigen Betrieb (DMO) ben&ouml;tigt. Welche Gruppe darf verwendet werden?";
+t[12].a = "Es kann unverz&uuml;glich die Gruppe 302F geschaltet werden. Das Umschalten befiehlt die Betriebsleitung, in diesen Fall der Einsatzleiter.";
+t[12].b = "Es muss eine Gruppe &uuml;ber die zust&auml;ndige zentrale Leitstelle bei der Landesbetriebsstelle Digitalfunk (LBD) beantragt werden. Erst nach Best&auml;tigung durch die LBD darf die neue Gruppe genutzt werden.";
+t[12].c = "Es kann als zweite Gruppe aus dem Gruppen-Ordner „Feuerwehr“ jede Gruppe (301F, 302F, 303F, 304F, 305F, 306F+) beliebig gew&auml;hlt und ohne weitere Befehle verwendet werden.";
+}
+
+</SCRIPT>
+
+</HEAD>
+<BODY onLoad = 'parent.Index.AllesBereit();'>
+&nbsp;
+</BODY>
+</HTML>

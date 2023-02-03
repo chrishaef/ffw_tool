@@ -1,0 +1,313 @@
+// Löschgeräte Schläuche Armaturen.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:48 Uhr
+
+1. In welche Richtung legt nach der FwDV 1 „Grundtätigkeiten“ ein Trupp seine Schlauchleitung, wenn er sie selbst verlegt?
+x vom Verteiler in Richtung Einsatzstelle
+  Die Verlegerichtung wird vom Truppführer festgelegt.
+  von der Einsatzstelle zum Verteiler
+
+2. Bis zu welchem Obergeschoss dürfen leere C-Druckschläuche nach der FwDV 1 „Grundtätigkeiten“ über tragbare Leitern vorgenommen werden?
+x bis zum 1. OG
+  bis zum 2. OG
+  bis zum 3. OG
+
+3. Welche Durchflussmenge stellt der Truppmann nach der FwDV 1 „Grundtätigkeiten“ bei der Vornahme eines Hohlstrahlrohres ein, wenn der Trupp ein Hohlstrahlrohr mit veränderbarer Durchflussmenge zur Brandbekämpfung einsetzt?
+  100 l/min
+  200 l/min
+x die befohlene Durchflussmenge
+
+4. Welche Leine ist bei der Vornahme von Saugschläuchen grundsätzlich immer anzubringen?
+x die Ventilleine
+  die Ventilleine und die Halteleine
+  die Halteleine
+
+5. Wie viel m3 Schaum können mit einem Zumischer mit der Bezeichnung „Z 2 R“ und einem Schwerschaumstrahlrohr „S 2“ (Verschäumungszahl 15) in 5 Minuten hergestellt werden?
+x ca. 15 m3
+  ca. 18 m3
+  ca. 20 m3
+
+6. Welche Längen haben genormte B 75-Druckschläuche?
+  5 m, 10 m, 15 m
+  5 m, 15 m, 20 m
+x 5 m, 20 m, 35 m
+
+7. Für welches Gerät zur Schaumerzeugung wird die Verschäumungszahl angegeben?
+  für den Zumischer
+x für das Schaumstrahlrohr
+  für den D-Ansaugschlauch für Löschmittelzusätze
+
+8. Wie viel Liter Wasser fließen durch ein „BM-Strahlrohr“ ohne Mundstück in einer Minute bei einem Strahlrohrdruck von 5 bar (Faustwert)?
+  ca. 160 l
+  ca. 400 l
+x ca. 800 l
+
+9. Wozu wird vorzugsweise die Wasserstrahlpumpe eingesetzt?
+  Sie wird zur Lieferung von Treibwasser über lange Wege eingesetzt.
+x Sie wird zur Entleerung von Kellern, Schächten, Gruben und ähnlichem eingesetzt.
+  Sie wird vornehmlich zur Förderung von flüssigen Gefahrstoffen eingesetzt.
+
+10. Wer ist beim Einsatz einer C-Druckschlauchleitung für eine ausreichende Schlauchreserve verantwortlich?
+  der Truppmann des mit dem Rohr vorgehenden Trupps
+x der Truppführer des mit dem Rohr vorgehenden Trupps
+  der Einheitsführer
+
+11. Welche Innendurchmesser haben die in Deutschland vornehmlich verwendeten Druckschläuche?
+  110 mm, 72 mm, 48 mm, 28 mm
+x 110 mm, 75 mm, 52 mm, 42 mm, 25 mm
+  110 mm, 75 mm, 54 mm, 45 mm, 25 mm
+
+12. Welchen Innendurchmesser haben die in Deutschland vornehmlich verwendeten A-Druckschläuche?
+  Sie haben einen Innendurchmesser von 120 mm.
+x Sie haben einen Innendurchmesser von 110 mm.
+  Sie haben einen Innendurchmesser von 100 mm.
+
+13. Welche Längen haben D 25-Druckschläuche?
+  5 m und 10 m
+x 5 m und 15 m
+  10 m und 15 m
+
+14. Welchen Innendurchmesser haben die in Deutschland vornehmlich verwendeten B-Druckschläuche?
+  70 mm
+x 75 mm
+  80 mm
+
+15. Welche Länge hat ein genormter C 52-Druckschlauch?
+  15 m oder 30 m
+x 15 m oder 20 m
+  15 m oder 35 m
+
+16. Welchen Innendurchmesser haben B-Druck- und B-Saugschläuche?
+  52 mm
+  110 mm
+x 75 mm
+
+17. Welche Innendurchmesser haben C-Druckschläuche?
+  28 mm, 32 mm
+  25 mm, 32 mm
+x 42 mm, 52 mm
+
+18. Welche Längen haben eingebundene genormte Saugschläuche?
+  1,50 m und 2,00 m
+  1,70 m und 2,50 m
+x 1,60 m und 2,50 m
+
+19. Welche Längen haben genormte C 42-Druckschläuche?
+  15 m und 30 m
+x 15 m und 20 m
+  10 m und 15 m
+
+20. Welchem Zweck dient die innere Drahtspirale im Saugschlauch?
+x Sie dient der Erhaltung der Formstabilität bei Unterdruck.
+  Sie dient der Verringerung des Reibungswiderstandes.
+  Sie dient der Schonung der Innengummierung.
+
+21. Welchen Innendurchmesser haben genormte A-Saugschläuche?
+  75 mm
+  100 mm
+x 110 mm
+
+22. Wie sind die an der Brandstelle verwendeten Druckschläuche nach dem Einsatz zu behandeln?
+  Im Hinblick auf die zur Schlauchherstellung überwiegend verwendeten Chemiefasern ist eine besondere Behandlung nicht erforderlich.
+x Die Druckschläuche sind nach dem Einsatz zu reinigen, zu prüfen und zu trocknen.
+  Die Schlauchlagerung auf den modernen Löschfahrzeugen erlaubt nach grober Reinigung eine sofortige Wiederverwendung.
+
+23. Warum ist im Innern eines Saugschlauches eine Drahtspirale (Wendel) eingearbeitet?
+  damit der Schlauch bei hoher Druckbeanspruchung nicht auseinander platzt
+  damit der Schlauch beständig bleibt gegen aggressive Flüssigkeiten
+x damit ein Zusammendrücken des Schlauches beim Saugvorgang (Unterdruck) verhindert wird
+
+24. Wie viel Liter Wasser liefern überschlagsmäßig ein „BM-Strahlrohr“ und ein „CM-Strahlrohr“ (beide ohne Mundstück) in 6 Minuten bei einem Strahlrohrdruck von 5 bar?
+  ca. 3.800 l
+  ca. 5.800 l
+x ca. 6.000 l
+
+25. Welche nachfolgende wasserführende Armatur wird bei der Wasserentnahme aus einem Hydranten am Sauganschluss der Feuerlöschkreiselpumpe angekuppelt?
+x das Sammelstück A-2B oder A-3B
+  das Übergangsstück A/B
+  das Druckbegrenzungsventil
+
+26. Was sind wasserführende Armaturen?
+  Wasserführende Armaturen sind die Überdruck- und Unterdruckmanometer an der TS.
+x Wasserführende Armaturen sind Ausrüstungsteile, die von Löschwasser durchflossen werden.
+  Wasserführende Armaturen sind alle starren Bestandteile der Feuerwehrausrüstung.
+
+27. Welche Strahlrohrkombination liefert überschlagsmäßig ca. 600 l/min bei 5 bar Strahlrohrdruck?
+  ein „BM-Strahlrohr“ ohne Mundstück und ein „CM-Strahlrohr“ mit Mundstück
+x zwei „CM-Strahlrohre“ mit Mundstück und ein „BM-Strahlrohr“ mit Mundstück
+  vier „DM-Strahlrohre“ ohne, ein „BM-Strahlrohr“ mit und ein „CM-Strahlrohr“ mit Mundstück
+
+28. Wie viel Liter Wasser liefert überschlagsmäßig ein „DM-Strahlrohr“ mit Mundstück bei einem Strahlrohrdruck von 5 bar in 6 Minuten?
+x ca. 150 Liter
+  ca. 25 Liter
+  ca. 50 Liter
+
+29. Was ist ein „DM-Strahlrohr“?
+x ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer Festkupplung D
+  ein D-Strahlrohr mit Mannschutzbrause
+  ein druckverstellbares Mittelschaumstrahlrohr
+
+30. Wo wird das Sammelstück in der Regel verwendet?
+x an der Feuerlöschkreiselpumpe
+  am Standrohr
+  am Überflurhydranten
+
+31. Welche Aufgabe hat der Stützkrümmer?
+  Der Stützkrümmer reguliert den Einlaufdruck an der Pumpe.
+x Er dient zur Ableitung der Rückkraft beim „BM-Strahlrohr“ oder „Hohlstrahlrohr“.
+  Er dient zur Erhöhung des Wasserdruckes beim Einsatz eines „BM-Strahlrohres“.
+
+32. Welche wasserführende Armatur ermöglicht den Einsatz eines „BM-Strahlrohres“ mit nur zwei Feuerwehrangehörigen?
+x der Stützkrümmer
+  der Einlaufbogen
+  das Druckbegrenzungsventil
+
+33. Welche Aufgabe hat das Sammelstück (DIN 14355:2007-12-A4B)?
+x Das Sammelstück hat die Aufgabe, die Löschmittelströme mehrerer Zuleitungen zusammenzufassen.
+  Das Sammelstück hat die Aufgabe, Pumpe und Schläuche vor Druckstößen zu schützen.
+  Das Sammelstück hat die Aufgabe, Löschmittelströme zu verteilen.
+
+34. Welche Aufgabe hat die Rückschlagklappe im Sammelstück A-2B?
+  Sie dient zur Ableitung des Überdrucks am Eingangsstutzen der Pumpe.
+  Sie reguliert den Eingangsdruck an der Pumpe.
+x Sie verschließt automatisch den zweiten Zugang beim Anschluss von nur einer Schlauchleitung.
+
+35. Welche Abgänge hat ein genormtes Standrohr?
+  zwei A-Abgänge
+x zwei B-Abgänge
+  zwei C-Abgänge
+
+36. Was bedeutet die Kurzbezeichnung „Z 2 R“ für einen Zumischer?
+x Zumischer für 200 l/min Wasser-Schaummittel-Durchfluss mit Zumisch-Regelung
+  Zumischer für 200 l/min Wasser-Schaummittel-Durchfluss mit Reibungsverlust-Anzeiger
+  Zumischer für 200 l/min Wasser-Schaummittel-Durchfluss mit regelbarem Absperrventil
+
+37. Welche Einstellungen für den Schaummittelzusatz sind an einem genormten Zumischer (Z x R) vorgesehen?
+  Einstellungen zwischen 0,5 % und 7 %
+  Einstellungen zwischen 2 % und 8 %
+x Einstellungen zwischen 0 % und 6 %
+
+38. Welche Kupplungsarten befinden sich an einem Sammelstück A-2B?
+x zwei B-Festkupplungen und ein drehbares Knaggenteil A mit Druck- und Saugdichtung
+  zwei einteilige C-Festkupplungen und eine zweiteilige A-Festkupplung
+  zwei bewegliche A-Festkupplungen und eine unbewegliche B-Festkupplung
+
+39. Wovon ist die Löschwirksamkeit eines Löschmittelstrahls abhängig?
+  von den sicherheitstechnischen Kennzahlen des brennbaren Stoffes
+  von der Art der brennbaren Stoffe und der zu verwendenden Löschmethoden
+x von der Strahlart, Druckhöhe am Strahlrohreingang und dem Querschnitt am Strahlrohrausgang
+
+40. Welche Festkupplungen haben genormte Zumischer am Ein- und Ausgang?
+x zwei C-Festkupplungen oder zwei B-Festkupplungen
+  zwei C-Festkupplungen oder zwei D-Festkupplungen
+  zwei A-Festkupplungen oder zwei B-Festkupplungen
+
+41. Welche Mundstück- und Düsenweite hat ein „DM-Strahlrohr“?
+  3 und 7 mm
+x 4 und 6 mm
+  3 und 8 mm
+
+42. Was ist ein „CM-Strahlrohr“?
+x ein Strahlrohr mit Vollstrahl und/oder einem unveränderlichen Sprühstrahlwinkel mit einer Festkupplung C
+  ein C-Strahlrohr mit Mannschutzbrause
+  ein druckverstellbares Mittelschaumstrahlrohr
+
+43. Aus welchen zwei Hauptteilen besteht das genormte Standrohr?
+  aus einem Rohrstück und dem Ventilkopfstück
+x aus dem Standrohrunterteil und dem Standrohroberteil
+  aus dem Standrohrfuß und dem drehbaren Aufsatzstück
+
+44. In welcher Ausführung gibt es genormte Standrohre?
+x Standrohre mit B-Abgängen
+  Standrohre mit C-Abgängen
+  Standrohre mit B- und C-Abgängen
+
+45. Wozu dient das Sammelstück A-2B?
+x Es fasst die Löschmittelströme zweier Zuleitungen zusammen.
+  Es schützt die Pumpe und Schläuche vor Druckstößen.
+  Es dient als dritter Abgang an der Pumpe.
+
+46. Wozu dient das Sammelstück A-3B?
+x Es fasst die Löschmittelströme dreier Zuleitungen zusammen.
+  Es schützt die Pumpe und Schläuche vor Druckstößen.
+  Es dient als dritter Abgang an der Pumpe.
+
+47. Welche Durchmesser hat das Übergangsstück A-B?
+x 110 mm und 75 mm
+  78 mm und 52 mm
+  52 mm und 25 mm
+
+48. Worauf ist bei der Bedienung eines Verteilers mit Kugelhähnen besonders zu achten?
+  Alle Hähne sind nach dem Gebrauch zu fetten.
+x Die Hähne dürfen nicht schlagartig geöffnet bzw. geschlossen werden.
+  Die Hähne sind beim Einsatz eines Schaumstrahlrohres nur halb zu öffnen.
+
+49. Welche Hauptaufgabe hat das Rückschlagorgan im Saugkorb?
+x Es soll ein Zurücklaufen der Wassersäule in der Saugleitung bei Unterbrechung der Wasserförderung verhindern.
+  Es soll den Zutritt von Luft verhindern.
+  Es soll die Entstehung von Reibungswärme im Saugschlauch vermeiden.
+
+50. Zu welchem Zweck werden Übergangsstücke benötigt?
+  Übergangsstücke werden zum Einkuppeln eines Zumischers in eine B-Druckleitung benötigt.
+  Übergangsstücke werden zum Anschluss eines B-Druckschlauches an einen Überflurhydranten benötigt.
+x Übergangsstücke werden zum Verbinden von Kupplungen verschiedener Nennweiten benötigt.
+
+51. Welche Wasserlieferung hat ein „BM-Strahlrohr“ ohne Mundstück in 5 Minuten bei einem Strahlrohrdruck von 5 bar?
+  ca. 400 Liter
+x ca. 4000 Liter
+  ca. 2000 Liter
+
+52. Welche Mundstücks- und Düsenweite hat ein „BM-Strahlrohr“?
+x 16 mm und 22 mm
+  18 mm und 22 mm
+  14 mm und 16 mm
+
+53. Welches Strahlrohr liefert bei 5 bar Strahlrohrdruck in 10 Minuten ca. 500 l Wasser?
+  ein „CM-Strahlrohr“ mit Mundstück
+x ein „DM-Strahlrohr“ ohne Mundstück
+  ein „DM-Strahlrohr“ mit Mundstück
+
+54. Kann nach erfolgter Vornahme eines Schaumstrahlrohres M 2 die Verschäumungszahl verändert werden?
+  ja, am Einstellventil (Handrad) des Zumischers
+  Ja, wenn man ein leichteres Schaummittel einsetzt.
+x Nein, bedingt durch den konstruktiven Aufbau des Schaumstrahlrohres M 2 ist es nicht möglich.
+
+55. Welche Durchmesser hat das B-C-Übergangsstück?
+  110 mm und 75 mm
+x 75 mm und 52 mm
+  52 mm und 25 mm
+
+56. Welche Mundstücks- und Düsenweite hat ein „CM-Strahlrohr“?
+  7 mm und 12 mm
+  8 mm und 12 mm
+x 9 mm und 12 mm
+
+57. Sie setzen ein Standrohr auf einen Unterflurhydranten. Nachdem Sie den Unterflurhydranten aufgedreht haben, spritzt Wasser aus dem Standrohrsitz! Was kann der Grund für diese undichte Stelle sein?
+  Die metallische Dichtfläche am Standrohr ist beschädigt.
+x Der Gummidichtring am Standrohrfuß fehlt oder ist beschädigt.
+  Der Hydrant wurde bis zum Anschlag aufgedreht.
+
+58. <IMG SRC='verteiler.gif' WIDTH=100 Height=95 ALIGN=RIGHT alt=''>Welcher Abgang ist für das 1. Rohr vorgesehen?
+  der Abgang A
+  der Abgang B
+x der Abgang C
+
+59. Welche Schaltvorgänge sind mit dem Schaltorgan eines „DM-Strahlrohres“ möglich?
+  Absperren, Sprühstrahl und Mannschutzbrause
+x Vollstrahl, Absperrung und Sprühstrahl
+  nur Absperrung und Vollstrahl
+
+60. Ein Hohlstrahlrohr der Funktionskategorie 1 verändert bei der Strahlformänderung die ...
+  ... Wasserdichte.
+x ... Durchflussmenge.
+  Strahlleistung.
+
+61. Welche Bautypen von Verteilern kommen vornehmlich auf Löschfahrzeugen Typ TSF zum Einsatz?
+x BV oder BK
+  ZBV oder ZBK
+  CV oder CK
+
+62. Was ist ein Verteiler?
+  eine wasserführende Armatur, versehen mit einer Festkupplung, einem beweglichen Knaggenteil und einem oder mehreren Absperrorganen
+x eine wasserführende Armatur, versehen mit Festkupplungen mit einem oder zwei Eingängen und drei einzeln absperrbaren Abgängen
+  eine wasserführende Armatur, versehen mit einem Eingang und drei absperrbaren Abgängen
+

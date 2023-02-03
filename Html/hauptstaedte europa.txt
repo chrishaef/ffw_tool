@@ -1,0 +1,337 @@
+// Hauptstädte Europa.txt
+// Dies ist ein Muster für einen Fragebogen
+// Eine genaue Beschreibung findest Du unter Hilfe ODER im Internet
+// unter http://www.alraft.de/altenhein/fragebogen/index.html
+
+1. Wie heißt die Hauptstadt des Vereinigten Königreichs?
+x London
+  Paris
+  Oxford
+  Boston
+  Dublin
+
+2. Wie heißt die Hauptstadt von Deutschland?
+  Bonn
+x Berlin
+  München
+  Frankfurt
+  Kassel
+  Köln
+
+3. Wie heißt die Hauptstadt von Polen?
+x Warschau
+  Danzig
+  Prag
+  Kiew
+  Budapest
+
+4. Wie heißt die Hauptstadt von Ungarn?
+  Warschau
+x Budapest
+  Wien
+  Bukarest
+  Sofia
+
+5. Wie heißt die Hauptstadt von Bulgarien?
+  Bukarest
+  Budapest
+  Warschau
+x Sofia
+  Tirana
+ 
+6. Wie heißt die Hauptstadt von Albanien?
+x Tirana
+  Sofia
+  Belgrad
+  Sarajevo
+  Athen
+
+7. Wie heißt die Hauptstadt von Frankreich?
+  London
+  Brüssel
+  Straßburg
+  Lion
+x Paris
+  Avranches
+
+8. Wie heißt die Hauptstadt von Luxemburg
+  Brüssel
+  Straßburg
+x Luxemburg
+  Lüttich
+  Amsterdam
+  Vaduz
+
+9. Wie heißt die Hauptstadt von Liechtenstein
+  Straßburg
+  Bern
+  Luxemburg
+x Vaduz
+  Monaco
+  Basel
+
+10. Wie heißt die Hauptstadt der Schweiz
+x Bern
+  Basel
+  Luzern
+  Vaduz
+  Monaco
+  Genf
+
+11. Wie heißt die Hauptstadt von Belgien
+  Antwerpen
+x Brüssel
+  Den Haag
+  Lüttich
+  Amsterdam
+  Rotterdam
+
+12. Wie heißt die Hauptstadt der Niederlande
+  Den Haag
+x Amsterdam
+  Rotterdam
+  Brüssel
+  Emden
+  Antwerpen
+
+13. Wie heißt die Hauptstadt von Spanien
+  Lissabon
+  Barcelona
+  Sevilla
+x Madrid
+  Bordeaux
+  Malaga
+
+14. Wie heißt die Hauptstadt von Portugal
+  Porto
+  Madrid
+  Malaga
+  Barcelona
+x Lissabon
+  Santa Cruz
+
+15. Wie heißt die Hauptstadt von Italien
+  Venedig
+  Mailand
+  Neapel
+  Lugano
+  Genua
+x Rom
+
+16. Wie heißt die Hauptstadt von Malta
+  Venedig
+  Vaduz
+  Lissabon
+  Leon
+x Valletta
+  Mosta
+
+17. Wie heißt die Hauptstadt von Österreich
+  Salzburg
+x Wien
+  Bozen
+  Innsbruck
+  Graz
+  Bern
+
+18. Wie heißt die Hauptstadt von Tchechien
+  Wien
+  Posen
+  Pilsen
+x Prag
+  Bratislava
+  Krakau
+
+19. Wie heißt die Hauptstadt der Slowakei
+  Ljubljana
+x Bratislava
+  Belgrad
+  Prag
+  Budapest
+  Belgrad
+
+20. Wie heißt die Hauptstadt von Kroatien
+x Zagreb
+  Sarajevo
+  Bratislava
+  Ljubljana
+  Budapest
+  Triest
+
+21. Wie heißt die Hauptstadt von Serbien
+  Sarajevo
+  Ljubljana
+  Budapest
+  Sofia
+  Bukarest
+x Belgrad
+
+22. Wie heißt die Hauptstadt von Moldavien
+  Kiev
+  Podgorica
+  Sarajevo
+  Wilna
+x Kischniau
+  Tiraspol
+
+23. Wie heißt die Hauptstadt von Griechenland
+  Nikossia
+x Athen
+  Sofia
+  Saloniki
+  Kreta
+  Piräus
+
+24. Wie heißt die Hauptstadt von Rumänien
+  Budapest
+x Bukarest
+  Sofia
+  Belgrad
+  Sarajevo
+  Temeswar
+
+25. Wie heißt die Hauptstadt der Ukraine
+  Moskau
+  Wilna
+  Reval
+x Kiew
+  Sofia
+  Odessa 
+
+26. Wie heißt die Haupstadt von Dänemark
+  Bern
+  Oslo
+  Stockholm
+  Helsinki
+  Bornholm
+x Kopenhagen
+
+27. Wie heißt die Hauptstadt von Schweden
+  Oslo
+  Helsinki
+  Reval
+x Stockholm
+  Bornholm
+  Kopenhagen
+
+28. Wie heißt die Hauptstadt von Norwegen
+x Oslo
+  Riga
+  Wilna
+  Helsinki
+  Kopenhagen
+  Bergen
+
+29. Wie heißt die Hauptstadt von Finnland
+  Reykjavik
+  Wilna
+x Helsinki
+  Kopenhagen
+  Danzig
+  Reval
+
+30. Wie heißt die Hauptstadt von Russland
+  Sankt Petersburg
+  Leningrad
+  Kiew
+  Warschau
+x Moskau
+  Stalingrad
+
+31. Wie heißt die Hauptstadt von Lettland
+x Riga
+  Reval
+  Wilna
+  Kaliningrad
+  Kiew
+  Sankt Petersburg
+
+
+32. Wie heißt die Hauptstadt von Litauen
+  Riga
+x Wilna
+  Kiew
+  Reval
+  Reykjavik
+  Warschau
+
+33. Wie heißt die Hauptstadt von Estland
+  Wilna
+  Kiew
+  Warschau
+  Dorpat
+x Reval
+  Helsinki
+
+34. Wie heißt die Hauptstadt von Irland
+  London
+  Belfast
+  Edinburgh
+x Dublin
+  Glasgow
+  Reykjavik
+  
+35. Wie heißt die Hauptstadt von Island
+x Reykjavik
+  Dublin
+  Glasgow
+  Bergen
+  Kópavogur
+  Wilna
+
+36. Wie heißt die Hauptstadt von Slowenien
+x Ljubljana
+  Bratislava
+  Podgorica
+  Prag
+  Budapest
+  Belgrad
+
+37. Wie heißt die Hauptstadt von Bosnien-Herzigowina
+  Ljubljana
+  Bratislava
+  Belgrad
+x Sarajevo
+  Budapest
+  Zagreb
+
+38. Wie heißt die Hauptstadt von Mazedonien
+  Ljubljana
+  Bratislava
+  Belgrad
+x Skopje
+  Tirana
+  Sarajevo
+
+39. Wie heißt die Hauptstadt von Weißrussland
+  Wilna
+x Minsk
+  Kiew
+  Warschau
+  Kischniau
+  Eriwan
+
+40. Wie heißt die Hauptstadt von Montenegro
+  Ljubljana
+  Bratislava
+x Podgorica
+  Sarajevo
+  Budapest
+  Zagreb
+
+41. Wie heißt die Hauptstadt von Zypern
+  Ljubljana
+  Bratislava
+  Skopie
+  Sarajevo
+x Nikosia
+  Saloniki
+
+42. Wo befindet sich der Regierungsitz der Niederlande
+x in Den Haag
+  in Amsterdam
+  in Rotterdam
+  in Brüssel
+  in Emden
+  in Antwerpen
+

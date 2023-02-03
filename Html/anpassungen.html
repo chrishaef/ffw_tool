@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n";
+      "http://www.w3.org/TR/html4/loose.dtd\">
+
+<HTML>
+<HEAD>
+<title>Fragebogen-Programm</title>
+<meta http-equiv='content-type' content='text/html; charset=ISO-8859-1'>
+<link rel="stylesheet" type="text/css" href='ffw.css'>
+</head>
+
+<body>
+<div class='platz'><div class='zettel'>
+ <h4>Navigation</h4>
+ <div class='link'>
+  <a href='startseite.html'>Willkommen</a><br>
+  <a href='ausbildungsstand.html'>Ausbildungsstand</a><br>
+  <a href='einstellungen.html'>Einstellungen</a><br>
+  <a href='benutzer.html'>Benutzer</a><br>
+  <a href='menues.html'>Men&uuml;s</a><br>
+  <a href='toolbar.html'>Toolbar</a><br>
+  <a href='sonstiges.html'>Sonstiges</a><br>
+  <br>
+  <a href='fragebogen_ausdruck.html'>Frageb&ouml;gen&nbsp;ausdrucken</a><br>
+  <a href='eigene_kapitel.html'>Eigene&nbsp;Kapitel&nbsp;erstellen</a><br>
+  <a href='anpassungen.html'>Programm&nbsp;anpassen</a>
+  </div>
+ </div>
+</div></div>
+
+<div class='links'><img src='tool_anpassungen.gif' width='64' height='64' alt='' /></div>
+<h1>Anpassungen</h1>
+
+<p>Ab der Version 0.39 Beta k&ouml;nnen einige Einstellungen angepasst werden.</p>
+<p>Achtung: ab Version 0.45 m&uuml;ssen sich alle Dateien incl. Bilder im Verzeichnis <b>Anpassung</b> befinden.</p>
+
+<h3>Die Datei anpassung.txt im Verzeichnis Anpassungen</h3>
+<p>Alle Anpassungen sind in der Datei <b class='hgGelb'>anpassung.txt</b> im Verzeichnis <b>Anpassungen</b> vorzunehmen. Die Datei beinhaltet Schl&uuml;ssel/Werte-Paare und ist eine reine Text-Datei. Sie sollte nur mit dem einfachen <b>Windows-Editor</b> bearbeitet werden!<p>
+<p>Auf ein Schl&uuml;sselwort folgt immer ein <b>:</b> (Doppelpunkt) und ein Leerzeichen und dann Wert/Name/Bild usw.</p>
+<p><b>Achtung:</b> Der Wert darf keinen weiteren Doppelpunkt enthalten</p>
+<p>Um ein Schl&uuml;ssel/Werte-Paar zu deaktivieren kannst Du eine # (Raute) an den Zeilenanfang setzten</p>
+<p>Die Datei anpassung.txt darf auch <b>Kommentare</b> enthalten. Diese m&uuml;ssen mit // (2 Schr&auml;gstrichen) am Zeilenanfang beginnen</p>
+
+<p>Zur Zeit sind folgende Anpassungen m&ouml;glich:</p>
+
+<h3>Startbild</h3>
+<p><img src='alraft.jpg' class='rechts rand' alt='Trafoh&auml;uschen in Waldeck/Alraft'>Bisher wird beim Programmstart das Bild vom Trafoh&auml;uschen in Alraft gezeigt (siehe rechts). Dieses Bild kann jetzt gegen eigene Bilder ausgetauscht werden.<p>
+<p>Das Bild sollte eine Breite von <b>200 bis 400 Pixel</b> haben. Die Bildh&ouml;he sollte zwischen <b>150 und 300 Pixeln</b> liegen. Alles was kleiner ist wird auf die Mindesma&szlig;e hochgerechnet, alles was gr&ouml;&szlig;er ist wird heruntergerechnet.</p>
+<p>Das Schl&uuml;sselwort ist StartBild dahinter folgt der Dateiname. Also zum Beispiel <tt>StartBild: logo-jfw.jpg</tt></p>
+<p>Das Bild selber muss sich in dem Ordner <b>Anpassung</b> befinden<p>
+
+<h3>Fenster-Titel</h3>
+<p>Standardm&auml;&szlig;ig steht oben im Programm-Fenster Fragebogen. Hier kannst Du Deine eigene &Uuml;berschrift einsetzen wenn Du in der Datei anpassung.txt unter dem Schl&uuml;ssel <tt>FensterTitel</tt> eine beliebige Fenster-&Uuml;berschrift eingibst. Beispiel <tt>FensterTitel: Fragebogen Jugendfeuerwehr</tt><p>
+
+<h3>Unterschrift unter der Urkunde</h3>
+<p>Urkunden wurden bisher von mir pers&ouml;nlich 'unterschrieben'. Das muss nicht mehr sein denn Urkunden werden jetzt pers&ouml;nlich von Alfred Nobel aus Stockholm unterzeichnet<p>
+<p>In der Datei sieht das dann wie folgt aus: 
+<pre><tt>
+   UrkundeName: Alfred Nobel
+   UrkundeOrt: Stockholm
+</tt></pre></p>
+   
+<h2>Eine eigene LiesMich-Datei</h2>
+<p>Mit dem Schl&uuml;sselwort LiesMich ist die Einrichtung einen eigenen Liesmich-Datei m&ouml;glich.<p>
+<p>Diese Datei wird dann unter dem Men&uuml;punkt LiesMich angezeigt</p>
+
+<h3>Aufbau der LiesMich-Datei</h3>
+<p>Die LiesMich-Datei ist wieder eine reine Text-Datei OHNE jegliche Formatierung. Diese Datei muss sich ebenfalls im Ordner Anpassung befinden.<p>
+<p>Die Formatierung nimmt das Programm vor und zwar bedeutet:
+<ul>
+<li>Eine Zeile die mit zwei // (Schr&auml;gstrichen) beginnt ist ein Kommentar und wird nicht angezeigt</li>
+<li>Eine Zeile die mit einem : (Doppelpunkt) beginnt wird zu einer &uuml;berschrift 1</li>
+<li>Eine Zeile die mit einem % (Prozentzeichen) beginnt wird zu einer &uuml;berschrift 2</li>
+<li>Eine Zeile die mit einem ! (Ausrufezeichen) beginnt wird zu einer &uuml;berschrift 3</li>
+<li>Alle anderen Zeilen werden zu einem normalen Text-Absatz</li>
+<li>Bilder k&ouml;nnen auch hier wieder mit <tt>&lt;beispielbild.jpg&gt;</tt> eingef&uuml;gt werden und m&uuml;ssen sich im Verzeichnis </b>Anpassung</b> befinden. Standardm&auml;&szlig;ig werden die Bildern rechts angezeigt. Mit der Angabe <tt>&lt;beispielbild.jpg links&gt;</tt> wird das Bild links angeordnet. Zus&auml;tzlich ist es m&ouml;glich, die Bilder mit einem Rand zu versehen dazu ist das Wort <tt>rand</tt> als letztes einzugeben. Als Beispiel <tt>&lt;beispielbild.jpg rand&gt;</tt> wird rechts mit Rand dargestellt und <tt>&lt;beispielbild.jpg links rand&gt;</tt> wird links mit Rand dargestellt</li> 
+</ul>
+</p>
+
+<h3>Der Men&uuml;-Punkt LiesMich</h3>
+<p>Mit dem Schl&uuml;ssel LiesMichMen&uuml; l&auml;sst sich sogar der Men&uuml;punkt pers&ouml;nlich anpassen. Als Beispiel <tt>LiesMichMen&uuml;: Info</tt>
+
+<h3>Eine Beispiel-Datei</h3>
+<p>Hier siehst Du eine kommentierte <a href="anpassung_beispiel.txt">Beispiel-Datei f&uuml;r Anpassungen</a> und eine Beispiel-Datei für den <a href='liesmich_beispiel.txt'>eigenen Menüpunkt LiesMich</a>.</p>
+
+<p>Stand: 2. Nov. 2012</p>
+</body>
+</html>

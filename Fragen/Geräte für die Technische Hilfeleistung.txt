@@ -1,0 +1,73 @@
+// Geräte für die Technische Hilfeleistung.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:17 Uhr
+
+1. Dürfen nach FwDV 1 „Grundtätigkeiten“ gehärtete Metallteile mit hydraulisch betriebenen Schneidgeräten getrennt werden?
+  ja
+x nein
+  Das entscheidet der Truppführer von Fall zu Fall.
+
+2. Welcher Sicherheitsabstand ist grundsätzlich bei unter Last stehenden Drahtseilen mindestens einzuhalten?
+  die halbe Seillänge
+x das 1,5-fache der wirksamen Seillänge
+  die doppelte Seillänge
+
+3. Beim Einsatz eines Mehrzweckzuges ist die Überlastsicherung (Scherstift) wirksam geworden! Welche Maßnahmen sind erforderlich?
+  Der Scherstift wird gegen einen größeren ausgetauscht.
+x Die Last muss abgesichert oder abgelassen werden.
+  Es kann weitergearbeitet werden, denn vom Hersteller sind genügend Sicherheitsreserven eingebaut worden.
+
+4. Bis zu welchem Winkel darf die hydraulische Winde bei der Verwendung der balligrunden Fußplatte höchstens genutzt werden?
+x bis zu einem Winkel von 75° zur Ebene der Fußplatte
+  bis zu einem Winkel von 65° zur Ebene der Fußplatte
+  bis zu einem Winkel von 55° zur Ebene der Fußplatte
+
+5. Welchem Zweck dienen hydraulische Winden, die auf Feuerwehrfahrzeugen mitgeführt werden?
+x zum Heben oder Drücken bei der technischen Hilfeleistung
+  zum Wechseln eines defekten Reifens
+  zum Abstützen der Feuerwehrfahrzeuge in unwegsamem Gelände
+
+6. Wie hoch ist der zulässige Betriebsdruck von hydraulischen Rettungsgeräten nach DIN EN 13204 (doppelt wirkende hydraulische Rettungsgeräte)?
+  mindestens 630 bar
+x Der maximal zulässige Betriebsdruck ist nicht begrenzt.
+  maximal 720 bar
+
+7. Welche Kraft entwickelt der einfach wirkende Hydraulikzylinder des hydraulischen Hebesatzes nach DIN 14800-6 2007-05?
+x mindestens 120 kN
+  maximal 150 kN
+  nach Herstellerangaben
+
+8. Welche Aussage über Druckluftquellen bei Hebekissensystemen > 1 bar ist richtig?
+  Es dürfen nur mitgeführte Druckluftflaschen verwendet werden.
+x Es können mitgeführte Druckluftflaschen, ortsfeste Druckluftnetze oder LKW-Bremsanlagen genutzt werden.
+  Atemluftflaschen sind unzulässig.
+
+9. Wer darf Werkzeuge/Zubehör aus dem Feuerwehr-Elektrowerkzeugkasten einsetzen?
+  nur der Einheitsführer
+  nur der Truppführer des befohlenen Trupps
+x nur Elektro-Fachpersonal
+
+10. Welchem Einsatzzweck dienen Bindemittel?
+  Sie dürfen ausschließlich nur bei ausgelaufenen Mineralölprodukten eingesetzt werden.
+x Sie dienen dem Zweck, gefährliche flüssige Stoffe abzustreuen und damit die Stoffe zu binden.
+  Bindemittel in flüssiger Form dienen beim Einsatz von Schaummitteln den besseren Mischungseigenschaften von dem Medium Wasser und dem Medium Schaummittel.
+
+11. Was ist beim Anheben einer Last bei einem Hebekissensystem > 1 bar zu beachten?
+  Die Hebekissen dürfen nur paarweise verwendet werden.
+x Es dürfen maximal zwei Hebekissen übereinander eingesetzt werden.
+  Ein Unterbauen ist aufgrund der geringen Hubhöhe nicht notwendig.
+
+12. Welche der nachfolgenden Aussagen trifft für einen Hebebaum zu?
+x Der Hebebaum dient zum Heben und Bewegen von Lasten bei geringer Hubhöhe.
+  Der Hebebaum dient zum Heben und Bewegen von Lasten bei großer Hubhöhe.
+  Der Hebebaum dient zum Heben und Bewegen von Lasten und arbeitet dabei immer nach dem Prinzip eines zweiarmigen Hebels.
+
+13. Flutlichtstrahler dienen der Feuerwehr zum großflächigen Ausleuchten von Einsatzstellen. Welche Aussage hierzu trifft nicht zu?
+  Flutlichtstrahler nicht in Bereichen mit explosiven Atmosphären einsetzen
+x Flutlichtstrahler können nach dem Einsatz sofort wieder auf dem Feuerwehrfahrzeug verlastet werden.
+  Die Anschlussleitungen der Flutlichtstrahler müssen immer komplett abgerollt werden.
+
+14. In welche Richtung werden die Erdnägel eines Erdankers eingeschlagen?
+  entgegen der Zugrichtung
+x in Zugrichtung
+  50 % der Anzahl der verwendeten Erdnägel in Zugrichtung, 50 % entgegen der Zugrichtung
+

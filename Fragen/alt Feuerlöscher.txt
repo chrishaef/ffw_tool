@@ -1,0 +1,149 @@
+// alt Feuerlöscher.txt
+// automatisch übersetzt am 18 Jun 2009 um 21:59:28 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. Welches Gewicht dürfen genormte tragbare Feuerlöscher maximal haben?
+  Sie dürfen ein Gesamtgewicht von 15_kg haben.
+x Sie dürfen ein Gesamtgewicht von 20_kg haben.
+  Sie dürfen ein Gesamtgewicht von 25_kg haben.
+
+2. Für welche Brände ist ein Pulverlöscher mit ABC-Löschpulver zugelassen?
+  nur für Brände von flüssigen oder flüssig werdenden Stoffen
+  nur für Brände von flüssigen oder flüssig werdenden und gasförmigen Stoffen
+x für Brände von festen, flüssigen oder flüssig werdenden und gasförmigen Stoffen
+
+3. Zu welchem Zweck sind tragbare Feuerlöscher vornehmlich geeignet?
+x Sie dienen zum Ablöschen von Entstehungsbränden.
+  Sie dienen zur Bekämpfung von umfangreichen Dachstuhlbränden.
+  Sie dienen zur Bekämpfung von Heizölbränden.
+
+4. Ab welcher Füllmenge müssen Feuerlöscher gemäß DIN_EN_3 einen Schlauch mit Düse oder Löschpistole haben?
+x bei mehr als 3 kg bzw. 3 l
+  bei mehr als 6 kg bzw. 6 l
+  bei mehr als 12 kg bzw. 12 l
+
+5. Welcher Feuerlöscher ist für Brände von festen Stoffen (Brandklasse A) geeignet?
+x Wasserlöscher sind für die Brandklasse_A_geeignet.
+  Kohlendioxidlöscher sind für die Brandklasse_A_geeignet.
+  Pulverlöscher mit BC-Pulver sind für die Brandklasse_A_geeignet.
+
+6. Bei einem Entstehungsbrand sind vorwiegend brennbare feste Stoffe in Brand geraten! Welcher der nachfolgend aufgeführten Feuerlöscher ist zur Brandbekämpfung am besten geeignet?
+x ein Wasserlöscher
+  ein Pulverlöscher mit BC-Löschpulver
+  ein Kohlendioxidlöscher
+
+7. Welchen Anforderungen müssen tragbare Feuerlöscher entsprechen?
+  Tragbare Feuerlöscher sind alle fünf Jahre auf ihre Funktionstüchtigkeit hin zu überprüfen.
+  Tragbare Feuerlöscher dürfen ein Einsatzgewicht von maximal 25_kg haben.
+x Bei tragbaren Feuerlöschern muss die vorgeschriebene Mindestlöschleistung gewährleistet und die Gewichtsgrenze von 20_kg darf nicht überschritten sein.
+
+8. Für welche Brandklasse eignet sich ein Wasserlöscher?
+x Brandklasse A
+  Brandklasse B
+  Brandklasse C
+
+9. Welche Füllmengen können tragbare Kohlendioxid-Löscher gemäß DIN_EN_3 haben?
+  2, 4 oder 6 kg
+  2, 6 oder 12 kg
+x 2 oder 5 kg
+
+10. Welcher Mindestabstand ist für Pulverlöscher mit D-Löschpulver und ABC-Löschpulver bei elektrischen Anlagen bis 1.000_Volt einzuhalten?
+x mindestens 1 Meter
+  mindestens 2 Meter
+  mindestens 3 Meter
+
+11. Müssen Feuerlöscher einen bestimmten Farbanstrich haben?
+  Nein, das ist nicht vorgeschrieben.
+  ja, rot oder cremefarben (für D-Löschpulver)
+x ja, nur rot
+
+12. Was beinhaltet die Beschriftung eines tragbaren Feuerlöschers?
+x das Wort "Feuerlöscher", die Brandklassenzuordnung, die Typenbezeichnung, Löschmittelart und Füllmenge, die Leistungsklasse, Gefahrenhinweise und sonstige Hinweise, Namen und Anschrift des Herstellers
+  nur die Funktionsbeschreibung
+  Funktionsbereich und Funktionsdauer
+
+13. In welchem Temperaturbereich muss ein Feuerlöscher mit Wasser oder wässriger Lösung ohne Frostschutzmittel gemäß DIN_EN_3 mindestens funktionssicher sein?
+  von    0 o C bis + 60 o C
+  von -20 o C bis + 60 o C
+x von + 5 o C bis + 60 o C
+
+14. Welche Warnhinweise muss ein Kohlendioxidlöscher tragen?
+  Vorsicht bei elektrischen Anlagen. Nur bis 1_000_V; Mindestabstand 3_m.
+x Vorsicht bei Verwendung in engen, schlecht belüfteten Räumen (gesundheitsschädliche Gase).
+  Vorsicht bei elektrischen Anlagen. Nur bis 1_000_V; Mindestabstand 5_m.
+
+15. Wie groß muss der Sicherheitsabstand gemäß Warnhinweis bei dem Einsatz eines Schaumlöschers in elektrischen Anlagen mit Niederspannung (bis 1_000_V) sein?
+  mindestens 1 m
+x mindestens 3 m
+  Schaumlöscher dürfen in elektrischen Anlagen nicht eingesetzt werden.
+
+16. Welche Treibmittel finden bei Feuerlöschern Anwendung?
+x nichtentflammbare Gase
+  Natriumbikarbonat und Kohlendioxid
+  Stickstoff und Sauerstoff
+
+17. Was ist gemäß DIN EN 3 ein Feuerlöscher?
+  Ein Löscher, der auf Dauerdruck beansprucht werden kann.
+x Ein Gerät, mit dem Löschmittel durch Innendruck ausgestoßen und auf einen Brandherd gerichtet werden kann.
+  Ein Löscher, bei dem Löschmittel dauernd unter Druck steht.
+
+18. Welche Löschmittel können genormte Feuerlöscher enthalten?
+  trockenen Sand
+  Graugussspäne
+x Löschpulver, Kohlendioxid, Wasser oder wässerige Lösungen
+
+19. Welche der nachstehend aufgeführten Stoffe finden bei tragbaren Pulverlöschern als Treibgase Verwendung?
+  Kohlendioxid und Methan
+x Kohlendioxid, Stickstoff und Druckluft
+  Kohlendioxid und Butan
+
+20. Ein Feuerlöscher enthält das Löschmittel Schaum. Für den Brand welches brennbaren Stoffes ist er geeignet?
+  Metall
+x Holz
+  Gas
+
+21. Welcher der nachfolgend aufgeführten Feuerlöscher eignet sich nicht zur Bekämpfung von Mineralölbränden?
+  ein Pulverlöscher
+x ein Wasserlöscher
+  ein Kohlendioxidlöscher
+
+22. Welcher Feuerlöscher eignet sich zur Bekämpfung von Leichtmetallbränden besonders?
+  Ein Feuerlöscher mit Kohlendioxid.
+  Ein Feuerlöscher mit Wasser oder wässriger Lösung.
+x Ein Feuerlöscher mit D-Löschpulver.
+
+23. Bei welchen Feuerlöschern muss die Löschmittelabgabe unterbrochen werden können?
+  Bei Feuerlöschern, deren Füllmenge größer als 3_kg oder 3_l ist.
+x bei jedem Feuerlöscher
+  Nur bei Feuerlöschern, die mit einem Schlauch und einer Löschpistole ausgestattet sind.
+
+24. In welcher Phase eines Brandes ist der Einsatz eines Feuerlöschers am wirkungsvollsten?
+x in der Entstehungsphase
+  in der Ausbreitungsphase
+  in der Wirkungsphase
+
+25. Was ist beim Einsatz eines Feuerlöschers zu beachten?
+  Das Löschen gegen den Wind versuchen und von der Seite her angreifen.
+x Kurze Pulverstöße abgeben, von unten nach oben und mit dem Wind löschen.
+  Feuer mit vollem Pulverstrahl von oben bekämpfen.
+
+26. Warum ist die Kübelspritze ein Kleinlöschgerät?
+  Weil sie rot gefärbt ist und eine DIN-Nummer hat.
+x Sie führt nur eine begrenzte Menge an Löschmittel mit.
+  Weil sie als kleines Gerät auf den Löschfahrzeugen mitgeführt wird.
+
+27. Wie sind Feuerlöscher bei Wind einzusetzen?
+  Gegen den Wind löschen.
+x In Windrichtung löschen.
+  Seitlich in Hüfthöhe angreifen.
+
+28. Wie werden die Brandklassen auf einem Feuerlöscher dargestellt?
+  durch unterschiedliche Farben
+  mit dem DIN-Zeichen
+x mit Bildzeichen (Piktogramme)
+
+29. Für welche Brandklasse ist ein Feuerlöscher geeignet, der Metallbrandpulver enthält?
+  für die Brandklassen A und B
+  für die Brandklassen B, C und D
+x für die Brandklasse D
+

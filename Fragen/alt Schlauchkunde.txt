@@ -1,0 +1,164 @@
+// alt Schlauchkunde.txt
+// automatisch übersetzt am 18 Jun 2009 um 22:00:40 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. Welche Innendurchmesser hat der Druckschlauch "S"?
+x 28 oder 32 mm
+  25 oder 29 mm
+  30 oder 32 mm
+
+2. Wann müssen B-Druckschläuche gemäß der Geräteprüfordnung GUV_67.13 geprüft werden?
+  nur alle 2 Jahre
+  nur nach einer Reparatur
+x bei jeder Schlauchwäsche
+
+3. Welche Innendurchmesser haben genormte Druckschläuche?
+  110 mm, 72 mm, 48 mm, 28 mm
+x 110 mm, 75 mm, 52 mm, 42 mm, 25 mm
+  110 mm, 75 mm, 54 mm, 45 mm, 25 mm
+
+4. Welche Farbe haben Schläuche, mit denen Öl oder ölhaltige Flüssigkeiten gefördert werden?
+  Die Schläuche sind rot.
+  Die Schläuche sind blau.
+x Die Schläuche sind schwarz.
+
+5. Welchen Innendurchmesser haben genormte A-Druckschläuche?
+  Sie haben einen Innendurchmesser von 120_mm.
+x Sie haben einen Innendurchmesser von 110_mm.
+  Sie haben einen Innendurchmesser von 100_mm.
+
+6. In welchen Längen sind B-Druckschläuche genormt?
+  5 m, 10 m, 15 m
+  5 m, 15 m, 20 m
+x 5 m, 20 m, 35 m
+
+7. Welche Längen haben gemäß DIN 14_811_genormte D-Druckschläuche?
+  5 m und 10 m
+x 5 m und 15 m
+  10 m und 15 m
+
+8. Welchen Innendurchmesser haben genormte B-Druckschläuche?
+  70 mm
+x 75 mm
+  80 mm
+
+9. Welche Länge hat ein genormter C_52-Druckschlauch?
+  15 m oder 30 m
+x nur 15 m
+  15 m oder 35 m
+
+10. Welchen Innendurchmesser haben genormte B-Druck- und B-Saugschläuche?
+  52 mm
+  110 mm
+x 75 mm
+
+11. Welche Innendurchmesser haben genormte C-Druckschläuche?
+  28 mm, 32 mm
+  25 mm, 32 mm
+x 42 mm, 52 mm
+
+12. Welche Längen haben A-Saugschläuche?
+  1,50 m und 2,00 m
+  1,70 m und 2,50 m
+x 1,60 m und 2,50 m
+
+13. Welche Längen haben genormte C 42-Druckschläuche?
+x 15 m und 30 m
+  15 m und 20 m
+  10 m und 15 m
+
+14. Wie hoch ist gemäß DIN 14 811 der Gebrauchsprüfdruck für B-Druckschläuche?
+  8 bar
+x 12 bar
+  14 bar
+
+15. Was sind Druckschläuche W gemäß DIN_14_818?
+  Es sind Spezialschläuche zur Förderung von Mineralölprodukten.
+x Es sind formbeständige Schläuche für Wandhydranten.
+  Es sind Schläuche für Kombinationen auf Wechsellader.
+
+16. Wie weit kann eine C-Schlauchleitung vom Verteiler aus verlegt werden, wenn alle C-Druckschläuche eines TSF-W (Standardbeladung nach Norm) aneinandergekuppelt sind?
+  150 m
+x 120 m
+  160 m
+
+17. Welche Längen haben Druckschläuche W_gemäß DIN_14_818?
+x 20 m, 30 m und 35 m
+  15 m, 20 m und 35 m
+  30 m, 35 m und 40 m
+
+18. Wie hoch ist der Gebrauchsprüfdruck beim Druckschlauch S?
+  20 bar
+x 14 - 16 bar
+  12 bar
+
+19. Welchen Zweck erfüllt die innere Drahtspirale im Saugschlauch?
+x Sie dient der Erhaltung der Formstabilität bei Unterdruck.
+  Sie dient der Verringerung des Reibungswiderstandes.
+  Sie dient der Schonung der Innengummierung.
+
+20. Welche Druckschläuche werden bei den Feuerwehren fast ausschließlich verwendet?
+  rohe Schläuche
+  ungummierte Schläuche
+x gummierte Schläuche
+
+21. Wie hoch ist der Gebrauchsprüfdruck beim Druckschlauch C-42?
+  8 bar
+x 12 bar
+  20 bar
+
+22. Wie hoch ist der Gebrauchsprüfdruck beim Druckschlauch C-52?
+  18 bar
+x 12 bar
+  8 bar
+
+23. Wie hoch ist der Prüfdruck für die Druckprüfung bei Saugschläuchen?
+  2 bar
+  1 bar
+x 6 bar
+
+24. Wie sind die an der Brandstelle verwendeten Druckschläuche nach dem Einsatz zu behandeln?
+  Im Hinblick auf die zur Schlauchherstellung überwiegend verwendeten Chemiefasern ist eine besondere Behandlung nicht erforderlich.
+x Druckschläuche sind nach dem Einsatz zu reinigen, zu prüfen und zu trocknen.
+  Die Schlauchlagerung auf den modernen Löschfahrzeugen erlaubt eine sofortige Wiederverwendung.
+
+25. In welchen regelmäßigen Zeitabständen ist bei Saugschläuchen eine Sicht-, Druck- und Saugprüfung durchzuführen?
+  mindestens alle zwei Jahre
+  nach jeder Schlauchwäsche
+x mindestens einmal jährlich
+
+26. In welchen regelmäßigen Zeitabständen ist gemäß GUV_67.13 bei Druckschläuchen "S" eine Sicht- und Druckprüfung durchzuführen?
+  mindestens alle zwei Jahre
+  nach jeder Schlauchwäsche
+x mindestens einmal jährlich
+
+27. Welche Prüfung ist bei gebrauchten Saugschläuchen durchzuführen?
+x eine Sicht-, Druck- und Saugprüfung
+  nur eine Sichtprüfung
+  nur eine Sicht- und Saugprüfung
+
+28. Was ist ein Druckschlauch "S"?
+  Es ist ein Säuredruckschlauch.
+  Es ist ein Sicherheitsdruckschlauch.
+x Es ist ein formbeständiger Schlauch für Schnellangriffseinrichtungen.
+
+29. Welchen Innendurchmesser haben genormte A-Saugschläuche?
+  75 mm
+  100 mm
+x 110 mm
+
+30. Wie wird die Dichtigkeit eines Druckschlauches erreicht?
+  Die Dichtigkeit wird durch eine besondere Webart erreicht.
+  Die Dichtigkeit wird durch die äußere Beschichtung erreicht.
+x Die Dichtigkeit wird durch die Innengummierung erreicht.
+
+31. Warum müssen Druckschläuche aus Chemiefasern gummiert sein?
+  Weil Druckschläuche mit Innengummierung sich besser rollen lassen.
+x Weil diese Fasern nicht quellfähig sind und somit sonst nicht dicht wären.
+  Damit von außen keine Luft eindringen kann.
+
+32. Wie lang ist die B-Schlauchleitung, wenn alle B-Druckschläuche eines LF_8/6 aneinander gekuppelt sind?
+  286 m
+x 245 m
+  320 m
+

@@ -1,0 +1,93 @@
+// Hygiene.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:18:28 Uhr
+
+1. Darf ein Atemschutzgeräteträger nach dem Einsatz unter Atemschutz an der Einsatzstelle etwas trinken?
+  Nein, an der Einsatzstelle ist das Trinken verboten.
+x Ja, in “sauberen Bereichen“ nachdem er sich die Hände und das Gesicht gewaschen und ggf. die Feuerschutzkleidung abgelegt hat.
+  Darüber entscheidet der Einsatzleiter.
+
+2. Welche Aussage über den Transport von verschmutzten Feuerwehrschläuchen ist zutreffend?
+  Für den Transport der Schläuche in das Feuerwehrhaus sind keine besonderen Maßnahmen erforderlich.
+  Der Transport muss im Mannschaftsraum des Feuerwehrfahrzeugs geschehen, damit die Geräteräume wieder schnell aufgerüstet werden können.
+x Der Transport sollte mit einem GW-Logistik oder im Geräteraum eines Feuerwehrfahrzeuges durchgeführt werden.
+
+3. Welche Hygienemaßnahme ist bei Einsätzen mit Verletzten zu beachten?
+x Beim Umgang mit Verletzten sind Infektionsschutzhandschuhe zu tragen.
+  Es ist ausreichend, sich nach dem Einsatz gründlich die Hände zu waschen.
+  Die Feuerwehrschutzhandschuhe stellen einen ausreichenden Schutz dar.
+
+4. Bei welchem Einsatz gelten die Regeln der Einsatzstellenhygiene?
+  nur bei Einsätzen im Zusammenhang mit ABC-Gefahrstoffen
+  nur bei Einsätzen, bei denen man mit Verletzten umgeht
+x bei allen Einsätzen
+
+5. Was soll unter anderem durch die „Schwarz-Weiß-Trennung“ erreicht werden?
+  Die Stellplätze für die Einsatzfahrzeuge sollen nicht für private PKW genutzt werden.
+x Die private Kleidung soll nicht mit der Einsatzkleidung in Berührung kommen.
+  Die Führungskräfte sollen eigene Umkleideräume erhalten.
+
+6. Welche der nachfolgenden Möglichkeiten stellt keine Kontaminationsverschleppung dar?
+  die Rückfahrt vom Löscheinsatz im privaten PKW
+x das Ablegen und Verpacken der Feuerschutzkleidung nach einem Atemschutzeinsatz
+  der Transport der gebrauchten Schläuche im Mannschaftsraum des Feuerwehrfahrzeugs nach einem Löscheinsatz
+
+7. Was bedeutet der Begriff „Kontamination“?
+x Kontamination ist eine Verschmutzung von Oberflächen.
+  Kontamination ist das Verschlucken von Gefahrstoffen.
+  Kontamination ist unsichtbare Strahlung.
+
+8. Was ist bei Beendigung eines Einsatzes zu beachten?
+  Um die Einsatzkosten gering zu halten, wird zügig abgebaut.
+x Beim Abbau sollen keine Verschmutzungen auf saubere Bereiche übertragen werden.
+  Verschmutzte Hände werden erst im Feuerwehrhaus mit warmem Wasser gereinigt.
+
+9. Wer ist für die Einhaltung der „Allgemeinen Einsatzstellenhygiene“ zuständig?
+  der jeweilige Gruppenführer
+x jede Einsatzkraft im eigenen Interesse für sich selbst
+  der Wehrführer
+
+10. Wer ist für die Einhaltung der „Allgemeinen Einsatzstellenhygiene“ verantwortlich?
+  der Gemeindebrandinspektor
+  der Wehrführer
+x jede einzelne Einsatzkraft für sich selbst
+
+11. Wie wird die Aufnahme von Schadstoffen in den menschlichen Körper bezeichnet?
+  als Kontamination
+  als Inkonzentration
+x als Inkorporation
+
+12. Was versteht man unter Dekontamination?
+x das Entfernen von äußeren Verunreinigungen
+  das Entfernen von in den Körper aufgenommenen Schadstoffen
+  das Entfernen von Störern an der Einsatzstelle
+
+13. Was versteht man unter der „Allgemeinen Einsatzstellenhygiene“?
+x Hygienemaßnahmen an jeder Einsatzstelle
+  nur die Hygienemaßnahmen bei Einsätzen mit B-Gefahrstoffen
+  nur die Hygienemaßnahmen bei Einsätzen mit ABC-Gefahrstoffen
+
+14. Was gehört zu den Mindestregeln der „Allgemeinen Einsatzstellenhygiene“?
+  An der Einsatzstelle ist grundsätzlich Atemschutz zu tragen.
+x Rauchverbot, Speiseverbot und Trinkverbot an Einsatzstellen, an denen mit Schadstoffen zu rechnen ist
+  Verbot alkoholischer Getränke an der Einsatzstelle
+
+15. Was ist in Bezug auf die Einsatzstellenhygiene nach einem Einsatz zu beachten?
+x verschmutzte Bekleidung ablegen und reinigen lassen
+  verschmutzte Bekleidung ordentlich in den Spind hängen
+  verschmutzte Bekleidung mit nach Hause nehmen und reinigen
+
+16. In den Feuerwehrhäusern und Feuerwachen sind bezüglich der „Allgemeinen Einsatzstellenhygiene“ besondere Bereiche zu schaffen. Wie nennt man diese Bereiche?
+  Rot-Grün-Bereiche
+  Schwarz-Rot-Bereiche
+x Schwarz-Weiß-Bereiche
+
+17. In welchen Situationen und für wen gelten die Regeln der „Allgemeinen Einsatzstellenhygiene“?
+x bei allen Einsätzen und für jeden Feuerwehrangehörigen
+  nur bei GABC-Einsätzen und für jeden Feuerwehrangehörigen
+  nur bei GABC-Einsätzen und für kontaminierte Personen
+
+18. Wie werden Verätzungen mit Säuren und Laugen bei der Not-Dekontamination behandelt?
+x mit viel Wasser drucklos spülen
+  mit einem sterilen Tuch abdecken
+  mit einem wasserfesten Pflaster abdecken
+

@@ -1,0 +1,293 @@
+// 1.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:20:24 Uhr
+
+1. Welche der genannten Maßnahmen ist bei der Versorgung eines Stromunfallopfers zuerst durchzuführen?
+  Atemkontrolle
+  Stabile Seitenlage
+x Spannungsfreiheit herstellen
+
+2. Welche Aussage zur Kühlung einer Verbrennung ist richtig?
+x Eine Kühlung ist nur dann zulässig, wenn das Unfallgeschehen nicht länger als 10 Minuten zurückliegt und nicht mehr als 10 % der Körperoberfläche verbrannt sind.
+  Es muss generell mindestens 15 Minuten lang mit möglichst kaltem Wasser kühlen werden.
+  Das Kühlen von verbrannten Körperregionen ist aus medizinischer Sicht nicht mehr gestattet.
+
+3. Welche Maßnahme muss bei einer bewusstlosen Person durchgeführt werden, nachdem diese in die stabile Seitenlage gebracht worden ist?
+x Wärmeerhalt
+  Kühlung
+  Suche nach weiteren Verletzungen
+
+4. Welche Drucktiefe ist bei der Reanimation eines Erwachsenen erforderlich?
+  eine Drucktiefe von 2 bis 3 cm
+x eine Drucktiefe von 5 bis 6 cm
+  eine Drucktiefe von 5 bis 8 cm
+
+5. Wann darf der Rautek-Rettungsgriff angewendet werden?
+x wenn eine andere Möglichkeit der schnellen und schonenden Rettung nicht besteht (z. B. brennendes Fahrzeug)
+  wenn ein Atemstillstand vorliegt
+  wenn eine Verletzung der Halswirbelsäule vorliegt
+
+6. Woraus besteht eine taktische Einheit?
+x aus der Mannschaft und den Einsatzmitteln
+  aus der Mannschaft und dem Fahrzeug
+  aus der Mannschaft und dem Einheitsführer
+
+7. Welche der nachfolgenden Aufgaben übernimmt der Angriffstrupp nach der FwDV 3?
+  Er sichert gegen fließenden Verkehr.
+  Er baut die Wasserversorgung zwischen Hydrant und Löschfahrzeug auf.
+x Er verlegt seine Schlauchleitung selbst, sofern kein Schlauchtrupp zur Unterstützung bereitsteht.
+
+8. Wie gliedert sich nach der FwDV 3 die Mannschaft einer Gruppe?
+x in Gruppenführer und acht weitere Einsatzkräfte
+  in Mannschaft und Gerät
+  in Mannschaft und Löschfahrzeug
+
+9. Wer verlegt nach der FwDV 3 bei einem Einsatz einer Gruppe mit B-Rohr die B-Rollschläuche vom Verteiler zum befohlenen Ziel?
+x der Angriffs- und der Schlauchtrupp
+  der Angriffs- und der Wassertrupp
+  der Angriffstrupp
+
+10. Wer verlegt nach der FwDV 3 bei einem Einsatz einer Gruppe mit B-Rohr die B-Schlauchleitung mit der fahrbaren Schlauchhaspel bis zum befohlenen Ziel?
+x der Wassertrupp
+  der Schlauchtrupp
+  der Angriffstrupp
+
+11. Was stellt der Schlauchtrupp nach der FwDV 3 bei der Vornahme eines Schaumrohres am Verteiler bereit?
+x den Zumischer, den D-Ansaugschlauch sowie die Schaummittelbehälter
+  nur die Schaummittelbehälter
+  nur den Zumischer
+
+12. Wer bedient nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe den Zumischer?
+  der Maschinist
+x der Schlauchtruppführer
+  der Schlauchtruppmann
+
+13. Wer stellt nach der FwDV 3 bei der Vornahme eines Schaumrohres die Verfügbarkeit des Schaummittels am Zumischer sicher?
+  der Maschinist
+x der Schlauchtruppmann
+  der Schlauchtruppführer
+
+14. Wer kuppelt nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe den Zumischer in die Schlauchleitung ein?
+  der Angriffstrupp
+  der Wassertrupp
+x der Schlauchtrupp
+
+15. Wer stellt nach der FwDV 3 bei der Vornahme eines Schaumrohres die Verbindung zwischen Zumischer und Schaummittelbehälter her?
+  der Wassertrupp
+x der Schlauchtrupp
+  der Angriffstrupp
+
+16. Welche taktische Einheit ist mindestens notwendig, um einen Innenangriff mit Atemschutzgeräten durchführen zu können?
+  eine Gruppe
+x eine Staffel
+  ein Trupp
+
+17. Wer verlegt nach der FwDV 3 die C-Schlauchleitung für den Angriffstrupp bei Vornahme des ersten Rohres?
+  der Wassertrupp
+x Der Angriffstrupp verlegt seine Leitung selbst, sofern kein Schlauchtrupp zur Verfügung steht.
+  der Wassertruppmann und der Maschinist
+
+18. Womit rüstet sich nach der FwDV 3 der Angriffstrupp bei der Vornahme eines BM-Strahlrohres mit B-Rollschläuchen aus?
+  nur mit einem BM-Strahlrohr, dem Schlauchhalter und dem Stützkrümmer
+x mit BM-Strahlrohr, Stützkrümmer, Schlauchhalter, Beleuchtungsgerät, B-Druckschläuchen, Verteiler und ggf. Handsprechfunkgerät
+  mit BM-Strahlrohr, Stützkrümmer, Schlauchhalter und Beleuchtungsgerät
+
+19. Wer unterstützt innerhalb einer Staffel den Wassertrupp ggf. beim Kuppeln der Saugschläuche?
+x der Angriffstrupp
+  der Schlauchtrupp
+  der Melder und der Staffelführer
+
+20. Nach dem Kommando: „Absitzen und vor dem Fahrzeug antreten!“ tritt die Gruppe vor dem Fahrzeug an. Welcher Trupp steht aus der Sicht des Gruppenführers ganz rechts?
+x der Schlauchtrupp
+  der Wassertrupp
+  der Angriffstrupp
+
+21. Welche der nachfolgenden Maßnahmen ist nach der FwDV 3 beim Einsatz mit Bereitstellung richtig?
+  Der Angriffstrupp verlegt immer die B-Schlauchleitung zwischen Pumpe und Verteiler.
+x Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung.
+  Der Angriffs- und der Schlauchtrupp unterstützen immer den Wassertrupp beim Aufbau der Schlauchleitungen.
+
+22. Wo werden nach der FwDV 3 bei der Vornahme eines Schaumrohres vom Angriffstrupp die beiden Schaummittelbehälter, der Zumischer und der D-Ansaugschlauch abgelegt?
+x am Verteiler
+  zwischen Einsatzziel und dem Verteiler
+  zwischen der Pumpe und dem Verteiler
+
+23. Woraus besteht nach der FwDV 3 eine Staffel?
+  aus dem Truppführer und den vier Feuerwehrangehörigen
+x aus der Mannschaft und den Einsatzmitteln
+  aus der Mannschaft und dem TLF 24/50
+
+24. Welche Aufgabe hat nach der FwDV 3 der Angriffstrupp?
+  Er nimmt nur das erste Rohr vor.
+  Er rettet und unterstützt den Staffelführer beim Erkunden der Lage.
+x Er rettet, setzt den Verteiler und nimmt das erste Rohr vor.
+
+25. Beim Einsatz einer Staffel kuppelt der Wassertrupp die Saugschläuche. Wer unterstützt ihn ggf. nach der FwDV 3?
+x der Angriffstrupp
+  der Schlauchtrupp
+  der Melder und der Staffelführer
+
+26. Wer bedient den Zumischer nach der FwDV 3 bei der Vornahme eines Schaumstrahlrohres durch eine Gruppe?
+x der Schlauchtruppführer
+  der Schlauchtruppmann
+  der Wassertruppführer
+
+27. Mit welchen Geräten rüstet sich der Angriffstruppführer bei der Vornahme eines Schaumrohres durch eine Staffel aus?
+  mit einem Schaumstrahlrohr und B-Druckschläuchen
+x mit Beleuchtungsgerät, Verteiler, zwei Schaummittelbehältern und ggf. Handsprechfunkgerät
+  mit Zumischer, D-Ansaugschlauch und B-Druckschläuchen
+
+28. Welche nachfolgende Maßnahme ist nach der FwDV 3 beim Einsatz einer Gruppe mit Bereitstellung richtig?
+  Der Angriffstrupp unterstützt den Wassertrupp beim Verlegen der B-Schlauchleitung zwischen Pumpe und Verteiler.
+x Der Schlauchtrupp unterstützt beim Aufbau der Wasserversorgung.
+  Angriffs- und Schlauchtrupp unterstützen den Wassertrupp beim Aufbau der Schlauchleitungen.
+
+29. Aus wie vielen Personen besteht ein Selbstständiger Trupp im Sinne der taktischen Einheit oder der Fahrzeugbesatzung nach der FwDV 3?
+  aus einem Truppführer und einem Truppmann
+  aus einem Truppführer und zwei Truppmännern
+x aus einem Truppführer, einem Maschinisten und einem Truppmann
+
+30. Welchen Befehl erteilt nach der FwDV 3 der Einheitsführer zur Beendigung des Einsatzes?
+  „Alle Rohre Wasser halt!“
+x „Zum Abmarsch fertig!“
+  „Fahrzeug fahrbereit!“
+
+31. In welcher Situation ist nach der FwDV 3 ein Einsatz mit Bereitstellung durchzuführen?
+  wenn die Mannschaft noch nicht vollzählig ist
+x wenn das Einsatzmittel, das Einsatzziel oder der Einsatzweg noch unklar sind
+  wenn zwischen Verteiler und Pumpe ungünstige Wegverhältnisse oder größere Entfernungen bestehen
+
+32. Wer rüstet sich nach der FwDV 3 bei der Vornahme eines Schaumrohres durch eine Gruppe mit Schaummittelbehältern aus?
+x der Schlauchtrupp
+  der Wassertrupp
+  der Angriffstrupp
+
+33. Welche Tätigkeiten verrichtet der Schlauchtrupp bei einem Einsatz mit Bereitstellung?
+  Er wartet, bis er vom Gruppenführer einen Befehl erhält.
+  Er verlegt die B-Schlauchleitung vom Verteiler zur Pumpe.
+x Er legt ausreichend C-Schlauchmaterial am Verteiler ab und unterstützt erforderlichenfalls den Wassertrupp beim Herrichten der Wasserentnahme.
+
+34. Welche Tätigkeiten verrichtet der Angriffstrupp bei einem Einsatz mit Bereitstellung?
+x Er rüstet sich aus, setzt den Verteiler und stellt sich am Verteiler bereit.
+  Er setzt den Verteiler und verlegt sich seine Leitung selbst.
+  Er rüstet sich aus und stellt sich am Fahrzeug bereit.
+
+35. Welche Menge Schaum (m3) kann mit einem Zumischer mit der Typenbezeichnung „Z 2“ und mit einem Schaumstrahlrohr mit der Typenbezeichnung „S 2“ bei einer 3 %igen Zumischung des Schaummittels in 6 Minuten hergestellt werden (Verschäumungszahl = 15)?
+  ca. 10 m3
+  ca. 12 m3
+x ca. 18 m3
+
+36. Wie nennt man Gase, welche einen Brand in erster Linie durch eine Reduzierung der Sauerstoffkonzentration löschen?
+x Inertgase
+  Antigase
+  Synthesegase
+
+37. Welche Brände können den Einsatz von Netzmitteln erforderlich machen?
+  Brände von Benzin, Alkohol, Diesel
+x Brände von Kunststoffen, Textilballen, Torf
+  Brände von Propan, Wachs, Natrium
+
+38. Was versteht man unter dem Begriff „Zumischung“?
+  Zumischung ist der prozentuale Anteil von Luft am Löschmittel Schaum.
+x Zumischung ist der prozentuale Anteil von Schaummittel im Wasser-Schaummittel-Gemisch.
+  Zumischung ist der prozentuale Eiweißanteil im Protein-Schaummittel.
+
+39. Welche Löschwirkung besitzt D-Löschpulver bei Metallbränden?
+x Trennung von brennendem Metall und Sauerstoff durch Schmelzen und Krustenbildung
+  antidissoziative Löschwirkung
+  Abkühlung des brennenden Metalls durch das hohe Wärmebindungsvermögen des D-Löschpulvers
+
+40. Welche Aussage zu Proteinschaummitteln ist richtig?
+x Aus Proteinschaummitteln lässt sich nur Schwerschaum herstellen.
+  Proteinschaummittel mit Fluorzusatz sind umweltverträglich.
+  Proteinschaummittel sind hydrolysierte Fettalkohole (Tenside).
+
+41. Aus welchen Bestandteilen besteht das Löschgas Inergen?
+x Argon, Stickstoff, Kohlenstoffdioxid
+  Oxygen, Stickstoff, Kohlenstoffdioxid
+  Iridium, Helium, Neon, Kohlenstoffdioxid
+
+42. Was ist bei der Anwendung von Schaummitteln zu beachten?
+x Unterschiedliche Schaummittel dürfen nicht vermischt werden.
+  Schaummittel dürfen im Einsatz nur auf befestigtem Untergrund eingesetzt werden.
+  Zwischen Zumischer und Schaumstrahlrohr darf max. ein B-Schlauch gekuppelt werden.
+
+43. Was ist bei der Handhabung von Schaumstrahlrohren zu beachten?
+  Schaum darf grundsätzlich in elektrischen Anlagen eingesetzt werden.
+x Es darf kein Brandrauch angesaugt werden.
+  Der Truppmann hält das Schaumstrahlrohr und bestimmt bei Kombinationsschaumstrahlrohren, welche Schaumart eingestellt wird.
+
+44. Wie heißt die Schaumart, die mit Schaumstrahlrohren hergestellt wird?
+  Kombinationsschaum
+  Chemischer Schaum
+x Luftschaum
+
+45. Wie bezeichnet man das Löschverfahren, bei dem der Löscherfolg durch Wärmeentzug erreicht wird?
+  Man nennt dieses Verfahren Ersticken.
+x Man nennt dieses Verfahren Abkühlen.
+  Man nennt dieses Verfahren antikatalytisches Löschverfahren.
+
+46. Was ist Schwerschaum?
+x Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft erzeugt wird. Die Verschäumungszahl ist kleiner 20.
+  Schwerschaum ist ein Löschmittel, welches aus einem Wasser-Schaummittelgemisch mit Luft erzeugt wird. Die Verschäumungszahl liegt zwischen 20 und 200.
+  Schwerschaum ist ein Löschmittel, welches auf allen Löschfahrzeugen mitgeführt wird.
+
+47. Was bedeutet bei einem Schaummittel-Zumischer vom Typ Z 4 R das „R“?
+  Rostfreier Zumischer
+x Zumischer mit Zumischregelung
+  Zumischer mit Rückflusssicherung
+
+48. Worauf ist beim Einbau des Schaummittel-Zumischers zu achten?
+  auf einen festen Untergrund
+x auf die Durchflussrichtung des Wassers
+  dass der Zumischer vom Maschinisten noch zu sehen ist
+
+49. Welche Löschwirkung hat ABC-Löschpulver bei einem Flammenbrand?
+  eine exhibitionierende Löschwirkung
+x eine inhibierende Löschwirkung
+  eine habilitierende Löschwirkung
+
+50. Welches Löschmittel wird vorzugsweise bei dem Brand einer Kohlenhalde eingesetzt?
+  Wasser mit einem Feststoffzusatz
+  Schaum mit Spezialzusätzen
+x Wasser mit einem Netzmittelzusatz
+
+51. Ein Schaumstrahlrohr M 4 mit 150facher Verschäumung benötigt in 5 Minuten 60 l Schaummittel bei einer Einstellung des Zumischers von 3 %. Wie viel Liter Luftschaum werden erzeugt?
+x 300.000 Liter
+  90.000 Liter
+  18.000 Liter
+
+52. Wonach richtet sich überwiegend die Anwendung der verschiedenen Löschmittel?
+x nach der Art der brennbaren Stoffe
+  nach den Brandtemperaturen
+  nach der Ausdehnung des Brandes
+
+53. Wie heißt das Löschverfahren, bei dem das Mengenverhältnis zwischen brennbarem Stoff und Sauerstoff verändert wird?
+  Abkühlen
+x Ersticken
+  Reaktionshemmung
+
+54. Was ist ein Netzmittel?
+x ein flüssiger Zusatz zur Herabsetzung der Oberflächenspannung des Wassers
+  eine Flüssigkeit, die durch ihre abkühlende Eigenschaft das Wärmebindungsvermögen des Wassers erheblich verbessert
+  ein flüssiges Löschmittel, das netzförmig auf den brennenden Stoff aufgetragen wird und damit flächendeckend eine erstickende Wirkung erzielt
+
+55. Was wird beim Sprühstrahl durch eine Erhöhung des Druckes am Strahlrohr erreicht?
+  Es wird eine wesentliche Verringerung der Reichweite des Strahls erreicht.
+x Es wird eine feinere Zerstäubung des Sprühstrahls und damit ein größeres Wärmebindungsvermögen erreicht.
+  Es wird eine Wiederannäherung zu einem geschlossenen Strahl und damit ein größerer Löscherfolg des Wassers erreicht.
+
+56. Was ist beim Einsatz von Wasser als Löschmittel zu beachten?
+x Wasser dringt durch seine hohe Oberflächenspannung nur schlecht in feste brennbare Stoffe ein.
+  Wasser wirkt am besten, wenn es in kleinen Mengen und mit niedriger Temperatur bei Bränden der Brandklasse D eingesetzt wird.
+  Wasser schwimmt auf allen brennbaren Flüssigkeiten.
+
+57. Wie wirkt sich die Sauerstoffkonzentration auf das Brennen aus?
+x Unterhalb von 15 Vol.-% erlöschen die meisten brennenden Stoffe.
+  Oberhalb von 21 Vol.-% brennen nur Sprengstoffe.
+  In einer reinen Sauerstoffatmosphäre ist ein Brennen ausgeschlossen.
+
+58. Welche der folgenden Brände werden der Brandklasse F zugeordnet?
+  Feststoffbrände
+x Speiseölbrände
+  Fließbrände
+

@@ -1,0 +1,238 @@
+// Rettungsgeräte.txt
+// automatisch übersetzt am 03 Feb 2023 um 22:19:17 Uhr
+
+1. Wie viele Feuerwehrangehörige werden nach der FwDV 1 „Grundtätigkeiten“ zum Transport einer verletzten Person in einem Rettungstuch benötigt?
+  mindestens zwei Feuerwehrangehörige
+x mindestens drei Feuerwehrangehörige
+  mindestens vier Feuerwehrangehörige
+
+2. Welche Seile bzw. Leinen dürfen nach der FwDV 1 „Grundtätigkeiten“ verwendet werden, um einen Absturz (Halten) auszuschließen?
+  die Mehrzweckleine
+x die Feuerwehrleine bzw. das Kernmantel-Dynamikseil
+  nur das Kernmantel-Dynamikseil
+
+3. Wozu ist die Schaufeltrage besonders geeignet?
+  zum Aufheben einer Person mit einer Fraktur eines Fingers
+x zum Aufheben einer Person mit Verdacht auf eine Wirbelsäulenverletzung
+  zum Aufheben einer Person mit Schnittverletzungen
+
+4. Wie viele Personen dürfen eine aufgerichtete Schiebleiter gleichzeitig besteigen?
+x Nach der FwDV 10 „Die tragbaren Leitern“ darf die Schiebleiter nur mit zwei Personen gleichzeitig bestiegen werden.
+  pro Leiterteil immer nur eine Person
+  Sie kann gleichzeitig mit zwei Trupps bestiegen werden.
+
+5. Wie wird eine Steckleiter auf engem Raum in Stellung gebracht?
+  Auf engem Raum kann eine Steckleiter nicht vorgenommen werden.
+x Die Leiterpaare werden auseinander genommen und durch Untersetzen verlängert.
+  Die Leiterteile werden paarweise senkrecht durch Untersetzen verlängert.
+
+6. Wie viele Personen dürfen eine aufgerichtete Steckleiter gleichzeitig besteigen?
+  eine Person
+x zwei Personen
+  drei Personen
+
+7. Wie viele Feuerwehrangehörige sind nach der FwDV 10 „Die Tragbaren Leitern“ zur Aufstellung einer vierteiligen Steckleiter mindestens einzusetzen?
+  zwei Feuerwehrangehörige
+x drei Feuerwehrangehörige
+  vier Feuerwehrangehörige
+
+8. Darf der vorgehende Trupp die Steckleiter selbst sichern?
+x Ja, der Truppmann sichert und der Truppführer steigt auf. Danach sichert der Truppführer von oben und der Truppmann steigt auf.
+  nein, grundsätzlich nicht
+  Nein, der Trupp wartet, bis der Melder oder ein Sicherungstrupp kommt.
+
+9. Darf eine Steckleiter als Hilfsgerät (z. B. als Bockleiter) benutzt werden?
+  nein, auf keinen Fall
+x ja
+  nur bei besonders schwierigen Fällen
+
+10. Wie wird nach der FwDV 10 „Die Tragbaren Leitern“ die dreiteilige Schiebleiter von den Trupps zur Einsatzstelle getragen?
+x am langen Arm
+  auf den Schultern
+  im Unterarm
+
+11. Wie groß muss der Sicherheitsabstand beim Aufrichten einer Leiter in der Nähe einer elektrischen Freileitung mit mehr als 220.000 Volt Spannung mindestens sein?
+  mindestens 3 m
+  mindestens 4 m
+x mindestens 5 m
+
+12. Mit welchen Gangarten können Leitern nach der FwDV 10 „Die tragbaren Leitern“ bestiegen werden?
+x im Passgang oder im Kreuzgang
+  im Passgang oder im Wechselgang
+  im Kreuzgang oder im Wechselgang
+
+13. Wie groß muss der notwendige Sicherheitsabstand beim Aufrichten einer Leiter in der Nähe einer elektrischen Freileitung mit 30 000 Volt Spannung mindestens sein?
+x mindestens 3 m
+  mindestens 1 m
+  mindestens 2 m
+
+14. Wie werden tragbare Leitern zur Einsatzstelle getragen?
+  hochkant von zwei Feuerwehrangehörigen
+x mit dem Leiterfuß voraus
+  mit dem Leiterkopf voraus
+
+15. Welches Obergeschoss kann in der Regel mit der 4-teiligen Steckleiter erreicht werden?
+  das erste Obergeschoss
+x das zweite Obergeschoss
+  das dritte Obergeschoss
+
+16. Bei welcher nachfolgenden tragbaren Leiter ist die Transportlänge größer als die Einsatzlänge?
+x bei der Klappleiter
+  bei der Steckleiter
+  bei der Schiebleiter
+
+17. Mit welchem Knoten wird nach der FwDV 10 „Die tragbaren Leitern“ das Zugseil der ausgezogenen dreiteiligen Schiebleiter befestigt?
+x mit einem Mastwurf
+  mit einem doppelten Mastwurf
+  mit einem doppelten Ankerstich
+
+18. Wie viele Feuerwehrangehörige sind bei der Vornahme einer 4-teiligen Steckleiter nach der FwDV 10 „Die tragbaren Leitern“ erforderlich?
+  fünf Feuerwehrangehörige
+x drei oder vier Feuerwehrangehörige
+  zwei Feuerwehrangehörige
+
+19. Wer unterstützt nach der FwDV 10 „Die tragbaren Leitern“ die Trupps bei der Entnahme tragbarer Leitern vom Fahrzeug?
+  der Gruppenführer
+  der Melder
+x der Maschinist
+
+20. Wo wird eine vierteilige Steckleiter beim Aufrichten vom Trupp angefasst?
+  an den Sprossen
+x an den Holmen
+  bei vier Leiterteilen grundsätzlich an den Sprossen
+
+21. Welchen Anstellwinkel muss eine angestellte tragbare Leiter haben?
+  Der Anstellwinkel der Leiter muss 48° bis 52° betragen.
+x Der Anstellwinkel der Leiter muss 65° bis 75° betragen.
+  Der Anstellwinkel der Leiter muss 78° bis 85° betragen.
+
+22. Wo ist nach der FwDV 10 „Die tragbaren Leitern“ eine Steckleiter vor dem Aufrichten abzulegen?
+  etwa drei Schritte vor dem Objekt
+x etwa einen Schritt vor dem Objekt
+  direkt am Objekt
+
+23. Was sind nach der FwDV 10 „Die tragbaren Leitern“ tragbare Leitern?
+  Tragbare Leitern sind Leitern und Leiterteile, die ein Höchstgewicht von 100 kg haben dürfen.
+x Tragbare Leitern sind die Leitern, die auf Fahrzeugen mitgeführt und von der Mannschaft zum Einsatz getragen werden.
+  Tragbare Leitern sind genormte Leitern und Leiterteile.
+
+24. Wofür können nach der FwDV 10 „Die tragbaren Leitern“ tragbare Leitern eingesetzt werden?
+  nur als Rammbock zum Aufbrechen verschlossener Türen
+  nur zum Erreichen von Zielen oberhalb der Standebene
+x als Rettungsweg, Angriffsweg und als Hilfsgerät
+
+25. Wie viele Steckleiterteile werden maximal benötigt, um das erste Obergeschoss (Oberkante Brüstung ca. 5 m) sicher zu erreichen?
+  zwei Steckleiterteile
+x drei Steckleiterteile
+  vier Steckleiterteile
+
+26. Bis zu welcher Höhe darf die Hakenleiter eingesetzt werden?
+  bis zu einer Höhe von 20 Meter
+x Die Einsatzhöhe der Hakenleiter ist durch die Gebäudehöhe begrenzt.
+  nur bis zum achten Obergeschoss
+
+27. Dürfen Holz- und Leichtmetall-Leiterteile von Steckleitern zusammen verwendet werden?
+  nein, weil sie nicht zusammenpassen
+  ja, aber nur als Bockleiter
+x Ja, sie können zusammengesteckt werden.
+
+28. Wie viele Steckleiterteile dürfen höchstens zusammengesteckt werden, damit die Leiter noch bestiegen werden darf?
+x vier Steckleiterteile
+  fünf Steckleiterteile
+  sechs Steckleiterteile
+
+29. Aus welchem Material können Steckleitern hergestellt werden?
+  nur aus Holz
+  aus Holz und aus Stahl
+x aus Holz und aus Leichtmetall
+
+30. Darf eine Steckleiter als Hilfsgerät benutzt werden?
+  ja, aber nur zur Menschenrettung
+  nein, auf keinen Fall
+x ja
+
+31. Wie sind tragbare Leitern aufzustellen?
+x Sie sind standsicher aufzustellen und beim Übersteigen der Leiter müssen diese mindestens 1 m über die Übersteigstelle hinausragen, wenn nicht andere gleichwertige Möglichkeiten zum Festhalten vorhanden sind.
+  Der Überstand muss 0,5 Meter betragen.
+  Der Anstellwinkel muss 60° - 68° betragen und der Überstand muss eine Sprosse sein.
+
+32. Wodurch sind Steckleiterteile nach dem Einstecken gesichert?
+  durch Beschläge
+  durch Fallhaken
+x durch Federsperrbolzen
+
+33. Wie sollen Leitern bestiegen werden?
+x im Pass- oder Kreuzgang, wobei die Sprossen im Klammergriff zu umfassen sind
+  Erlaubt ist nur der Kreuzgang, wobei die Sprossen im Klammergriff zu umfassen sind.
+  im Pass- oder Kreuzgang, wobei die Holme im Klammergriff zu umfassen sind
+
+34. Welche nachfolgende Leiter ist nicht genormt?
+  die dreiteilige Schiebleiter
+x die zweiteilige Schiebleiter
+  die Hakenleiter
+
+35. Welches Obergeschoss kann mit der 4-teiligen Steckleiter maximal erreicht werden?
+x das zweite Obergeschoss (Oberkante Brüstung = 7,5 m über Erdboden)
+  das dritte Obergeschoss (Oberkante Brüstung = 10,5 m über Erdboden)
+  das erste Obergeschoss
+
+36. Wie viele Trupps werden zum In-Stellung-Bringen der dreiteiligen Schiebleiter benötigt?
+  ein Trupp
+  ein Trupp und der Melder
+x zwei Trupps
+
+37. Mit wie vielen Feuerwehrangehörigen wird nach der FwDV 10 „Die tragbaren Leitern“ die Steckleiter vorgenommen?
+  mit zwei oder drei Feuerwehrangehörigen
+  mit mindestens vier Feuerwehrangehörigen
+x mit drei oder vier Feuerwehrangehörigen
+
+38. Welche der nachfolgend aufgeführten tragbaren Leitern sind nicht genormt?
+  die dreiteilige Schiebleiter und die Steckleiter
+  die Hakenleiter und die Klappleiter
+x die zweiteilige Schiebleiter und die Strickleiter
+
+39. Mit welcher tragbaren Leiter kann nach der FwDV 10 „Die tragbaren Leitern“ eine Bockleiter errichtet werden?
+x mit der Steckleiter
+  mit der Klappleiter
+  mit der dreiteiligen Schiebleiter
+
+40. Wie viele Feuerwehrangehörige sichern eine Steckleiter, die nur bis zum ersten Obergeschoss eingesetzt wird?
+  Hier braucht man keine Sicherung.
+x Ein Feuerwehrangehöriger ist hier ausreichend.
+  Zwei Feuerwehrangehörige werden benötigt.
+
+41. Muss eine tragbare Leiter bei einer Menschenrettung über die Übersteigebene hinausragen?
+  Ja, mindestens 1 m, das entspricht ungefähr drei Sprossen.
+x Nein, bei der Menschenrettung kann davon abgesehen werden.
+  ja, mindestens zwei Sprossen
+
+42. Darf beim Besteigen einer 4-teiligen Steckleiter der vorgehende Trupp sich selbst sichern?
+x Ja, ein Feuerwehrangehöriger sichert, der andere Feuerwehrangehörige steigt.
+  grundsätzlich nein
+  ja, aber nur dann, wenn der Melder nicht da ist.
+
+43. Wodurch wird die Standsicherheit von tragbaren Leitern beeinträchtigt?
+  wenn eine Schlauchleitung frei von der Leiter herunterhängt und die Leiter am Kopfende gesichert ist
+  wenn die Leiter mit Stützstangen gesichert ist
+x wenn beim Wassergeben von der Leiter die Leiter am Kopfende nicht befestigt ist
+
+44. Eine Steckleiter wird vom Angriffstrupp und dem Melder in Stellung gebracht. An welcher Stelle trägt der Melder nach der FwDV 10 „die tragbaren Leitern“ die Leiter?
+  am Kopfende
+x am Fußende
+  Die Trageweise ist beliebig.
+
+45. Bis in welche Höhe darf eine Schlauchleitung über eine tragbare Leiter von einem Feuerwehrangehörigen mitgeführt werden?
+  das ist generell verboten
+x bis zum ersten Obergeschoss
+  bis zum zweiten Obergeschoss
+
+46. Bis zu welchem seitlichen Winkel darf ein Strahlrohr von einer Leiter eingesetzt werden?
+  10° zu beiden Seiten
+x 15° zu beiden Seiten
+  20° zu beiden Seiten
+
+47. Darf von einer tragbaren Leiter Wasser gegeben werden?
+  nein
+  ja, aber bis zur Höhe eines Steckleiterteils
+x ja, wenn die Leiter am Leiterkopf befestigt und der Strahlrohrführer mit einem Sicherheits- oder Haltegurt gesichert ist
+

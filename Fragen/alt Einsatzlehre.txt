@@ -1,0 +1,384 @@
+// alt Einsatzlehre.txt
+// automatisch übersetzt am 18 Jun 2009 um 21:59:21 Uhr
+// Copyright Hessische Landesfeuerwehrschule
+
+1. Wie öffnen Sie die Tür zu einem Raum, in dem Sie einen Schwelbrand vermuten müssen?
+  Die Tür schnell öffnen, nach Feuerschein Ausschau halten, danach in aufrechter Haltung vorgehen.
+  Die Tür öffnen, nach 5 Minuten Wartezeit eindringen.
+x Die Tür in gebückter Haltung vorsichtig öffnen, Türblatt bzw. Wand als Deckung nutzen, einige Sekunden abwarten, dann vorgehen.
+
+2. Was kann die Aufnahme von Löschwasser bei Hülsenfrüchten oder Getreidekörnern, die in einem Silo oder Bunker gelagert sind, bewirken?
+  Es findet eine unkontrollierte chemische Reaktion statt.
+  Durch das Quellen der Güter werden Faulgase freigesetzt, die zu einer Raumexplosion führen können.
+x Es kann eine so große Volumenvergrößerung der Früchte und Körner stattfinden, dass die Wände des Silos oder des Bunkers auseinandergerückt werden.
+
+3. Was bedeutet ein "X" vor einer Gefahrnummer auf der orangefarbigen Warntafel eines Tanklastkraftwagens?
+x Der im Tank befindliche Stoff reagiert in gefährlicher Weise mit Wasser.
+  Es handelt sich um einen unbekannten chemischen Stoff.
+  Bei einem Unfall die Ladung sofort mit Wasser kühlen.
+
+4. Welcher Sicherheitsabstand muss bei Niederspannungsanlagen zu spannungsführenden Teilen bei der Vornahme eines CM-Strahlrohres mit Vollstrahl bei einem Strahlrohrdruck von 5_bar eingehalten werden?
+x mindestens   5 m
+  mindestens 10 m
+  mindestens   1 m
+
+5. Welches Löschmittel darf bei Schornsteinbränden nicht eingesetzt werden?
+  Glutbrandpulver
+  Kohlenstoffdioxid
+x Wasser
+
+6. Wie wird eine Person beim Herabführen über tragbare Leitern gesichert?
+x durch einen Brustbund, der durch einen Pfahlstich geschlossen und mit einem Spierenstich gesichert wird.
+  die Rettungsschlinge mit Kreuzknoten
+  ein Mastwurf
+
+7. Welche der folgenden Maßnahmen sind in einer "Besonderen Gefahrenlage", z. B. Einsturz oder Explosion, zu treffen?
+  Die Schlauchleitungen müssen sofort zurückgenommen werden.
+x Sofort Signal geben und Mannschaft am Fahrzeug sammeln.
+  Die Mannschaft sammelt sich unverzüglich am Verteiler.
+
+8. Welches Löschmittel kann bei Schornsteinbränden wirkungs- und sinnvoll eingesetzt werden?
+  Wasser
+  Schaum
+x ABC-Löschpulver
+
+9. Welche Maßnahmen sind im Brandfall bei der Bergung einer Acetylenflasche zu treffen?
+x Die Flasche aus guter Deckung kühlen, wenn möglich das Flaschenventil schließen, die Flasche ins Freie bringen, 24_Stunden im Wasserbehälter kühlen, das Füllwerk verständigen lassen.
+  Die Flasche mit Vollstrahl kühlen, nicht berühren, erst nach der Brandbekämpfung bergen, die Flasche dem Werkstattleiter übergeben.
+  Das Flaschenventil öffnen bzw. geöffnet lassen, die Flasche mit Luftschaum abdecken, nach der Brandbekämpfung durch eine Kurzprüfung feststellen, ob die Flasche weiterhin verwendet werden kann.
+
+10. Welche Reaktion ist bei der Lagerung von ungelöschtem Kalk und Verwendung von Löschwasser zu erwarten?
+  Es ist keine besondere Reaktion zu erwarten.
+x Ungelöschter Kalk reagiert chemisch mit Wasser; dadurch entstehen Temperaturen von ca. 400_°C.
+  Möglicherweise entsteht explosives Knallgas.
+
+11. Unter welchen Umständen können statische Aufladungen besonders gefährlich sein?
+x beim Vorhandensein explosibler Dampf/Gas-Luftgemische
+  bei vorhandener elektrischer Hochspannung
+  in hochempfindlichen Brandschutzanlagen
+
+12. Von welchem Gefahrenschwerpunkt geht die größte Gefahr aus?
+  an der Stelle der größten Wärmeentwicklung
+  an der Stelle einer möglichen Brandausdehnung
+x an der Stelle, an der Explosionsgefahr herrscht
+
+13. Auf welche Gefahr ist bei der Bekämpfung eines Dachstuhlbrandes besonders zu achten?
+  auf das Durchbrennen der Dachhaut
+  auf die Brandtemperatur
+x auf das Versagen tragender Bauteile
+
+14. Was ist bei Bränden in geschlossenen Räumen zu erwarten, wenn plötzlich Luft (Sauerstoff) zugeführt wird?
+  Das Feuer geht aus.
+  Eine Detonation wird folgen.
+x Es muss mit Feuerübersprung/Stichflamme gerechnet werden.
+
+15. Bei einem Brand in einem landwirtschaftlichen Betrieb entstehen Atemgifte, die eine rotbraune Färbung haben. Um welche Atemgifte könnte es sich handeln?
+  Kohlenmonoxid
+x Nitrose Gase
+  Schwefeldioxid
+
+16. Welche ist die richtige Erklärung für die untere Explosionsgrenze?
+  Die untere Explosionsgrenze kennzeichnet eine Temperatur, bei der eine Explosion frühestens möglich ist.
+x Die untere Explosionsgrenze gibt die niedrigste Konzentration eines brennbaren Stoffes im Gemisch mit Luft an, bei der sich nach dem Entzünden ein Brennen gerade nicht mehr selbständig fortpflanzen kann.
+  Die untere Explosionsgrenze gibt an, wie hoch der Sauerstoffgehalt der Luft mindestens sein muss, damit eine Explosion noch möglich ist.
+
+17. Welche Gefahr kann von statischen Auf- bzw. Entladungen ausgehen?
+x Explosionsgefahr beim Vorhandensein eines zündfähigen Gas-Luftgemisches.
+  Unfallgefahr durch elektrischen Strom beim Berühren eines durch statische Aufladung geladenen Gegenstandes.
+  Die Sicherung des Stromerzeugers kann ausgelöst werden und die angeschlossenen Geräte sind nicht mehr einsatzbereit.
+
+18. Welcher Abstand ist mindestens einzuhalten, wenn man sich der Berührungsstelle einer gerissenen und am Boden liegenden Hochspannungsleitung (außer Fahrdraht einer Bahnstrecke) nähert?
+  Es muss mindestens ein Abstand von 10_m eingehalten werden.
+x Es muss mindestens ein Abstand von 20_m eingehalten werden.
+  Es muss mindestens ein Abstand von 30_m eingehalten werden.
+
+19. Welche der nachstehenden Löschmittel eignen sich besonders zum Einsatz in elektrischen Anlagen?
+  Schwer und Mittelschaum
+x Kohlendioxid
+  BC- und ABC-Pulver
+
+20. Welche Aussage ist bei Unfällen im Umgang mit elektrischem Strom hinsichtlich der Wirkungen auf den menschlichen Körper richtig?
+  Der Weg, den der Strom im Körper nimmt, spielt keine Rolle.
+x Die Wirkung ist abhängig vom menschlichen Körperwiderstand und den Begleitumständen wie Zustand der Standfläche, Schuhsohlen, etc..
+  Die Zeit der Stromeinwirkung ist nur bei Hochspannung von Bedeutung.
+
+21. In stark verqualmten Räumen gehen Sie unter Atemschutz vor. Warum gehen Sie dicht am Boden zum Einsatzort und gehen nicht aufrecht?
+x Die Dichte des Brandrauches nimmt, wenn er nicht abziehen kann, von unten nach oben zu. Deshalb sind in Bodennähe die besten Sichtverhältnisse.
+  In Bodennähe befinden sich keine Atemgifte und eine Vergiftungsgefahr bei defektem Atemschutzgerät besteht nicht.
+  Weil das Atemschutzgerät beim aufrechten Gang zu schwer ist.
+
+22. Warum sollte man bei einem Kellerbrand die Kellertreppe rückwärts dicht an den Treppenstufen hinunter gehen?
+  Wegen der besseren Orientierung am Geländer.
+  Das ist die beste Möglichkeit, die Schlauchreserve nachzuziehen.
+x Um bei einer evtl. Stichflammenbildung den Flammen nicht unmittelbar direkt von vorne ausgesetzt zu sein.
+
+23. Welche der nachfolgend genannten Maßnahmen ist geeignet, um sich vor Atemgiften in Gebäuden zu schützen?
+x das Tragen von umluftunabhängigen Atemschutzgeräten
+  das Tragen von umluftabhängigen Atemschutzgeräten
+  mit dem Wind vorgehen
+
+24. Sie haben den Auftrag, einen Gebäudeabschnitt nach einer vermissten Person abzusuchen. Ein Raum mit einer Brandschutztür ist verschlossen. Welche der nachfolgend aufgeführten Verhaltensweisen ist in einem solchen Fall richtig?
+  Man versucht die Tür sofort aufzubrechen.
+  Man sucht zunächst an den noch verbleibenden zugänglichen Stellen und kümmert sich danach um den verschlossenen Raum.
+x Man gibt dem Gruppenführer (Einsatzleiter) unverzüglich Meldung über die vorgefundene Lage und erwartet weitere Befehle.
+
+25. Bis zu welcher Höhe ist eine 4-teilige Steckleiter noch sicher einsetzbar?
+  bis zu einer Höhe von 6 m
+x bis zu einer Höhe von 7 m
+  bis zu einer Höhe von 8 m
+
+26. Eine Person war in einem zugefrorenen Weiher eingebrochen und konnte gerettet werden. Welche weiteren Maßnahmen sind nun zu treffen?
+  Der Kreislauf muss schnellstens wieder in Gang gebracht werden, daher muss die gerettete Person ständig in Bewegung gehalten werden.
+x Die Vitalfunktionen sind sicherzustellen und die Person muss unverzüglich ärztlich betreut werden.
+  Die Person muss auf jeden Fall entkleidet werden und ist anschließend in Decken zu hüllen.
+
+27. Wie verhält sich ein Trupp, der unter Atemschutz in stark verrauchte Räume zur Brandbekämpfung vorgeht?
+  Er schließt alle Fenster und Türen, damit das Feuer erstickt.
+x Er geht in gebückter Haltung oder am Boden kriechend vor.
+  Er sorgt nicht für Rauchabzug, damit keine freie Sicht herrscht.
+
+28. Warum dürfen Schornsteinbrände nicht mit dem Löschmittel Wasser gelöscht werden?
+  Das Löschwasser läuft ohne Löschwirkung sofort aus der im Keller befindlichen Reinigungsklappe.
+x Weil das Löschwasser an den heißen Schornsteinflächen verdampft und durch die ca. 1700-fache Volumenvergrößerung der Schornstein zerstört werden kann.
+  Weil Pulver das einzige Löschmittel für Schornsteinbrände ist.
+
+29. In welcher Entfernung muss auf einer Autobahn oder Kraftfahrstraße gemäß der FwDV_1/2 Grundtätigkeiten -Technische Hilfeleistung und Rettung- erstmalig eine Unfallstelle abgesichert werden?
+  ca. 200 m
+  ca. 500 m
+x ca. 800 m
+
+30. Welche der nachfolgend aufgeführten Teile eines Kraftfahrzeuges dürfen nicht mit einem Schneidgerät S_90 geschnitten werden?
+  Türholme, Lenkrad und Heckklappe
+x Lenksäule und Spurstange
+  Dachholme, Sitzrückenlehne und Kofferraumdeckel
+
+31. Wie weit dürfen Sie sich gefahrlos einer auf dem Boden liegenden 15_kV-Fahrleitung der Deutschen Bahn AG_nähern?
+x maximal auf 10 m
+  maximal auf   5 m
+  maximal auf   1 m
+
+32. An welchen Einsatzstellen können Trennschleifmaschinen zum Befreien von Personen nicht eingesetzt werden?
+  an Einsatzstellen mit Einsturzgefahr
+x an Einsatzstellen mit Explosionsgefahr
+  Zum Befreien von Personen dürfen die Geräte grundsätzlich eingesetzt werden.
+
+33. An welchen äußeren Merkmalen erkennt man eine Acetylengasflasche?
+x an der Farbe, an der Form des Handrades und an dem Bügelverschluss
+  an der Aufschrift Gas
+  an der besonderen Flaschenform
+
+34. Bei einem Einsatz zur Menschenrettung aus einem landwirtschaftlichen Futtermittel-Silo muss mit Atemgiften im Silo gerechnet werden. Welche Atemgifte können dort auftreten?
+x Atemgifte mit erstickender Wirkung
+  Atemgifte mit Reiz- und Ätzwirkung
+  Atemgifte in fester Form (Partikel)
+
+35. Unter welchen Gesichtspunkten werden die brennbaren Flüssigkeiten gemäß VbF_eingeteilt?
+x nach dem Flammpunkt und der Mischbarkeit mit Wasser
+  nach den Explosionsgrenzen
+  nach der Brennbarkeit
+
+36. Mit welchen Atemgiften müssen Sie bei einem Zimmerbrand im Inneren des Gebäudes immer rechnen?
+  mit nitrosen Gasen
+x mit Kohlenstoffmonoxid
+  mit Benzindämpfen
+
+37. Was kann geschehen, wenn Sie einen Behälter mit brennendem Fett, z. B. eine Friteuse, mit Wasser ablöschen?
+x Es kann zu einer Fettexplosion kommen.
+  Das brennende Fett wird schlagartig gelöscht.
+  Das brennende Fett wird abgekühlt und erstarrt.
+
+38. Zur Brandbekämpfung steht ein Trupp in Gebäudenähe. Wie ist der Sicherheitsabstand vor einsturzgefährdeten Wänden zu ermitteln?
+  Der Sicherheitsabstand entfällt.
+x Das ca. 1,5-fache der Gebäudehöhe in Metern.
+  Der Sicherheitsabstand muss immer 30_m betragen.
+
+39. Wo wird die dreiteilige Schiebleiter beim Besteigen gesichert?
+x an den Stützstangen
+  an den Holmen
+  an den Stützstangen und den Holmen
+
+40. Der Angriffstrupp ist als Atemschutztrupp bei einem Kellerbrand eingesetzt. Wieviel Rettungstrupps müssen zum Einsatz bereitstehen?
+x mindestens ein Trupp
+  Nur bei besonderen Gefahren (z. B. Explosionsgefahr) muss ein Rettungstrupp zum sofortigen Einsatz bereitstehen.
+  Zur Sicherheit des Atemschutztrupps sollte mindestens ein Feuerwehrangehöriger bereitstehen.
+
+41. Dürfen Angehörige der Jugendabteilung zum Einsatzdienst eingeteilt werden?
+x nein
+  Ja, sie dürfen aber nur verkehrsregelnde Maßnahmen durchführen.
+  Ja, sie dürfen aber nur Tätigkeiten außerhalb des Gefahrenbereiches ausüben.
+
+42. Welches Löschgerät ist nach Möglichkeit bei der Bekämpfung von Kleinbränden in Gebäuden einzusetzen?
+  ein Schaumrohr
+x die Kübelspritze
+  ein Pulverlöscher
+
+43. Wie kann eine explosionsfähige Atmosphäre am Einsatzort nachgewiesen werden?
+x mit einem Explosionsgrenzen-Warngerät
+  mit Ionisations-Meldern
+  mit einem Dosisleistungs-Messgerät
+
+44. Wo dürfen Einsatzkräfte bei freistehenden Giebelwänden nicht eingesetzt werden?
+x im Trümmerschatten
+  außerhalb des Trümmerschattens
+  auf der Längsseite des Objektes
+
+45. Wo sind an der Einsatzstelle die ersten Maßnahmen zur Gefahrenbekämpfung zu treffen?
+  an der Wasserentnahmestelle
+x am Gefahrenschwerpunkt
+  im Feuerwehrhaus
+
+46. Welcher Mindestabstand muss im Einsatz von der Schadenstelle eingehalten werden, wenn radioaktive Stoffe vorhanden sind?
+x mindestens 25 m
+  mindestens 30 m
+  mindestens 40 m
+
+47. Welche der aufgeführten Maßnahmen ist beim gewaltsamen Eindringen in die Brandstelle besonders vorsichtig durchzuführen, um Verletzungen zu vermeiden?
+x das Einschlagen der Fensterscheiben
+  das Verlegen der Schlauchleitung
+  das Aufbrechen einer Tür
+
+48. Was ist vor dem Eindringen in die Brandstelle und vor Aufnahme der Brandbekämpfung mindestens bereitzustellen?
+x Wasser am Strahlrohr oder ein betriebsbereiter Feuerlöscher
+  Tragbare Leitern
+  das Brechwerkzeug und die Atemschutzmasken
+
+49. Wer befiehlt gemäß FwDV 4 dem Angriffstrupp den Angriffsweg?
+  der Wehrführer
+  der Zugführer
+x der Gruppenführer
+
+50. Worauf ist beim Dachstuhlbrand besonders zu achten?
+x auf die Knotenpunkte tragender Teile
+  Es ist darauf zu achten, dass die Dachpfannen erhalten bleiben.
+  Es ist darauf zu achten, dass der Schornstein nicht angespritzt wird.
+
+51. Warum soll man nicht mit Wasser in Rauch und Flammen spritzen?
+x Brände müssen am Entstehungsort (z. B. Glut) bekämpft werden, um einen Löscherfolg zu erzielen.
+  Es kommt zu einem Wassermangel.
+  Es entstehen Atemgifte.
+
+52. Welche Verfahrensweise ist bei der Vornahme eines CM-Strahlrohres im Innenangriff zu bevorzugen?
+  In regelmäßigen Zeitabständen sollte aus dem Strahlrohr Wasser gegeben werden.
+  Während des Innenangriffes ist ständig Wasser in Form von Sprühstrahl abzugeben.
+x Erst wenn der Brandherd gefunden wurde, sollte Wasser vom Strahlrohr abgegeben werden.
+
+53. Worauf ist bei einem Innenangriff in jedem Fall zu achten?
+  Die Verbindung zum Gruppenführer ist ständig zu prüfen.
+x Der Rückweg ist durch geeignete Maßnahmen zu sichern.
+  Die freie Sicht nach außen ist ständig zu gewährleisten.
+
+54. Welche Art der Erkundung ist bei einem Gefahrgutunfall richtig?
+  Die Erkundung muss so nah wie möglich am Objekt, auch ohne entsprechende Schutzausrüstung, erfolgen.
+x Die Erkundung hat aus dem größtmöglichen Sicherheitsabstand heraus zu erfolgen.
+  Für die Erkundung sind Informationen des Fahrers auf jeden Fall ausreichend.
+
+55. Welches ist aus einsatztaktischen Gesichtspunkten die günstigste Methode zur Sicherung des Rückzugweges bei einem Innenangriff?
+  Die Sicherung mit der Feuerwehrleine.
+  Die Sicherung durch Mitnahme eines Handsprechfunkgerätes.
+x Das Vorgehen mit Wasser am Strahlrohr.
+
+56. Welche der nachfolgend aufgeführten Flüssigkeiten ist brandgefährlicher?
+x eine Flüssigkeit mit einem Flammpunkt von -20_°C
+  eine Flüssigkeit mit einem Flammpunkt von 21_°C
+  eine Flüssigkeit der Gefahrklasse_A_II_gemäß der VbF
+
+57. Warum muss beim Einsatz von Strahlrohren eine ausreichende Schlauchreserve sichergestellt werden?
+  Damit die Schläuche ordentlich in Buchten liegen.
+  Damit beim Platzen eines Schlauches ein schneller Ersatz möglich ist.
+x Damit der Trupp mit seinem Strahlrohr beweglich ist.
+
+58. Was muss bei verqualmten Räumen unternommen werden?
+x Die Räume sind zu lüften, damit sich die Sicht verbessert.
+  Auf keinen Fall lüften, da sonst die Sauerstoffzufuhr verbessert wird.
+  Die Räume nicht betreten, d. h., nur von außen löschen.
+
+59. Womit können Sie die Atmosphäre (Umluft) auf Explosionsfähigkeit untersuchen?
+  mit Prüfröhrchen und Pumpe
+x mit Explosionsgrenzenwarngeräten
+  mit einem Ionisations-Messgerät
+
+60. Welche der nachfolgenden Dienststellen bzw. Behörden ist für die Ermittlung der Brandursache zuständig?
+  die Feuerwehr
+  der Brandverhütungsbeauftragte des Landkreises
+x die Polizei
+
+61. Welche maximale Leitungsnetzlänge (Verlängerungsnetz) darf gemäß FwDV_1/2 (Grund-tätigkeiten -Technische Hilfeleistung und Rettung-) an einen im Feuerwehrdienst eingesetzten Stromerzeuger angeschlossen werden, damit zwischen jeweils zwei Verbrauchern nicht mehr als 100_m Leitungslänge liegen?
+x maximal 150 m
+  maximal 250 m
+  maximal 100 m
+
+62. Welcher Mindestabstand ist gemäß der VDE_0132 bei Annäherung z. B. Erkundung und Rettung, an unter Spannung stehenden Niederspannungsanlagenteilen einzuhalten?
+x mindestens 1 m
+  mindestens 3 m
+  mindestens 5 m
+
+63. Welche Bedeutung hat die obere Zahlenreihe auf einer orangefarbenen Warntafel eines Tankfahrzeuges?
+  Sie ist eine Schlüsselnummer für den geladenen Stoff.
+x Sie gibt Hinweise über die Gefahren, die vom geladenen Stoff ausgehen.
+  Sie kennzeichnet die Transportkategorie.
+
+64. Wer bestimmt die Anzahl der Leiterteile beim Einsatz einer Steckleiter zum ersten Obergeschoss?
+x der Angriffstruppführer
+  der Melder, weil er am Fußende geht
+  der Gruppenführer
+
+65. Darf man bei einer Steckleiter, die bei einer Eisrettung (eingebrochene Person) in waagerechter Lage (auf dem Eis liegend) eingesetzt wird, mehr als 4_Leiterteile einsetzen?
+  ja, aber höchstens nur 5 Leiterteile
+x ja
+  nein
+
+66. Der Angriffstruppmann bemerkt eine besondere Gefahr (Explosion, Einsturz usw.)! Welche Maßnahme leitet er ein?
+  Er meldet es seinem Truppführer.
+  Er bringt sich alleine in Sicherheit.
+x Er gibt unverzüglich das Signal "Alle sofort zurück".
+
+67. Der Wassertruppführer stellt beim Einsatz fest, dass er mehr Wasser geben muss! Wer erteilt dem Trupp den Auftrag, das Strahlrohrmundstück abzuschrauben?
+  Er braucht keinen Auftrag.
+  Der Truppführer nach Absprache mit seinem Truppmann.
+x der Gruppenführer
+
+68. Feuerwehrleinen gemäß DIN 14 920_gehören zur persönlichen Ausrüstung! Welche Leinenlänge ist genormt?
+  20 m
+x 30 m
+  35 m
+
+69. Bei einem BM-Strahlrohreinsatz sollen an den Verteiler noch zwei CM-Strahlrohre angekuppelt werden! Wie benennt man das Rohr, welches rechts am Verteiler angekuppelt wird?
+  1. Rohr
+x 2. Rohr
+  Sonderrohr
+
+70. Was müssen Feuerwehrangehörige tragen, die sich im Bereich von Verkehrswegen aufhalten?
+x Sie müssen Warnwesten gemäß DIN EN_471 oder die Feuerwehrüberjacke tragen.
+  Wenn sie ein Blinkgerät gemäß STVO_oder eine Winkerkelle tragen, kann auf das Tragen der Warnwesten verzichtet werden.
+  Wenn die Straße abgesperrt ist, benötigen Feuerwehrangehörige keinerlei Warnkleidung.
+
+71. Welche Aussage ist bezüglich des gewaltsamen Eindringens in ein Brandobjekt richtig?
+x Nicht mehr Schaden verursachen als unbedingt notwendig ist.
+  Der angerichtete Schaden zählt nicht und wird von der Versicherung gedeckt.
+  Das Aufbrechen der Haustür muss immer erfolgen.
+
+72. Was ist bei einem Löschangriff, bei dem in das Gebäude eingedrungen wird, besonders zu beachten?
+  Man muss nur prüfen, ob die Kellertür offen ist.
+  Man muss prüfen, ob der Eigentümer das Feuer nicht mit eigenen Mitteln selbst löschen kann.
+x Man muss Wasser am Strahlrohr haben und darf nie einen Feuerwehrangehörigen allein vorgehen lassen.
+
+73. Starke Rauchentwicklung in Räumen bedeutet meistens eine unvollkommene Verbrennung! Wie muss der Trupp vorgehen?
+  Er muss alle Fensterscheiben einschlagen, damit der Rauch abzieht.
+x Er muss dicht am Boden kriechend vorgehen, weil hier oft noch einigermaßen Sicht ist.
+  Er muss mit Atemschutzmaske und Filter vorgehen.
+
+74. Die Brandbekämpfung ist beendet. Was ist danach zu tun?
+  Das Mauerwerk muss eingerissen werden.
+x Nachlöscharbeiten müssen gewissenhaft durchgeführt werden.
+  Die Brandursache muss vom Einsatzleiter ermittelt werden.
+
+75. Wer ist beim Schornsteinbrand neben der Feuerwehr unbedingt zu alarmieren?
+  das Ordnungsamt
+  der Kreisbrandinspektor
+x der Bezirkschornsteinfegermeister
+
+76. Welches gefährliche Atemgift entsteht überwiegend bei Bränden, die unter Sauerstoffmangel verlaufen?
+  Kohlenstoffdioxid
+  Schwefeldioxid
+x Kohlenstoffmonoxid
+

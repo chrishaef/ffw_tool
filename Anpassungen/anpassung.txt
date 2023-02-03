@@ -1,0 +1,14 @@
+// Dateiname  	= anpassung.txt
+// Ordner	= Anpassungen
+
+StartBild: startbild.jpg
+
+FensterTitel: Fragebogentool Feuerwehr Buchenrod
+
+UrkundeName: FFW Buchenrod
+UrkundeOrt: Buchenrod
+
+#LiesMich: liesmich.txt
+
+// Der Liesmich-Menü-Punkt wird als 'Info' angezeigt
+#LiesMichMenü: Info
