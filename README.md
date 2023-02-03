@@ -1,7 +1,7 @@
 Hallo Kameraden!
 
 Zur Nutzung des Lern-Tools einfach das Archiv "Fragentool_ffw.zip" herunterladen und entpacken.
-https://github.com/chrishaef/ffw_tool/raw/main/fragebogen.exe
+https://github.com/chrishaef/ffw_tool/raw/main/Fragentool_ffw.zip
  
 
 Zum starten "Fragebogen.exe" ausführen.
