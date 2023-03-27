@@ -10,11 +10,8 @@ Im Anschluss den eigenen Benutzernamen eingeben und speichern.
 
 
 Das Programm kann auch auf einem USB Stick ausgeführt werden.
-Dazu das Archiv "Fragentool_ffw.zip" auf einem USB Stick im Stammverzeichnis oder einem Ordner entpacken und ausführen.
-Lernfortschritt, Einstellungen etc. bleiben erhalten und der USB Stick kann auf jedem Windows Computer ausgeführt werden. 
+Dazu das Archiv "Fragentool_ffw.zip" auf einem USB Stick im Stammverzeichnis oder einem Ordner entpacken und ausführen. Lernfortschritt, Einstellungen etc. bleiben erhalten und der USB Stick kann auf jedem Windows Computer ausgeführt werden. 
 
-Wer mobil lernen möchte, kann das unter https://feuerwehrfragen.de/ auf jedem Gerät tun, welches einen Internetzugang hat.
-Auch hier kann ein Benutzerkonto angelegt werden.
-
+Wer mobil lernen möchte, kann das unter http://www.pierrebesson.de/fragenkatalog/ffw.html auf jedem Gerät tun, welches einen Internetzugang hat. 
 
 grüße Chris
